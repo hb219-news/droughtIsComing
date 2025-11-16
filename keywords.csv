@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.3337742022087235
-'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.2540056136616995
+'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.22010546161244457
 'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.1998702268070661
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.1764491382988396
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.1762768596719716
-'drought climate change',en,Causes,#00ffff,#00ffff,3,0.14182234280836678
+'drought climate change',en,Causes,#00ffff,#00ffff,3,0.1418223428083667

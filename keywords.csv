@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cloud seeding',en,Mitigation,#00ff00,#00ff00,3,0.1165351977616959
 'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.1151443083697058
 'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.1045934259951562
-'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.0913389109608419
+'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.08668877931671562
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0832678790203277
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0822561825664864
-'drought climate change',en,Causes,#00ffff,#00ffff,3,0.055607088853580726
+'drought climate change',en,Causes,#00ffff,#00ffff,3,0.0556070888535807

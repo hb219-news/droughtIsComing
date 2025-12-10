@@ -7,5 +7,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.1002729021142499
 'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.0866887793167156
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0832678790203277
-'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0822561825664864
-'drought climate change',en,Causes,#00ffff,#00ffff,3,0.051771815525543594
+'drought weather',en,Hazard,#ff0000,#ff0000,3,0.07847179018151344
+'drought climate change',en,Causes,#00ffff,#00ffff,3,0.0517718155255435

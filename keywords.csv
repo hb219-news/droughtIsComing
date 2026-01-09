@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0652721104194629
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.0635274702438367
 'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0612747260553887
-'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.058939259094872395
+'dry soil',en,Impacts,#ffff00,#ffff00,3,0.060286873856543466
+'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.0589392590948723
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.057716460424246
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,1,0.0565126560106651
 'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.0466731388469895

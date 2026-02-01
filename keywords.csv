@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drought climate change',en,Causes,#00ffff,#00ffff,3,0.0574747131619033
 'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.0569671936716341
-'drought weather',en,Hazard,#ff0000,#ff0000,3,0.053280833867953833
+'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0532808338679538
 'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.0514388464642946
-'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0492370865529521
+'dry soil',en,Impacts,#ffff00,#ffff00,3,0.04947008357000929
 'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0475820729371408
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.0468751223069685
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,1,0.0321748548351623

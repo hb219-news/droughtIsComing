@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'rain making',en,Mitigation,#00ff00,#00ff00,3,0.056386095228581935
-'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.052276588514267
+'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.061665927509854224
+'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0563860952285819
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0500044307344015
 'cloud seeding',en,Mitigation,#00ff00,#00ff00,2,0.0492394306678566
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.0468383788244045

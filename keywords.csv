@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0610205826218611
+'rain making',en,Mitigation,#00ff00,#00ff00,3,0.056386095228581935
 'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.052276588514267
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0500044307344015
 'cloud seeding',en,Mitigation,#00ff00,#00ff00,2,0.0492394306678566
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.0468383788244045
-'drought climate change',en,Causes,#00ffff,#00ffff,3,0.04466895018592539
+'drought climate change',en,Causes,#00ffff,#00ffff,3,0.0446689501859253
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0431933998909332
 'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.0421033037815694
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,1,0.0412233755453882

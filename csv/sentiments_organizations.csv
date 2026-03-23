@@ -1,502 +1,536 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Amazon,Amazon,ORG,0.12992784992784992,1.0797217068645641,en,10.5
+Amazon,Amazon,ORG,0.12367927058192545,1.1035762172930315,en,11.3
 Laughing Water Capital,Laughing Water Capital,ORG,0.0,0.0,en,8.7
 Aiper,Aiper,ORG,0.17019658423768014,0.5273567376307102,en,7.300000000000001
-AP,AP,ORG,0.0844155844155844,0.9396194083694082,en,5.6000000000000005
+AP,AP,ORG,0.04195804195804195,1.0249028749028748,en,6.5
 "Water Resources and Irrigation, Physical Infrastructure and Transport","Water Resources and Irrigation, Physical Infrastructure and Transport",ORG,0.02040816326530612,0.20991253644314864,en,4.9
 RMAF,RMAF,ORG,0.019474637681159424,0.2169384057971015,en,4.6
 UN,UN,ORG,-0.0799102132435466,0.846801346801347,en,4.499999999999999
 ResearchAndMarkets.com,ResearchAndMarkets.com,ORG,0.0487012987012987,0.5275974025974025,en,4.4
+Rs,Rs,ORG,-0.01207386363636364,0.1590909090909091,en,4.3999999999999995
 "Global Water Resources, Inc.","Global Water Resources, Inc.",ORG,0.17857142857142858,0.1865079365079365,en,4.2
+NASA,NASA,ORG,-0.1901709401709402,0.4706959706959708,en,3.8999999999999995
 Energy,Energy,ORG,0.0,0.08458646616541353,en,3.8
 Water Resources and Irrigation,Water Resources and Irrigation,ORG,-0.021929824561403514,0.21345029239766083,en,3.8
-Odisha,Odisha,ORG,0.004914004914004912,0.07493857493857495,en,3.6999999999999997
 Agri-Forest,Agri-Forest,ORG,0.0,0.0,en,3.6999999999999997
+Odisha,Odisha,ORG,0.004914004914004912,0.07493857493857495,en,3.6999999999999997
+UAE,UAE,ORG,0.09557823129251701,0.367891156462585,en,3.5
+EU,EU,ORG,0.1107843137254902,0.34803921568627455,en,3.4
 Trump,Trump,ORG,0.06676136363636363,1.0011837121212117,en,3.2000000000000006
 CAGR,CAGR,ORG,-0.010551948051948062,0.47554112554112554,en,3.0
-NASA,NASA,ORG,-0.225,0.3785714285714286,en,2.9999999999999996
+Bengaluru,Bengaluru,ORG,0.05100574712643678,0.22413793103448276,en,2.9
+the National Disaster Management Agency,the National Disaster Management Agency,ORG,0.09523809523809525,0.37500000000000006,en,2.8
+ISRO,ISRO,ORG,-0.03571428571428572,0.14285714285714288,en,2.8
+WA,WA,ORG,0.2142857142857143,0.35714285714285715,en,2.8
+BRS,BRS,ORG,0.1388888888888889,0.2380952380952381,en,2.8
 RainPoint,RainPoint,ORG,0.08290816326530613,0.09523809523809525,en,2.8
 AC,AC,ORG,0.1553571428571429,0.33673469387755106,en,2.8
-Rs,Rs,ORG,0.0,0.0,en,2.8
-the National Disaster Management Agency,the National Disaster Management Agency,ORG,0.09523809523809525,0.37500000000000006,en,2.8
+NISAR,NISAR,ORG,-0.03571428571428572,0.14285714285714288,en,2.8
 Netafim,Netafim,ORG,-0.03214285714285715,0.11071428571428572,en,2.8
-BRS,BRS,ORG,0.1388888888888889,0.2380952380952381,en,2.8
-UAE,UAE,ORG,-0.02628205128205128,0.22820512820512817,en,2.6
-EU,EU,ORG,-0.009333333333333327,0.2733333333333333,en,2.5
+"Getty Images
+","Getty Images
+",ORG,0.03226711560044893,0.33688739244294796,en,2.7
+Pumps,Pumps,ORG,0.027472527472527476,0.05494505494505495,en,2.5999999999999996
 Banyoles,Banyoles,ORG,0.0,0.15625,en,2.4
-NABARD,NABARD,ORG,0.07142857142857142,0.14285714285714285,en,2.1
+El Niño,El Niño,ORG,0.10732323232323229,1.039141414141414,en,2.2
 Facebook,Facebook,ORG,0.0,0.0,en,2.1
-Bengaluru,Bengaluru,ORG,0.12395833333333334,0.125,en,2.0
+NABARD,NABARD,ORG,0.07142857142857142,0.14285714285714285,en,2.1
 Vrije Universiteit Brussel,Vrije Universiteit Brussel,ORG,0.13636363636363635,0.22727272727272727,en,2.0
 ISKANDAR,ISKANDAR,ORG,0.6436403508771931,1.037280701754386,en,1.9000000000000001
 the National Weather Service,the National Weather Service,ORG,0.023809523809523805,0.630325814536341,en,1.9000000000000001
 Terrarium,Terrarium,ORG,-0.01842105263157895,0.5398785425101215,en,1.9000000000000001
+REI,REI,ORG,0.7894736842105262,0.3947368421052631,en,1.9000000000000001
 Nvidia,Nvidia,ORG,0.18421052631578938,0.7807017543859649,en,1.9000000000000001
-"Getty Images
-","Getty Images
-",ORG,0.04585326953748006,0.17902711323763956,en,1.9000000000000001
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.047149122807017545,0.23245614035087722,en,1.9
-the Royal Malaysian Air Force,the Royal Malaysian Air Force,ORG,0.0,0.0,en,1.9
-Vedanta Limited,Vedanta Limited,ORG,-0.07205513784461154,0.07518796992481203,en,1.9
-Food and Agriculture Organization of the United Nation,Food and Agriculture Organization of the United Nation,ORG,0.0,0.0,en,1.9
-AQI,AQI,ORG,0.3508771929824562,0.5,en,1.9
-The Rubber Industry Smallholders Develop­ment Authority,The Rubber Industry Smallholders Develop­ment Authority,ORG,0.07017543859649121,0.4078947368421053,en,1.9
-Gas Division,Gas Division,ORG,-0.07205513784461154,0.07518796992481203,en,1.9
-Carantaba Farm,Carantaba Farm,ORG,-0.006578947368421059,0.4078947368421053,en,1.9
-Xinhua,Xinhua,ORG,-0.006578947368421059,0.4078947368421053,en,1.9
-MetMalaysia,MetMalaysia,ORG,0.0,0.0,en,1.9
-The Royal Malaysian Air Force,The Royal Malaysian Air Force,ORG,0.047149122807017545,0.23245614035087722,en,1.9
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.0,0.0,en,1.9
-National Disaster Management Agency,National Disaster Management Agency,ORG,0.0,0.0,en,1.9
-Noida Authority,Noida Authority,ORG,-0.3157894736842105,0.4736842105263158,en,1.9
 SDSU,SDSU,ORG,0.04146730462519936,0.0,en,1.9
-KCR,KCR,ORG,-0.052631578947368425,0.18421052631578946,en,1.9
-Hidromotic CHI Smart,Hidromotic CHI Smart,ORG,0.22556390977443608,0.33834586466165417,en,1.9
+Assembly,Assembly,ORG,0.03538011695906433,0.0,en,1.9
+Food and Agriculture Organization of the United Nation,Food and Agriculture Organization of the United Nation,ORG,0.0,0.0,en,1.9
+The Rubber Industry Smallholders Develop­ment Authority,The Rubber Industry Smallholders Develop­ment Authority,ORG,0.07017543859649121,0.4078947368421053,en,1.9
+Rain Bird Corporation,Rain Bird Corporation,ORG,0.0,0.14473684210526316,en,1.9
+Carantaba Farm,Carantaba Farm,ORG,-0.006578947368421059,0.4078947368421053,en,1.9
+Noida Authority,Noida Authority,ORG,-0.3157894736842105,0.4736842105263158,en,1.9
+National Disaster Management Agency,National Disaster Management Agency,ORG,0.0,0.0,en,1.9
+IrriSense 2 Smart Irrigation System,IrriSense 2 Smart Irrigation System,ORG,0.2027853725222146,0.24088630667578037,en,1.9
+IrriSense Smart Sprinkler Irrigation System,IrriSense Smart Sprinkler Irrigation System,ORG,0.02506265664160401,0.28320802005012535,en,1.9
+Mahindra EPC Irrigation,Mahindra EPC Irrigation,ORG,0.14035087719298248,0.5087719298245614,en,1.9
+MD,MD,ORG,0.14035087719298248,0.5087719298245614,en,1.9
+Mahindra,Mahindra,ORG,0.14035087719298248,0.5087719298245614,en,1.9
+NTUA,NTUA,ORG,0.1967418546365915,0.212406015037594,en,1.9
+MetMalaysia,MetMalaysia,ORG,0.0,0.0,en,1.9
+Jharkhand,Jharkhand,ORG,0.0,0.0,en,1.9
+The Royal Malaysian Air Force,The Royal Malaysian Air Force,ORG,0.047149122807017545,0.23245614035087722,en,1.9
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.047149122807017545,0.23245614035087722,en,1.9
+Xinhua,Xinhua,ORG,-0.006578947368421059,0.4078947368421053,en,1.9
+House,House,ORG,-0.07894736842105263,0.0,en,1.9
 "Bloomberg News
 ","Bloomberg News
 ",ORG,0.0,0.0,en,1.9
-Jharkhand,Jharkhand,ORG,0.0,0.0,en,1.9
-PMKSY,PMKSY,ORG,0.024318609022556392,0.13737468671679198,en,1.9
-Zaytuna Farm,Zaytuna Farm,ORG,0.0,0.1729323308270677,en,1.9
-IrriSense 2 Smart Irrigation System,IrriSense 2 Smart Irrigation System,ORG,0.2027853725222146,0.24088630667578037,en,1.9
-IrriSense Smart Sprinkler Irrigation System,IrriSense Smart Sprinkler Irrigation System,ORG,0.02506265664160401,0.28320802005012535,en,1.9
-Mahindra,Mahindra,ORG,0.14035087719298248,0.5087719298245614,en,1.9
-the World Water Congress,the World Water Congress,ORG,0.15037593984962405,0.15037593984962405,en,1.9
-Rain Bird Corporation,Rain Bird Corporation,ORG,0.0,0.14473684210526316,en,1.9
-NTUA,NTUA,ORG,0.1967418546365915,0.212406015037594,en,1.9
-Pool Corporation (,Pool Corporation (,ORG,0.026315789473684213,0.10526315789473685,en,1.9
-Pumps,Pumps,ORG,0.03759398496240601,0.07518796992481203,en,1.9
-Project Cirrus,Project Cirrus,ORG,-0.007017543859649115,0.14385964912280702,en,1.9
-KANCHANPUR,KANCHANPUR,ORG,0.0,0.20050125313283207,en,1.9
-AB,AB,ORG,-0.00751879699248121,0.12030075187969928,en,1.9
-Rock Hill,Rock Hill,ORG,0.050125313283208,0.24143692564745198,en,1.9
-IrriSense,IrriSense,ORG,0.12531328320802007,0.32915622389306604,en,1.9
-MD,MD,ORG,0.14035087719298248,0.5087719298245614,en,1.9
-Black Friday Week Sale,Black Friday Week Sale,ORG,0.02506265664160401,0.28320802005012535,en,1.9
-Mahindra EPC Irrigation,Mahindra EPC Irrigation,ORG,0.14035087719298248,0.5087719298245614,en,1.9
-Rain Bird,Rain Bird,ORG,0.10526315789473685,0.14473684210526316,en,1.9
 YSGG,YSGG,ORG,0.0,0.2894736842105263,en,1.9
+Rock Hill,Rock Hill,ORG,0.050125313283208,0.24143692564745198,en,1.9
+KCR,KCR,ORG,-0.052631578947368425,0.18421052631578946,en,1.9
+Pool Corporation (,Pool Corporation (,ORG,0.026315789473684213,0.10526315789473685,en,1.9
+Hidromotic CHI Smart,Hidromotic CHI Smart,ORG,0.22556390977443608,0.33834586466165417,en,1.9
 the World Meteorological Organization,the World Meteorological Organization,ORG,0.3304425837320574,0.2631578947368421,en,1.9
+IrriSense,IrriSense,ORG,0.12531328320802007,0.32915622389306604,en,1.9
+KANCHANPUR,KANCHANPUR,ORG,0.0,0.20050125313283207,en,1.9
+the Royal Malaysian Air Force,the Royal Malaysian Air Force,ORG,0.0,0.0,en,1.9
+Project Cirrus,Project Cirrus,ORG,-0.007017543859649115,0.14385964912280702,en,1.9
+Vedanta Limited,Vedanta Limited,ORG,-0.07205513784461154,0.07518796992481203,en,1.9
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.0,0.0,en,1.9
+AQI,AQI,ORG,0.3508771929824562,0.5,en,1.9
+the World Water Congress,the World Water Congress,ORG,0.15037593984962405,0.15037593984962405,en,1.9
+PMKSY,PMKSY,ORG,0.024318609022556392,0.13737468671679198,en,1.9
+AB,AB,ORG,-0.00751879699248121,0.12030075187969928,en,1.9
+Zaytuna Farm,Zaytuna Farm,ORG,0.0,0.1729323308270677,en,1.9
+Rain Bird,Rain Bird,ORG,0.10526315789473685,0.14473684210526316,en,1.9
+Black Friday Week Sale,Black Friday Week Sale,ORG,0.02506265664160401,0.28320802005012535,en,1.9
+Gas Division,Gas Division,ORG,-0.07205513784461154,0.07518796992481203,en,1.9
 Apple,Apple,ORG,0.6728395061728393,1.736331569664902,en,1.8000000000000007
-La Niña,La Niña,ORG,-0.4621212121212121,0.5555555555555556,en,1.8
-Hydrosat,Hydrosat,ORG,0.5555555555555556,0.2777777777777778,en,1.8
-IRNA,IRNA,ORG,-0.5555555555555556,0.41666666666666663,en,1.8
 AFP,AFP,ORG,-0.06944444444444445,0.20833333333333331,en,1.8
+Sriracha,Sriracha,ORG,0.20833333333333331,0.5277777777777778,en,1.8
+Aquifers Dry Up,Aquifers Dry Up,ORG,-0.028198653198653202,0.24579124579124578,en,1.8
+Weather Modification Operations,Weather Modification Operations,ORG,0.037037037037037035,0.4259259259259259,en,1.8
+Hydrosat,Hydrosat,ORG,0.5555555555555556,0.2777777777777778,en,1.8
+Delhi Pradesh Youth Congress,Delhi Pradesh Youth Congress,ORG,-0.3333333333333333,0.11111111111111112,en,1.8
+Bloomberg,Bloomberg,ORG,-0.3333333333333333,0.316358024691358,en,1.8
+IRNA,IRNA,ORG,-0.5555555555555556,0.41666666666666663,en,1.8
 Colorado Sun,Colorado Sun,ORG,-0.027314814814814823,0.23287037037037037,en,1.8
+OMC,OMC,ORG,0.037037037037037035,0.4259259259259259,en,1.8
+La Niña,La Niña,ORG,-0.4621212121212121,0.5555555555555556,en,1.8
+Climate Change Canada's,Climate Change Canada's,ORG,0.40277777777777773,0.2777777777777778,en,1.8
+the Muda Agricultural Development Authority,the Muda Agricultural Development Authority,ORG,0.09722222222222221,0.2638888888888889,en,1.8
 Board of Directors,Board of Directors,ORG,0.0,0.0,en,1.8
 NBC News,NBC News,ORG,0.018518518518518517,0.0,en,1.8
-Aquifers Dry Up,Aquifers Dry Up,ORG,-0.028198653198653202,0.24579124579124578,en,1.8
-Climate Change Canada's,Climate Change Canada's,ORG,0.40277777777777773,0.2777777777777778,en,1.8
-Delhi Pradesh Youth Congress,Delhi Pradesh Youth Congress,ORG,-0.3333333333333333,0.11111111111111112,en,1.8
-Septic Lateral Lines,Septic Lateral Lines,ORG,0.07352941176470588,0.2647058823529412,en,1.7
-The Survival Podcast,The Survival Podcast,ORG,0.3709893048128342,0.2807486631016043,en,1.7
-WiFi,WiFi,ORG,0.23529411764705885,0.29411764705882354,en,1.7
-The Association of California Water Agencies,The Association of California Water Agencies,ORG,0.0,0.0,en,1.7
-ACWA,ACWA,ORG,0.0,0.0,en,1.7
-Irrigation,Irrigation,ORG,0.0,0.04201680672268907,en,1.7
-Narayani,Narayani,ORG,0.029411764705882356,0.07282913165266107,en,1.7
-Bukit Merah Dam,Bukit Merah Dam,ORG,0.0,0.4705882352941177,en,1.7
+AI,AI,ORG,-0.1407563025210084,1.2599789915966386,en,1.7000000000000002
 Water Resources,Water Resources,ORG,0.0,0.04201680672268907,en,1.7
-Urban Development,Urban Development,ORG,0.05882352941176471,0.07282913165266107,en,1.7
-Market Research,Market Research,ORG,0.13747771836007128,0.2750190985485103,en,1.7
-The Irrigation and Drainage Department,The Irrigation and Drainage Department,ORG,-0.029411764705882363,0.18235294117647055,en,1.7
-Telangana,Telangana,ORG,0.03267973856209149,0.0,en,1.7
-Kanchanpur,Kanchanpur,ORG,0.0,0.04201680672268907,en,1.7
-the Ministry of Energy,the Ministry of Energy,ORG,0.0,0.0,en,1.7
-The Ministry of Forests and Environment,The Ministry of Forests and Environment,ORG,0.0,0.0,en,1.7
-Understanding Water Management,Understanding Water Management,ORG,0.35294117647058826,0.29411764705882354,en,1.7
+WiFi,WiFi,ORG,0.23529411764705885,0.29411764705882354,en,1.7
+Irrigation,Irrigation,ORG,0.0,0.04201680672268907,en,1.7
 The Ujyalo Nepal Party,The Ujyalo Nepal Party,ORG,0.0,0.14705882352941177,en,1.7
+the Ministry of Energy,the Ministry of Energy,ORG,0.0,0.0,en,1.7
+Bukit Merah Dam,Bukit Merah Dam,ORG,0.0,0.4705882352941177,en,1.7
+Kanchanpur,Kanchanpur,ORG,0.0,0.04201680672268907,en,1.7
+Narayani,Narayani,ORG,0.029411764705882356,0.07282913165266107,en,1.7
+Urban Development,Urban Development,ORG,0.05882352941176471,0.07282913165266107,en,1.7
+The Irrigation and Drainage Department,The Irrigation and Drainage Department,ORG,-0.029411764705882363,0.18235294117647055,en,1.7
+The Survival Podcast,The Survival Podcast,ORG,0.3709893048128342,0.2807486631016043,en,1.7
+the Union Cabinet,the Union Cabinet,ORG,0.049019607843137254,0.46568627450980393,en,1.7
+EPC,EPC,ORG,0.049019607843137254,0.46568627450980393,en,1.7
+Septic Lateral Lines,Septic Lateral Lines,ORG,0.07352941176470588,0.2647058823529412,en,1.7
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.14705882352941177,0.22058823529411764,en,1.7
+Telangana,Telangana,ORG,0.03267973856209149,0.0,en,1.7
+Market Research,Market Research,ORG,0.13747771836007128,0.2750190985485103,en,1.7
+The Ministry of Forests and Environment,The Ministry of Forests and Environment,ORG,0.0,0.0,en,1.7
+ACWA,ACWA,ORG,0.0,0.0,en,1.7
+Understanding Water Management,Understanding Water Management,ORG,0.35294117647058826,0.29411764705882354,en,1.7
+The Association of California Water Agencies,The Association of California Water Agencies,ORG,0.0,0.0,en,1.7
 the United Nations,the United Nations,ORG,0.23333333333333325,0.3583333333333333,en,1.6000000000000003
-Triangle,Triangle,ORG,0.41666666666666663,0.9270833333333334,en,1.6
-PicPay,PicPay,ORG,0.0487012987012987,0.18614718614718614,en,1.6
+Oklahoma National Guard,Oklahoma National Guard,ORG,0.09027777777777778,0.44270833333333326,en,1.6
 Manitoba Hydro,Manitoba Hydro,ORG,0.25781249999999994,0.39843749999999994,en,1.6
-IPCC,IPCC,ORG,0.4464285714285714,0.7142857142857142,en,1.6
 WFP,WFP,ORG,0.0,0.0,en,1.6
+PicPay,PicPay,ORG,0.0487012987012987,0.18614718614718614,en,1.6
+Triangle,Triangle,ORG,0.41666666666666663,0.9270833333333334,en,1.6
+IPCC,IPCC,ORG,0.4464285714285714,0.7142857142857142,en,1.6
+&amp,&amp,ORG,0.0,0.0,en,1.6
+CLI,CLI,ORG,0.0,0.0,en,1.5999999999999999
 Generation Exile,Generation Exile,ORG,0.0016161616161616075,1.333535353535353,en,1.5000000000000004
 BBC,BBC,ORG,-0.27499999999999986,0.7166666666666666,en,1.5000000000000002
 Ferrari,Ferrari,ORG,0.0,0.0,en,1.4000000000000004
 Samsung,Samsung,ORG,0.9642857142857143,0.9916666666666665,en,1.4000000000000001
-AI,AI,ORG,0.18622448979591832,0.815688775510204,en,1.4000000000000001
-Working Hands Hand Cream for Extreme Dryness,Working Hands Hand Cream for Extreme Dryness,ORG,-0.017857142857142853,1.3333333333333335,en,1.4
+Nat,Nat,ORG,0.0,0.0,en,1.4000000000000001
 O'Keeffe,O'Keeffe,ORG,-0.017857142857142853,1.3333333333333335,en,1.4
-VXTR,VXTR,ORG,0.5288461538461537,0.65625,en,1.3000000000000003
-TSXV,TSXV,ORG,0.5288461538461537,0.65625,en,1.3000000000000003
+Working Hands Hand Cream for Extreme Dryness,Working Hands Hand Cream for Extreme Dryness,ORG,-0.017857142857142853,1.3333333333333335,en,1.4
 Berkshire Hathaway,Berkshire Hathaway,ORG,0.6880341880341879,1.034188034188034,en,1.3000000000000003
 USGS,USGS,ORG,-0.30769230769230765,0.0,en,1.3000000000000003
-Pond,Pond,ORG,0.019230769230769235,0.3846153846153846,en,1.3
-The Sporting News,The Sporting News,ORG,0.5288461538461539,0.0,en,1.3
-COP30,COP30,ORG,0.038461538461538464,0.0,en,1.3
-CRISPR,CRISPR,ORG,0.15384615384615385,0.11538461538461538,en,1.3
+TSXV,TSXV,ORG,0.5288461538461537,0.65625,en,1.3000000000000003
+VXTR,VXTR,ORG,0.5288461538461537,0.65625,en,1.3000000000000003
+Louisiana Tech,Louisiana Tech,ORG,-0.15384615384615385,0.07692307692307693,en,1.3
+Tottenham Hotspur,Tottenham Hotspur,ORG,-0.05128205128205129,0.301994301994302,en,1.3
+the Premier League,the Premier League,ORG,-0.05128205128205129,0.301994301994302,en,1.3
+The Cataraqui Region Conservation Authority,The Cataraqui Region Conservation Authority,ORG,0.7692307692307692,0.3846153846153846,en,1.3
+Social Media Explorer,Social Media Explorer,ORG,0.18269230769230768,0.3429487179487179,en,1.3
+ec,ec,ORG,0.3448717948717948,0.5384615384615384,en,1.3
+EYDAP,EYDAP,ORG,0.1923076923076923,0.2692307692307692,en,1.3
+SPEI,SPEI,ORG,0.1923076923076923,0.1923076923076923,en,1.3
 Communications Earth &amp,Communications Earth &amp,ORG,0.02401764901764902,0.4020979020979021,en,1.3
 Greenland,Greenland,ORG,-0.15384615384615385,0.3076923076923077,en,1.3
-SPEI,SPEI,ORG,0.1923076923076923,0.1923076923076923,en,1.3
+CRISPR,CRISPR,ORG,0.15384615384615385,0.11538461538461538,en,1.3
 Nasdaq,Nasdaq,ORG,0.1515151515151515,0.12147112147112145,en,1.3
-Tottenham Hotspur,Tottenham Hotspur,ORG,-0.05128205128205129,0.301994301994302,en,1.3
-&amp,&amp,ORG,0.0,0.0,en,1.3
-The National Drought Group,The National Drought Group,ORG,0.28846153846153844,0.0,en,1.3
-the Premier League,the Premier League,ORG,-0.05128205128205129,0.301994301994302,en,1.3
-Yorkshire,Yorkshire,ORG,0.0,0.07692307692307693,en,1.3
-EchoPark,EchoPark,ORG,1.2307692307692308,0.3076923076923077,en,1.3
-The Desert Nation That Solved Drought,The Desert Nation That Solved Drought,ORG,0.0,0.0,en,1.3
-EYDAP,EYDAP,ORG,0.1923076923076923,0.2692307692307692,en,1.3
-Science New Research,Science New Research,ORG,-0.27972027972027974,0.36713286713286714,en,1.3
-Walt Disney World,Walt Disney World,ORG,0.3379953379953379,0.4510489510489511,en,1.3
-The World Meteorological Organization,The World Meteorological Organization,ORG,-0.07692307692307693,0.2564102564102564,en,1.3
-The Cataraqui Region Conservation Authority,The Cataraqui Region Conservation Authority,ORG,0.7692307692307692,0.3846153846153846,en,1.3
-Glasgow Warriors,Glasgow Warriors,ORG,0.2670940170940171,0.3247863247863248,en,1.3
-Cajuns,Cajuns,ORG,-0.07692307692307693,0.07692307692307693,en,1.3
-Louisiana Tech,Louisiana Tech,ORG,-0.15384615384615385,0.07692307692307693,en,1.3
-the Sixth Assessment Report,the Sixth Assessment Report,ORG,0.0,0.0,en,1.3
-the United Nations World Food Programme's,the United Nations World Food Programme's,ORG,0.0,0.0,en,1.3
-Scientific American’s,Scientific American’s,ORG,0.2564102564102564,0.1923076923076923,en,1.3
-Wooden Wonders & Misfits,Wooden Wonders & Misfits,ORG,0.038461538461538464,0.11538461538461538,en,1.3
-Mineral Clay Everyday,Mineral Clay Everyday,ORG,-0.3076923076923077,0.4615384615384615,en,1.3
 Miracle-Gro,Miracle-Gro,ORG,0.05769230769230769,0.34615384615384615,en,1.3
-Microsoft,Microsoft,ORG,0.5833333333333333,1.3749999999999998,en,1.2000000000000002
-the US Geological Survey,the US Geological Survey,ORG,-0.3333333333333333,0.0,en,1.2000000000000002
-NYSE,NYSE,ORG,0.6666666666666666,0.4999999999999999,en,1.2000000000000002
-Eagle,Eagle,ORG,0.041666666666666664,0.16666666666666666,en,1.2000000000000002
+The Desert Nation That Solved Drought,The Desert Nation That Solved Drought,ORG,0.0,0.0,en,1.3
+The Sporting News,The Sporting News,ORG,0.5288461538461539,0.0,en,1.3
+Glasgow Warriors,Glasgow Warriors,ORG,0.2670940170940171,0.3247863247863248,en,1.3
+Instagram,Instagram,ORG,0.6089743589743589,0.2692307692307692,en,1.3
+EchoPark,EchoPark,ORG,1.2307692307692308,0.3076923076923077,en,1.3
+Walt Disney World,Walt Disney World,ORG,0.3379953379953379,0.4510489510489511,en,1.3
+Pond,Pond,ORG,0.019230769230769235,0.3846153846153846,en,1.3
+The Independent,The Independent,ORG,0.0,0.08653846153846154,en,1.3
+Big Tech,Big Tech,ORG,0.0,0.08653846153846154,en,1.3
+Scientific American’s,Scientific American’s,ORG,0.2564102564102564,0.1923076923076923,en,1.3
+USDA,USDA,ORG,-0.22435897435897437,0.0,en,1.3
+the United Nations World Food Programme's,the United Nations World Food Programme's,ORG,0.0,0.0,en,1.3
+Science New Research,Science New Research,ORG,-0.27972027972027974,0.36713286713286714,en,1.3
+the Orlando Magic,the Orlando Magic,ORG,0.13186813186813187,0.27472527472527475,en,1.3
+COP30,COP30,ORG,0.038461538461538464,0.0,en,1.3
+the Sixth Assessment Report,the Sixth Assessment Report,ORG,0.0,0.0,en,1.3
+Petra,Petra,ORG,0.21367521367521367,0.4807692307692307,en,1.3
+The World Meteorological Organization,The World Meteorological Organization,ORG,-0.07692307692307693,0.2564102564102564,en,1.3
+Cajuns,Cajuns,ORG,-0.07692307692307693,0.07692307692307693,en,1.3
+Mineral Clay Everyday,Mineral Clay Everyday,ORG,-0.3076923076923077,0.4615384615384615,en,1.3
+Yorkshire,Yorkshire,ORG,0.0,0.07692307692307693,en,1.3
+The National Drought Group,The National Drought Group,ORG,0.28846153846153844,0.0,en,1.3
+Wooden Wonders & Misfits,Wooden Wonders & Misfits,ORG,0.038461538461538464,0.11538461538461538,en,1.3
 PAHO,PAHO,ORG,0.0,0.0,en,1.2000000000000002
+Voxtur Analytics Corp.,Voxtur Analytics Corp.,ORG,0.42968749999999994,0.4739583333333333,en,1.2000000000000002
+Syngenta,Syngenta,ORG,0.41666666666666663,0.41666666666666663,en,1.2000000000000002
+NYSE,NYSE,ORG,0.6666666666666666,0.4999999999999999,en,1.2000000000000002
+NEA,NEA,ORG,0.027777777777777773,0.26388888888888884,en,1.2000000000000002
+Eagle,Eagle,ORG,0.041666666666666664,0.16666666666666666,en,1.2000000000000002
 Absa Bank,Absa Bank,ORG,0.0,0.0,en,1.2000000000000002
 SJV Water,SJV Water,ORG,-0.13888888888888887,0.10416666666666666,en,1.2000000000000002
-Voxtur Analytics Corp.,Voxtur Analytics Corp.,ORG,0.42968749999999994,0.4739583333333333,en,1.2000000000000002
-Lenovo,Lenovo,ORG,-0.10300925925925923,0.7824074074074073,en,1.2000000000000002
 LoRa Alliance,LoRa Alliance,ORG,0.08928571428571427,0.4761904761904761,en,1.2000000000000002
-Syngenta,Syngenta,ORG,0.41666666666666663,0.41666666666666663,en,1.2000000000000002
-NEA,NEA,ORG,0.027777777777777773,0.26388888888888884,en,1.2000000000000002
+Microsoft,Microsoft,ORG,0.5833333333333333,1.3749999999999998,en,1.2000000000000002
 Google,Google,ORG,-0.2569444444444444,1.0138888888888888,en,1.2000000000000002
 Fe,Fe,ORG,0.15624999999999997,0.8333333333333333,en,1.2000000000000002
 NBA,NBA,ORG,0.38935185185185184,0.5925925925925926,en,1.2000000000000002
-Kotaku,Kotaku,ORG,0.3541666666666667,0.2611111111111111,en,1.2
+Lenovo,Lenovo,ORG,-0.10300925925925923,0.7824074074074073,en,1.2000000000000002
+the US Geological Survey,the US Geological Survey,ORG,-0.3333333333333333,0.0,en,1.2000000000000002
+Command Line Interface,Command Line Interface,ORG,0.0,0.0,en,1.2
+Chase AI,Chase AI,ORG,0.0,0.0,en,1.2
+Cloud State,Cloud State,ORG,0.0,0.0,en,1.2
 amazon.com,amazon.com,ORG,0.06250000000000001,0.8333333333333334,en,1.2
-Pan American Health,Pan American Health,ORG,0.0,0.0,en,1.1
-MAX Power Mining Corp.,MAX Power Mining Corp.,ORG,0.0,0.0,en,1.1
-A17,A17,ORG,0.056818181818181816,0.0,en,1.1
-Running Gran Turismo,Running Gran Turismo,ORG,0.0,0.0,en,1.1
-Gold Dragons,Gold Dragons,ORG,-0.19256198347107434,0.3376623376623376,en,1.1
-Black to Red Leather,Black to Red Leather,ORG,-0.19256198347107434,0.3376623376623376,en,1.1
-AstraZeneca,AstraZeneca,ORG,0.45454545454545453,0.22727272727272727,en,1.1
-Novartis,Novartis,ORG,0.45454545454545453,0.22727272727272727,en,1.1
-CL,CL,ORG,0.7272727272727273,0.45454545454545453,en,1.1
-Expressway Suites,Expressway Suites,ORG,0.0,0.0,en,1.1
-Company,Company,ORG,0.0,0.09090909090909091,en,1.1
-Nubia Z80 Ultra Review:,Nubia Z80 Ultra Review:,ORG,0.16233766233766234,0.3603896103896103,en,1.1
-NHL,NHL,ORG,0.45454545454545453,0.45454545454545453,en,1.1
-Voxtur Analytics Corp. Initiates Court-Supervised Restructuring Process to Strengthen Financial Position and Support Long-Term Growth,Voxtur Analytics Corp. Initiates Court-Supervised Restructuring Process to Strengthen Financial Position and Support Long-Term Growth,ORG,0.0,0.0,en,1.1
-TN8.20,TN8.20,ORG,0.056818181818181816,0.0,en,1.1
-World Health Organization,World Health Organization,ORG,0.0,0.0,en,1.1
-"Watts Water Technologies, Inc.","Watts Water Technologies, Inc.",ORG,0.0,0.0,en,1.1
-NFL,NFL,ORG,0.0,0.0,en,1.1
-Digital Markets Act,Digital Markets Act,ORG,0.45454545454545453,0.22727272727272727,en,1.1
-Baron Real Estate Fund,Baron Real Estate Fund,ORG,0.36363636363636365,0.27272727272727276,en,1.1
-Deer Lake Power,Deer Lake Power,ORG,-0.07575757575757575,0.2348484848484848,en,1.1
-Ceres Partners,Ceres Partners,ORG,0.0,0.0,en,1.1
-Hamas,Hamas,ORG,0.06565656565656566,0.0,en,1.1
-The Nepal Electricity Authority,The Nepal Electricity Authority,ORG,0.0303030303030303,0.14393939393939392,en,1.1
-Hylocereus,Hylocereus,ORG,0.5,0.5,en,1.1
-Wied,Wied,ORG,1.4545454545454546,0.8181818181818181,en,1.1
-Dust,Dust,ORG,0.2597402597402597,0.48701298701298695,en,1.1
-OnePlus,OnePlus,ORG,0.1239669421487603,0.0,en,1.1
-Dreame Aqua10 Ultra Roller Review,Dreame Aqua10 Ultra Roller Review,ORG,0.09090909090909091,0.1477272727272727,en,1.1
-Fresh-Water Roller Mopping Meets,Fresh-Water Roller Mopping Meets,ORG,0.09090909090909091,0.1477272727272727,en,1.1
-Corner Brook Pulp and Paper,Corner Brook Pulp and Paper,ORG,-0.07575757575757575,0.2348484848484848,en,1.1
-Eagle Energy Metals Corp.,Eagle Energy Metals Corp.,ORG,0.045454545454545456,0.09090909090909091,en,1.1
-Aurora Uranium Project,Aurora Uranium Project,ORG,0.4132231404958677,0.4958677685950412,en,1.1
-Eagle Energy Metals Reports,Eagle Energy Metals Reports,ORG,0.4132231404958677,0.4958677685950412,en,1.1
-Kormedi.com,Kormedi.com,ORG,0.6818181818181818,0.5681818181818181,en,1.1
-Lo-TEK,Lo-TEK,ORG,0.2479338842975206,0.4132231404958677,en,1.1
-Disney World,Disney World,ORG,0.3181818181818181,0.5,en,1.1
-Enlit Europe 2025,Enlit Europe 2025,ORG,0.0487012987012987,0.2597402597402597,en,1.1
-"Medical,","Medical,",ORG,0.0,0.0,en,1.1
-Stournaras,Stournaras,ORG,0.08471074380165287,0.22933884297520657,en,1.1
-The Coca-Cola Co.,The Coca-Cola Co.,ORG,0.0,0.9090909090909091,en,1.1
-the Bank of Greece,the Bank of Greece,ORG,0.08471074380165287,0.0,en,1.1
-Watermelon Pics,Watermelon Pics,ORG,0.5933195592286501,0.4669421487603306,en,1.1
-LoRaWAN,LoRaWAN,ORG,0.0974025974025974,0.2597402597402597,en,1.1
+Kotaku,Kotaku,ORG,0.3541666666666667,0.2611111111111111,en,1.2
 WABAG,WABAG,ORG,0.19696969696969696,0.0,en,1.1
-the Virginia House of Delegates,the Virginia House of Delegates,ORG,0.0,0.0,en,1.1
-Stanford University,Stanford University,ORG,0.28409090909090906,0.1515151515151515,en,1.1
-Blue Seed,Blue Seed,ORG,0.3106060606060606,0.31313131313131315,en,1.1
-Boutique Design New York,Boutique Design New York,ORG,0.0330578512396694,0.25206611570247933,en,1.1
+Baron Real Estate Fund,Baron Real Estate Fund,ORG,0.36363636363636365,0.27272727272727276,en,1.1
+MAX Power Mining Corp.,MAX Power Mining Corp.,ORG,0.0,0.0,en,1.1
+Dreame Aqua10 Ultra Roller Review,Dreame Aqua10 Ultra Roller Review,ORG,0.09090909090909091,0.1477272727272727,en,1.1
+Ceres Partners,Ceres Partners,ORG,0.0,0.0,en,1.1
+Digital Markets Act,Digital Markets Act,ORG,0.45454545454545453,0.22727272727272727,en,1.1
+Fresh-Water Roller Mopping Meets,Fresh-Water Roller Mopping Meets,ORG,0.09090909090909091,0.1477272727272727,en,1.1
+Enlit Europe 2025,Enlit Europe 2025,ORG,0.0487012987012987,0.2597402597402597,en,1.1
+The Nepal Electricity Authority,The Nepal Electricity Authority,ORG,0.0303030303030303,0.14393939393939392,en,1.1
 Va Tech WABAG,Va Tech WABAG,ORG,0.3106060606060606,0.31313131313131315,en,1.1
-Nat,Nat,ORG,0.0,0.0,en,1.1
-Consolidated Water Co. Ltd.,Consolidated Water Co. Ltd.,ORG,0.2909090909090909,0.21818181818181814,en,1.1
-Día de Muertos (Day of the Dead,Día de Muertos (Day of the Dead,ORG,-0.36363636363636365,0.36363636363636365,en,1.1
-Secret,Secret,ORG,0.303030303030303,0.4848484848484848,en,1.1
-Sonderlust Studios,Sonderlust Studios,ORG,0.13553719008264462,0.39256198347107435,en,1.1
-IAG,IAG,ORG,0.06198347107438015,0.0,en,1.1
-CWCO,CWCO,ORG,0.2909090909090909,0.21818181818181814,en,1.1
-Chaos,Chaos,ORG,0.0,0.303030303030303,en,1.1
-the Board of Directors,the Board of Directors,ORG,0.0,0.0,en,1.1
+Wied,Wied,ORG,1.4545454545454546,0.8181818181818181,en,1.1
+LoRaWAN,LoRaWAN,ORG,0.0974025974025974,0.2597402597402597,en,1.1
+Blue Seed,Blue Seed,ORG,0.3106060606060606,0.31313131313131315,en,1.1
+Dust,Dust,ORG,0.2597402597402597,0.48701298701298695,en,1.1
 Nimble Vision,Nimble Vision,ORG,0.19696969696969696,0.0,en,1.1
-the United Nation,the United Nation,ORG,0.0,0.0,en,1.0
-Saffron,Saffron,ORG,0.06722222222222222,0.0,en,1.0
-Vedanta Ltd,Vedanta Ltd,ORG,0.0,0.0,en,1.0
-True West Capital Partners,True West Capital Partners,ORG,0.35,0.0,en,1.0
-Hinterland Hospital and Health Service,Hinterland Hospital and Health Service,ORG,-0.2,0.0,en,1.0
-FFS,FFS,ORG,0.0,0.0,en,1.0
-Climate Change,Climate Change,ORG,0.0,0.0,en,1.0
-the Florida Forest Service,the Florida Forest Service,ORG,0.0,0.0,en,1.0
-Future Green Irrigation,Future Green Irrigation,ORG,-0.00714285714285715,0.0,en,1.0
-pressure.</,pressure.</,ORG,-0.09285714285714287,0.0,en,1.0
-Deadliest U.S. Avalanche,Deadliest U.S. Avalanche,ORG,0.0,0.0,en,1.0
-Vedanta,Vedanta,ORG,0.0,0.0,en,1.0
-Weathermatic,Weathermatic,ORG,0.08809523809523807,0.0,en,1.0
-Rain Enhancement Technologies,Rain Enhancement Technologies,ORG,-0.041666666666666664,0.0,en,1.0
-Peoples' Review,Peoples' Review,ORG,0.11666666666666665,0.0,en,1.0
-Helical Gear Irrigation Gearboxes,Helical Gear Irrigation Gearboxes,ORG,0.0,0.0,en,1.0
-"Physical Infrastructure and Transport, Urban Development","Physical Infrastructure and Transport, Urban Development",ORG,0.0,0.0,en,1.0
-the Agro-Climatic Resilience,the Agro-Climatic Resilience,ORG,0.5,0.0,en,1.0
-Ujyalo Nepal Party,Ujyalo Nepal Party,ORG,0.0,0.0,en,1.0
-Al Jazeera,Al Jazeera,ORG,0.0,0.0,en,1.0
-Leges,Leges,ORG,0.0,0.0,en,1.0
-Evol.7,Evol.7,ORG,0.0,0.0,en,1.0
-São Paulo,São Paulo,ORG,0.15,0.0,en,1.0
-Forest,Forest,ORG,0.0,0.0,en,1.0
-Green Design,Green Design,ORG,-0.2,0.0,en,1.0
-AJ,AJ,ORG,0.06666666666666667,0.0,en,1.0
-the Truth Behind Avian Weather,the Truth Behind Avian Weather,ORG,-0.4,0.0,en,1.0
-LADWP,LADWP,ORG,0.08,0.0,en,1.0
-the Los Angeles Department of Water and Power,the Los Angeles Department of Water and Power,ORG,0.08,0.0,en,1.0
-LA,LA,ORG,-0.35185185185185186,0.0,en,1.0
-Crown,Crown,ORG,0.0,0.0,en,1.0
-Ecol,Ecol,ORG,0.0,0.0,en,1.0
-N223m,N223m,ORG,0.0,0.0,en,1.0
-Assembly,Assembly,ORG,0.06722222222222222,0.0,en,1.0
-CBC,CBC,ORG,0.3,0.0,en,1.0
-PE Hub,PE Hub,ORG,0.08809523809523807,0.0,en,1.0
-PLOS Water,PLOS Water,ORG,0.0,0.0,en,1.0
-Operation Popeye,Operation Popeye,ORG,-0.006666666666666659,0.0,en,1.0
-the University of Exeter,the University of Exeter,ORG,0.07878787878787875,0.0,en,1.0
-designboom | architecture & design,designboom | architecture & design,ORG,0.25,0.0,en,1.0
-Danapur,Danapur,ORG,0.03333333333333333,0.0,en,1.0
-"4,0","4,0",ORG,0.15,0.0,en,1.0
-The Environment Agency,The Environment Agency,ORG,0.0,0.0,en,1.0
-Lindsay,Lindsay,ORG,0.0,0.0,en,1.0
-Kosi-Mechi river,Kosi-Mechi river,ORG,0.0,0.0,en,1.0
-Trichoderma,Trichoderma,ORG,0.0,0.0,en,1.0
-NASCAR Truck Series,NASCAR Truck Series,ORG,0.8,0.0,en,1.0
-thefly.com,thefly.com,ORG,0.25,0.0,en,1.0
-Fly,Fly,ORG,0.2533333333333333,0.0,en,1.0
-corpor,corpor,ORG,0.2533333333333333,0.0,en,1.0
-Agricultural and Urban Demand Boosts Sprinkler Hose Market Growth:,Agricultural and Urban Demand Boosts Sprinkler Hose Market Growth:,ORG,0.0,0.0,en,1.0
-Guadalupe,Guadalupe,ORG,-0.2,0.0,en,1.0
-Blackout Warfare Needs,Blackout Warfare Needs,ORG,0.0,0.0,en,1.0
-Amazons,Amazons,ORG,0.0,0.0,en,1.0
-Racecraft,Racecraft,ORG,0.8,0.0,en,1.0
-FAO,FAO,ORG,0.0,0.0,en,1.0
-Mount Eba Station,Mount Eba Station,ORG,0.0,0.0,en,1.0
-the Texas Hill Country,the Texas Hill Country,ORG,-0.17857142857142858,0.0,en,1.0
-the National Drought Group,the National Drought Group,ORG,-0.025,0.0,en,1.0
-Synthesis Report,Synthesis Report,ORG,0.0,0.0,en,1.0
-Texas Hill Country,Texas Hill Country,ORG,-0.2,0.0,en,1.0
-the Intergovernmental Panel on Climate Change,the Intergovernmental Panel on Climate Change,ORG,0.0,0.0,en,1.0
-MD &amp,MD &amp,ORG,0.13333333333333336,0.0,en,1.0
-MD & CEO,MD & CEO,ORG,0.13333333333333336,0.0,en,1.0
-Blackburn Rovers',Blackburn Rovers',ORG,-0.4,0.0,en,1.0
-the Nunavut Emergency Management,the Nunavut Emergency Management,ORG,0.0,0.0,en,1.0
-the Intergovernmental Panel on Climate Change (Cambridge Univ,the Intergovernmental Panel on Climate Change (Cambridge Univ,ORG,0.0,0.0,en,1.0
-NEM,NEM,ORG,0.0,0.0,en,1.0
-LangGraph,LangGraph,ORG,0.0,0.0,en,1.0
-UI/UX,UI/UX,ORG,0.0,0.0,en,1.0
-NSW,NSW,ORG,-0.1,0.0,en,1.0
-Truth Social,Truth Social,ORG,0.03333333333333333,0.0,en,1.0
-Working Group,Working Group,ORG,0.0,0.0,en,1.0
-Official White House,Official White House,ORG,0.0,0.0,en,1.0
-Stellios Boutaris,Stellios Boutaris,ORG,0.14285714285714285,0.0,en,1.0
-Domaine Sigalas,Domaine Sigalas,ORG,0.14285714285714285,0.0,en,1.0
-SNRT News,SNRT News,ORG,0.0,0.0,en,1.0
-Carbon Tracker,Carbon Tracker,ORG,0.07878787878787875,0.0,en,1.0
-KLFY,KLFY,ORG,-0.1,0.0,en,1.0
-The Louisiana Ragin Cajuns,The Louisiana Ragin Cajuns,ORG,-0.1,0.0,en,1.0
-WFP Geneva Palais Briefing,WFP Geneva Palais Briefing,ORG,0.0,0.0,en,1.0
-Cold,Cold,ORG,-0.3,0.0,en,1.0
+OnePlus,OnePlus,ORG,0.1239669421487603,0.0,en,1.1
+Hylocereus,Hylocereus,ORG,0.5,0.5,en,1.1
+CWCO,CWCO,ORG,0.2909090909090909,0.21818181818181814,en,1.1
+Secret,Secret,ORG,0.303030303030303,0.4848484848484848,en,1.1
+Eagle Energy Metals Corp.,Eagle Energy Metals Corp.,ORG,0.045454545454545456,0.09090909090909091,en,1.1
+Voxtur Analytics Corp. Initiates Court-Supervised Restructuring Process to Strengthen Financial Position and Support Long-Term Growth,Voxtur Analytics Corp. Initiates Court-Supervised Restructuring Process to Strengthen Financial Position and Support Long-Term Growth,ORG,0.0,0.0,en,1.1
+"Medical,","Medical,",ORG,0.0,0.0,en,1.1
+CL,CL,ORG,0.7272727272727273,0.45454545454545453,en,1.1
+"Watts Water Technologies, Inc.","Watts Water Technologies, Inc.",ORG,0.0,0.0,en,1.1
+the Board of Directors,the Board of Directors,ORG,0.0,0.0,en,1.1
+Chaos,Chaos,ORG,0.0,0.303030303030303,en,1.1
+Disney World,Disney World,ORG,0.3181818181818181,0.5,en,1.1
+Company,Company,ORG,0.0,0.09090909090909091,en,1.1
+Black to Red Leather,Black to Red Leather,ORG,-0.19256198347107434,0.3376623376623376,en,1.1
+Watermelon Pics,Watermelon Pics,ORG,0.5933195592286501,0.4669421487603306,en,1.1
+Gold Dragons,Gold Dragons,ORG,-0.19256198347107434,0.3376623376623376,en,1.1
+Consolidated Water Co. Ltd.,Consolidated Water Co. Ltd.,ORG,0.2909090909090909,0.21818181818181814,en,1.1
+Novartis,Novartis,ORG,0.45454545454545453,0.22727272727272727,en,1.1
+Expressway Suites,Expressway Suites,ORG,0.0,0.0,en,1.1
+the Bank of Greece,the Bank of Greece,ORG,0.08471074380165287,0.0,en,1.1
+AstraZeneca,AstraZeneca,ORG,0.45454545454545453,0.22727272727272727,en,1.1
+Stournaras,Stournaras,ORG,0.08471074380165287,0.22933884297520657,en,1.1
+Eagle Energy Metals Reports,Eagle Energy Metals Reports,ORG,0.4132231404958677,0.4958677685950412,en,1.1
+Aurora Uranium Project,Aurora Uranium Project,ORG,0.4132231404958677,0.4958677685950412,en,1.1
+Hamas,Hamas,ORG,0.06565656565656566,0.0,en,1.1
+Kormedi.com,Kormedi.com,ORG,0.6818181818181818,0.5681818181818181,en,1.1
+Boutique Design New York,Boutique Design New York,ORG,0.0330578512396694,0.25206611570247933,en,1.1
+NHL,NHL,ORG,0.45454545454545453,0.45454545454545453,en,1.1
+World Health Organization,World Health Organization,ORG,0.0,0.0,en,1.1
+Stanford University,Stanford University,ORG,0.28409090909090906,0.1515151515151515,en,1.1
+Running Gran Turismo,Running Gran Turismo,ORG,0.0,0.0,en,1.1
+NFL,NFL,ORG,0.0,0.0,en,1.1
+IAG,IAG,ORG,0.06198347107438015,0.0,en,1.1
+Nubia Z80 Ultra Review:,Nubia Z80 Ultra Review:,ORG,0.16233766233766234,0.3603896103896103,en,1.1
+the Virginia House of Delegates,the Virginia House of Delegates,ORG,0.0,0.0,en,1.1
+The Coca-Cola Co.,The Coca-Cola Co.,ORG,0.0,0.9090909090909091,en,1.1
+Sonderlust Studios,Sonderlust Studios,ORG,0.13553719008264462,0.39256198347107435,en,1.1
+Lo-TEK,Lo-TEK,ORG,0.2479338842975206,0.4132231404958677,en,1.1
+Pan American Health,Pan American Health,ORG,0.0,0.0,en,1.1
+Día de Muertos (Day of the Dead,Día de Muertos (Day of the Dead,ORG,-0.36363636363636365,0.36363636363636365,en,1.1
+Corner Brook Pulp and Paper,Corner Brook Pulp and Paper,ORG,-0.07575757575757575,0.2348484848484848,en,1.1
+A17,A17,ORG,0.056818181818181816,0.0,en,1.1
+TN8.20,TN8.20,ORG,0.056818181818181816,0.0,en,1.1
+Deer Lake Power,Deer Lake Power,ORG,-0.07575757575757575,0.2348484848484848,en,1.1
+Chris,Chris,ORG,0.2,0.0,en,1.0
 the Indus Valley Civilization,the Indus Valley Civilization,ORG,0.0,0.0,en,1.0
+International Energy Agency,International Energy Agency,ORG,0.0,0.0,en,1.0
+TAMBACOUNDA,TAMBACOUNDA,ORG,0.0,0.0,en,1.0
+the American Meteorological S,the American Meteorological S,ORG,0.0,0.0,en,1.0
+The San Joaquin Valley,The San Joaquin Valley,ORG,-0.022222222222222216,0.0,en,1.0
+the American Meteorological Society,the American Meteorological Society,ORG,0.0,0.0,en,1.0
+Green Design,Green Design,ORG,-0.2,0.0,en,1.0
+Trump Keeps Making Moves,Trump Keeps Making Moves,ORG,0.0,0.0,en,1.0
+SNRT News,SNRT News,ORG,0.0,0.0,en,1.0
+Helical Gear Irrigation Gearboxes,Helical Gear Irrigation Gearboxes,ORG,0.0,0.0,en,1.0
+LADWP,LADWP,ORG,0.08,0.0,en,1.0
+NYC,NYC,ORG,-0.5,0.0,en,1.0
 mpox,mpox,ORG,0.21818181818181817,0.0,en,1.0
-ec,ec,ORG,0.3333333333333333,0.0,en,1.0
-the European Union’s,the European Union’s,ORG,0.125,0.0,en,1.0
+Revolution Health Radio,Revolution Health Radio,ORG,0.2,0.0,en,1.0
+pyhidromotic,pyhidromotic,ORG,0.0,0.0,en,1.0
+IEA,IEA,ORG,0.0,0.0,en,1.0
+Hydroelectric Sources,Hydroelectric Sources,ORG,0.0,0.0,en,1.0
+World Bank,World Bank,ORG,0.0,0.0,en,1.0
+the Sri Lanka Women Tour of India,the Sri Lanka Women Tour of India,ORG,0.13727272727272727,0.0,en,1.0
+Ujyalo Nepal Party,Ujyalo Nepal Party,ORG,0.0,0.0,en,1.0
+KLFY,KLFY,ORG,-0.1,0.0,en,1.0
+Peoples' Review,Peoples' Review,ORG,0.11666666666666665,0.0,en,1.0
+LFCR,LFCR,ORG,0.3,0.0,en,1.0
+The National Meteorological Administration,The National Meteorological Administration,ORG,0.0,0.0,en,1.0
+Vedanta Ltd,Vedanta Ltd,ORG,0.0,0.0,en,1.0
+the DAWN Commission,the DAWN Commission,ORG,0.0,0.0,en,1.0
+The Louisiana Ragin Cajuns,The Louisiana Ragin Cajuns,ORG,-0.1,0.0,en,1.0
+Cold,Cold,ORG,-0.3,0.0,en,1.0
+Laughing Water Capital’s,Laughing Water Capital’s,ORG,0.0,0.0,en,1.0
+"Physical Infrastructure and Transport, Urban Development","Physical Infrastructure and Transport, Urban Development",ORG,0.0,0.0,en,1.0
+DAWN commission,DAWN commission,ORG,0.0,0.0,en,1.0
+Vedanta,Vedanta,ORG,0.0,0.0,en,1.0
+Newsweek,Newsweek,ORG,0.3,0.0,en,1.0
+Leges,Leges,ORG,0.0,0.0,en,1.0
+S’West farmers,S’West farmers,ORG,0.0,0.0,en,1.0
 the Golden State's,the Golden State's,ORG,0.3,0.0,en,1.0
-Govt,Govt,ORG,0.3,0.0,en,1.0
-sur,sur,ORG,-0.25,0.0,en,1.0
-the Babai Irrigation Project,the Babai Irrigation Project,ORG,0.0,0.0,en,1.0
+total)http,total)http,ORG,0.0,0.0,en,1.0
+Department of Water Resources,Department of Water Resources,ORG,0.3,0.0,en,1.0
+the Los Angeles Department of Water and Power,the Los Angeles Department of Water and Power,ORG,0.08,0.0,en,1.0
+Varsity Theater,Varsity Theater,ORG,0.0,0.0,en,1.0
+LA,LA,ORG,-0.35185185185185186,0.0,en,1.0
+Valdek MikliThis,Valdek MikliThis,ORG,0.28,0.0,en,1.0
+Calgarians,Calgarians,ORG,-0.03333333333333333,0.0,en,1.0
+The Post,The Post,ORG,0.12666666666666665,0.0,en,1.0
+Introduct,Introduct,ORG,0.0,0.0,en,1.0
+PE Hub,PE Hub,ORG,0.08809523809523807,0.0,en,1.0
+Smart Home Tech,Smart Home Tech,ORG,0.23214285714285715,0.0,en,1.0
+LCO,LCO,ORG,0.0,0.0,en,1.0
+Los Angeles Times,Los Angeles Times,ORG,0.1,0.0,en,1.0
+RSC Adv.,RSC Adv.,ORG,0.28,0.0,en,1.0
 Tanakpur Barrage,Tanakpur Barrage,ORG,0.0,0.0,en,1.0
+Weathermatic,Weathermatic,ORG,0.08809523809523807,0.0,en,1.0
+Dujiangyan Village Candy Fair,Dujiangyan Village Candy Fair,ORG,0.41818181818181815,0.0,en,1.0
+the One Water Laboratory in Mission Valley,the One Water Laboratory in Mission Valley,ORG,0.0,0.0,en,1.0
+True West Capital Partners,True West Capital Partners,ORG,0.35,0.0,en,1.0
+SN Appl,SN Appl,ORG,0.0,0.0,en,1.0
+Hinterland Hospital and Health Service,Hinterland Hospital and Health Service,ORG,-0.2,0.0,en,1.0
+Drought Level 4,Drought Level 4,ORG,0.0,0.0,en,1.0
+Future Green Irrigation,Future Green Irrigation,ORG,-0.00714285714285715,0.0,en,1.0
+PLOS Water,PLOS Water,ORG,0.0,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,0.008333333333333333,0.0,en,1.0
+NWS AI-Generated Weather Predictions Are Making Up New Towns,NWS AI-Generated Weather Predictions Are Making Up New Towns,ORG,0.13636363636363635,0.0,en,1.0
+Yorkshire Water,Yorkshire Water,ORG,0.0,0.0,en,1.0
+the Ilkley Gazette,the Ilkley Gazette,ORG,0.0,0.0,en,1.0
+Emergency Management Agency,Emergency Management Agency,ORG,-0.07333333333333333,0.0,en,1.0
+DWFI Podcast,DWFI Podcast,ORG,0.13636363636363635,0.0,en,1.0
+Nationalist Congress Party,Nationalist Congress Party,ORG,-0.16666666666666666,0.0,en,1.0
+Mandai Weir,Mandai Weir,ORG,0.05,0.0,en,1.0
+the European Union’s,the European Union’s,ORG,0.125,0.0,en,1.0
+NCP,NCP,ORG,0.1875,0.0,en,1.0
+the Telangana Government,the Telangana Government,ORG,0.4166666666666667,0.0,en,1.0
+Govt,Govt,ORG,0.3,0.0,en,1.0
+Civil Supplies and Irrigation,Civil Supplies and Irrigation,ORG,0.4166666666666667,0.0,en,1.0
+Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
+State,State,ORG,-0.11666666666666665,0.0,en,1.0
+Crown,Crown,ORG,0.0,0.0,en,1.0
+"Global Water Resources,","Global Water Resources,",ORG,-0.09999999999999999,0.0,en,1.0
+World Weather Attribution,World Weather Attribution,ORG,-0.6,0.0,en,1.0
+Wikimedia Commons,Wikimedia Commons,ORG,0.0,0.0,en,1.0
+the Daugherty Water for Food Global Institute,the Daugherty Water for Food Global Institute,ORG,0.21875,0.0,en,1.0
+CC BY-SA 2.5,CC BY-SA 2.5,ORG,0.0,0.0,en,1.0
+the North Koel Reservoir,the North Koel Reservoir,ORG,0.05,0.0,en,1.0
+IFL Science,IFL Science,ORG,0.0,0.0,en,1.0
+CS reviews irrigation & bridge,CS reviews irrigation & bridge,ORG,0.0,0.0,en,1.0
+sur,sur,ORG,-0.25,0.0,en,1.0
+gre,gre,ORG,0.0,0.0,en,1.0
+the Babai Irrigation Project,the Babai Irrigation Project,ORG,0.0,0.0,en,1.0
+solidarity,solidarity,ORG,-0.06666666666666667,0.0,en,1.0
+Climate Adaptation Means Building Social Infrastructure (Blog,Climate Adaptation Means Building Social Infrastructure (Blog,ORG,0.03333333333333333,0.0,en,1.0
+CBC,CBC,ORG,0.3,0.0,en,1.0
+the Truth Behind Avian Weather,the Truth Behind Avian Weather,ORG,-0.4,0.0,en,1.0
+NASA Data,NASA Data,ORG,0.0,0.0,en,1.0
+Liquidia Corp,Liquidia Corp,ORG,0.0,0.0,en,1.0
+Racecraft,Racecraft,ORG,0.8,0.0,en,1.0
+UOW,UOW,ORG,0.14444444444444443,0.0,en,1.0
+Deadliest U.S. Avalanche,Deadliest U.S. Avalanche,ORG,0.0,0.0,en,1.0
+designboom | architecture & design,designboom | architecture & design,ORG,0.25,0.0,en,1.0
+Operation Popeye,Operation Popeye,ORG,-0.006666666666666659,0.0,en,1.0
+WFP Geneva Palais Briefing,WFP Geneva Palais Briefing,ORG,0.0,0.0,en,1.0
 "World Food Programme
 ","World Food Programme
 ",ORG,0.0,0.0,en,1.0
-The Louisiana Ragin,The Louisiana Ragin,ORG,-0.1,0.0,en,1.0
-rhizosphere micro ecology and fruit production,rhizosphere micro ecology and fruit production,ORG,-0.25,0.0,en,1.0
-LLP,LLP,ORG,0.0,0.0,en,1.0
-Anno…,Anno…,ORG,-0.25,0.0,en,1.0
-the University of California San Diego,the University of California San Diego,ORG,0.15284090909090908,0.0,en,1.0
-Nature Sustainability,Nature Sustainability,ORG,0.15284090909090908,0.0,en,1.0
-CNHI Data Breach Claims,CNHI Data Breach Claims,ORG,0.0,0.0,en,1.0
-"Schlenker, W. &amp","Schlenker, W. &amp",ORG,0.0,0.0,en,1.0
-Farmers Sound Alarm Over Failing Crops and Shrinking Dams,Farmers Sound Alarm Over Failing Crops and Shrinking Dams,ORG,0.4,0.0,en,1.0
-The Independent,The Independent,ORG,0.0,0.0,en,1.0
-Tech,Tech,ORG,0.0,0.0,en,1.0
-Narayangarh,Narayangarh,ORG,0.05,0.0,en,1.0
-Big Tech,Big Tech,ORG,0.0,0.0,en,1.0
 Team USA,Team USA,ORG,0.0,0.0,en,1.0
-soil n,soil n,ORG,0.16666666666666666,0.0,en,1.0
--40 C,-40 C,ORG,-0.04999999999999999,0.0,en,1.0
-the University of Exet,the University of Exet,ORG,0.13636363636363635,0.0,en,1.0
-Newsweek,Newsweek,ORG,0.3,0.0,en,1.0
-the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.0,en,1.0
-Department of Water Resources,Department of Water Resources,ORG,0.3,0.0,en,1.0
-digital bank,digital bank,ORG,0.0,0.0,en,1.0
-UP Irrigation department,UP Irrigation department,ORG,-0.2,0.0,en,1.0
+"Schlenker, W. &amp","Schlenker, W. &amp",ORG,0.0,0.0,en,1.0
+NASCAR Truck Series,NASCAR Truck Series,ORG,0.8,0.0,en,1.0
+States Reliant,States Reliant,ORG,-0.18181818181818182,0.0,en,1.0
+Suns,Suns,ORG,0.08571428571428572,0.0,en,1.0
+Kosi-Mechi river,Kosi-Mechi river,ORG,0.0,0.0,en,1.0
+Danapur,Danapur,ORG,0.03333333333333333,0.0,en,1.0
+Mount Eba Station,Mount Eba Station,ORG,0.0,0.0,en,1.0
+UI/UX,UI/UX,ORG,0.0,0.0,en,1.0
+LangGraph,LangGraph,ORG,0.0,0.0,en,1.0
+MD & CEO,MD & CEO,ORG,0.13333333333333336,0.0,en,1.0
+MD &amp,MD &amp,ORG,0.13333333333333336,0.0,en,1.0
+the University of Wollongong,the University of Wollongong,ORG,0.14444444444444443,0.0,en,1.0
+Rain Enhancement Technologies,Rain Enhancement Technologies,ORG,-0.041666666666666664,0.0,en,1.0
+RFE/RL,RFE/RL,ORG,0.3,0.0,en,1.0
+the Agri and Allied Sectors,the Agri and Allied Sectors,ORG,0.0,0.0,en,1.0
+Maines Wild Blueberry Commission,Maines Wild Blueberry Commission,ORG,-0.032323232323232316,0.0,en,1.0
+IPOH,IPOH,ORG,0.0,0.0,en,1.0
+"Perak Infrastructure, Energy, Water and Public Trans","Perak Infrastructure, Energy, Water and Public Trans",ORG,0.0,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,0.03125,0.0,en,1.0
+EPA,EPA,ORG,0.0,0.0,en,1.0
+the Environmental Protection Agency,the Environmental Protection Agency,ORG,-0.06666666666666667,0.0,en,1.0
+Millersville University’s,Millersville University’s,ORG,0.25,0.0,en,1.0
+Andhra Pradesh,Andhra Pradesh,ORG,0.0,0.0,en,1.0
+pressure.</,pressure.</,ORG,-0.09285714285714287,0.0,en,1.0
+Skardu,Skardu,ORG,0.0,0.0,en,1.0
+the Florida Forest Service,the Florida Forest Service,ORG,0.0,0.0,en,1.0
+FFS,FFS,ORG,0.0,0.0,en,1.0
+N223m,N223m,ORG,0.0,0.0,en,1.0
+the Agro-Climatic Resilience,the Agro-Climatic Resilience,ORG,0.5,0.0,en,1.0
+Saffron,Saffron,ORG,0.06722222222222222,0.0,en,1.0
+São Paulo,São Paulo,ORG,0.15,0.0,en,1.0
+Forest,Forest,ORG,0.0,0.0,en,1.0
+Driest Cities,Driest Cities,ORG,0.0,0.0,en,1.0
+Columbia,Columbia,ORG,0.0,0.0,en,1.0
+J. M. &amp,J. M. &amp,ORG,0.4,0.0,en,1.0
+The Tennessean / USA TODAY NETWORK,The Tennessean / USA TODAY NETWORK,ORG,0.0,0.0,en,1.0
+Moda Center Lobbyists' Money Grab,Moda Center Lobbyists' Money Grab,ORG,-0.55,0.0,en,1.0
+"Jain Irrigation, Astral","Jain Irrigation, Astral",ORG,0.0,0.0,en,1.0
+Jal Jeevan Mission,Jal Jeevan Mission,ORG,0.0,0.0,en,1.0
+the Jal Jeevan Mission,the Jal Jeevan Mission,ORG,0.041666666666666664,0.0,en,1.0
+the Jal Jeevan Mi,the Jal Jeevan Mi,ORG,0.041666666666666664,0.0,en,1.0
+Becton,Becton,ORG,0.0,0.0,en,1.0
+Dickinson Recieves FDA Clearance,Dickinson Recieves FDA Clearance,ORG,0.0,0.0,en,1.0
+TNR,TNR,ORG,0.13636363636363635,0.0,en,1.0
+The Uttar Pradesh Irrigation and Water Resources Department,The Uttar Pradesh Irrigation and Water Resources Department,ORG,0.0625,0.0,en,1.0
+Crappy Willamette News,Crappy Willamette News,ORG,-0.55,0.0,en,1.0
+the Center for Climate and Security,the Center for Climate and Security,ORG,-0.13541666666666666,0.0,en,1.0
+Mercury,Mercury,ORG,0.18333333333333335,0.0,en,1.0
+Water Resources and Water Supply,Water Resources and Water Supply,ORG,0.0,0.0,en,1.0
+Apple Podcasts |,Apple Podcasts |,ORG,0.0,0.0,en,1.0
+Galaxy Brain,Galaxy Brain,ORG,0.0,0.0,en,1.0
+obviousdeath,obviousdeath,ORG,0.0,0.0,en,1.0
+Floodwater,Floodwater,ORG,0.0,0.0,en,1.0
+Agriculture,Agriculture,ORG,0.04583333333333334,0.0,en,1.0
+KDMC,KDMC,ORG,-0.06875,0.0,en,1.0
+Va Tech,Va Tech,ORG,0.0,0.0,en,1.0
+Modular Cloud Plugins,Modular Cloud Plugins,ORG,0.0,0.0,en,1.0
+Microbiol.9,Microbiol.9,ORG,0.0,0.0,en,1.0
+the Lagos State Ministry of Environment and Water Resources,the Lagos State Ministry of Environment and Water Resources,ORG,0.09166666666666667,0.0,en,1.0
+Google Sc…,Google Sc…,ORG,0.0,0.0,en,1.0
+the University of…,the University of…,ORG,0.0,0.0,en,1.0
+Amazon Cloud Facilities,Amazon Cloud Facilities,ORG,0.025,0.0,en,1.0
+NOAA,NOAA,ORG,0.0,0.0,en,1.0
+The Command Area Development Board,The Command Area Development Board,ORG,0.125,0.0,en,1.0
+SA,SA,ORG,0.20833333333333334,0.0,en,1.0
+FAS,FAS,ORG,0.0,0.0,en,1.0
+Glucocorticoid,Glucocorticoid,ORG,0.03333333333333333,0.0,en,1.0
+"the International Institute for Applied
+Systems Analysis","the International Institute for Applied
+Systems Analysis",ORG,0.2619047619047619,0.0,en,1.0
+10x Your Workflows & Projects,10x Your Workflows & Projects,ORG,0.0,0.0,en,1.0
+NBD,NBD,ORG,0.0,0.0,en,1.0
+Western Australia's,Western Australia's,ORG,0.3,0.0,en,1.0
+Iran National Security,Iran National Security,ORG,0.1,0.0,en,1.0
+Puducherry,Puducherry,ORG,0.0,0.0,en,1.0
+PUDUCHERRY,PUDUCHERRY,ORG,0.0,0.0,en,1.0
+Bing AI,Bing AI,ORG,-0.5,0.0,en,1.0
+Calgary Homes by Tazscapes,Calgary Homes by Tazscapes,ORG,0.0,0.0,en,1.0
+Claude Code Plugins,Claude Code Plugins,ORG,0.0,0.0,en,1.0
+Imagn Images,Imagn Images,ORG,0.0,0.0,en,1.0
+avera,avera,ORG,-0.11944444444444442,0.0,en,1.0
+LQDA,LQDA,ORG,0.0,0.0,en,1.0
+HBO,HBO,ORG,0.0,0.0,en,1.0
+TejasswiBengaluru Headlines,TejasswiBengaluru Headlines,ORG,0.016666666666666666,0.0,en,1.0
+National Bank for Agriculture and Rural Development,National Bank for Agriculture and Rural Development,ORG,0.016666666666666666,0.0,en,1.0
+RupsaAfter Nuapada,RupsaAfter Nuapada,ORG,0.016666666666666666,0.0,en,1.0
+Socotra,Socotra,ORG,0.0,0.0,en,1.0
+Ancient Food Forest Irrigation & More – TSP Rewind,Ancient Food Forest Irrigation & More – TSP Rewind,ORG,0.5,0.0,en,1.0
+Fruit Cultivation Market Report 2026,Fruit Cultivation Market Report 2026,ORG,0.0,0.0,en,1.0
+"The ""Fruit Cultivation Market Report 2026","The ""Fruit Cultivation Market Report 2026",ORG,0.10714285714285714,0.0,en,1.0
+Martin,Martin,ORG,0.0,0.0,en,1.0
+Irrigation Automation Industry Research Report,Irrigation Automation Industry Research Report,ORG,0.0,0.0,en,1.0
+Accident,Accident,ORG,0.0,0.0,en,1.0
+The Global Irrigation Automation Market,The Global Irrigation Automation Market,ORG,0.0,0.0,en,1.0
+the World of Amphibians,the World of Amphibians,ORG,0.0,0.0,en,1.0
++8435,+8435,ORG,0.0,0.0,en,1.0
+Elon Musk,Elon Musk,ORG,0.11250000000000002,0.0,en,1.0
+Kunhikrishnan,Kunhikrishnan,ORG,0.0,0.0,en,1.0
+lowsNBC News,lowsNBC News,ORG,-0.09999999999999999,0.0,en,1.0
+PicPay IPO,PicPay IPO,ORG,0.0,0.0,en,1.0
+VI,VI,ORG,0.0,0.0,en,1.0
+the Noida Authority,the Noida Authority,ORG,0.08333333333333333,0.0,en,1.0
+UpLink Announce Winners,UpLink Announce Winners,ORG,0.0,0.0,en,1.0
+Dams,Dams,ORG,0.0,0.0,en,1.0
 the Uttar Pradesh Irrigation department,the Uttar Pradesh Irrigation department,ORG,0.0,0.0,en,1.0
+FCC,FCC,ORG,0.0,0.0,en,1.0
+NextNav,NextNav,ORG,0.0,0.0,en,1.0
+Kote,Kote,ORG,-0.03571428571428571,0.0,en,1.0
+Monkeys &amp,Monkeys &amp,ORG,0.17393939393939392,0.0,en,1.0
+Resilience Media,Resilience Media,ORG,0.5,0.0,en,1.0
+Defence,Defence,ORG,0.5,0.0,en,1.0
+Techmeme,Techmeme,ORG,0.5,0.0,en,1.0
+UP Irrigation department,UP Irrigation department,ORG,-0.2,0.0,en,1.0
 Hindon,Hindon,ORG,0.0,0.0,en,1.0
+HCL Group,HCL Group,ORG,0.0,0.0,en,1.0
 SUV,SUV,ORG,0.13333333333333333,0.0,en,1.0
 Greater Noida's,Greater Noida's,ORG,0.13333333333333333,0.0,en,1.0
 the Uttar Pradesh Irrigation Department,the Uttar Pradesh Irrigation Department,ORG,0.13333333333333333,0.0,en,1.0
-Aurora,Aurora,ORG,0.0,0.0,en,1.0
-The Tennessean / USA TODAY NETWORK,The Tennessean / USA TODAY NETWORK,ORG,0.0,0.0,en,1.0
+digital bank,digital bank,ORG,0.0,0.0,en,1.0
 the Pacific N,the Pacific N,ORG,0.0,0.0,en,1.0
 Raleigh,Raleigh,ORG,0.2,0.0,en,1.0
 Water Bankruptcy,Water Bankruptcy,ORG,0.0,0.0,en,1.0
 UN Scientists Report,UN Scientists Report,ORG,0.0,0.0,en,1.0
-HCL Group,HCL Group,ORG,0.0,0.0,en,1.0
-the Lamont-Doherty Earth Observatory,the Lamont-Doherty Earth Observatory,ORG,0.14545454545454545,0.0,en,1.0
-avera,avera,ORG,-0.11944444444444442,0.0,en,1.0
-Techmeme,Techmeme,ORG,0.5,0.0,en,1.0
-Accident,Accident,ORG,0.0,0.0,en,1.0
-NextNav,NextNav,ORG,0.0,0.0,en,1.0
-Follow Us On,Follow Us On,ORG,-0.07333333333333333,0.0,en,1.0
-Laughing Water Capital’s,Laughing Water Capital’s,ORG,0.0,0.0,en,1.0
-Navelim,Navelim,ORG,0.0,0.0,en,1.0
-Maines Wild Blueberry Commission,Maines Wild Blueberry Commission,ORG,-0.032323232323232316,0.0,en,1.0
-LQDA,LQDA,ORG,0.0,0.0,en,1.0
-FCC,FCC,ORG,0.0,0.0,en,1.0
-The Water Resources Department,The Water Resources Department,ORG,0.0,0.0,en,1.0
-the World Economic Forum,the World Economic Forum,ORG,0.1,0.0,en,1.0
-The post Irrigation Systems,The post Irrigation Systems,ORG,0.14166666666666666,0.0,en,1.0
-Kote,Kote,ORG,-0.03571428571428571,0.0,en,1.0
-Monkeys &amp,Monkeys &amp,ORG,0.17393939393939392,0.0,en,1.0
-Imagn Images,Imagn Images,ORG,0.0,0.0,en,1.0
-Resilience Media,Resilience Media,ORG,0.5,0.0,en,1.0
-Defence,Defence,ORG,0.5,0.0,en,1.0
-UpLink Announce Winners,UpLink Announce Winners,ORG,0.0,0.0,en,1.0
-orga… New,orga… New,ORG,0.14545454545454545,0.0,en,1.0
-Mito Residents Report Moldy Smell,Mito Residents Report Moldy Smell,ORG,0.0,0.0,en,1.0
-Social Media Explorer,Social Media Explorer,ORG,0.14166666666666666,0.0,en,1.0
-Kunhikrishnan,Kunhikrishnan,ORG,0.0,0.0,en,1.0
-lowsNBC News,lowsNBC News,ORG,-0.09999999999999999,0.0,en,1.0
-PicPay IPO,PicPay IPO,ORG,0.0,0.0,en,1.0
-Innovative Hydropolitics,Innovative Hydropolitics,ORG,0.25,0.0,en,1.0
-VI,VI,ORG,0.0,0.0,en,1.0
 Cr VI,Cr VI,ORG,-0.125,0.0,en,1.0
-Dams,Dams,ORG,0.0,0.0,en,1.0
-+8435,+8435,ORG,0.0,0.0,en,1.0
 Science Daily,Science Daily,ORG,-0.01666666666666667,0.0,en,1.0
-The Federal Government,The Federal Government,ORG,0.25,0.0,en,1.0
-DRI,DRI,ORG,0.0,0.0,en,1.0
-Oswal Pumps,Oswal Pumps,ORG,0.5,0.0,en,1.0
-FG,FG,ORG,0.0,0.0,en,1.0
-Oswal Pumps CMD,Oswal Pumps CMD,ORG,0.0,0.0,en,1.0
-Elon Musk,Elon Musk,ORG,0.11250000000000002,0.0,en,1.0
-the World of Amphibians,the World of Amphibians,ORG,0.0,0.0,en,1.0
-the Noida Authority,the Noida Authority,ORG,0.08333333333333333,0.0,en,1.0
-Ancient Food Forest Irrigation & More – TSP Rewind,Ancient Food Forest Irrigation & More – TSP Rewind,ORG,0.5,0.0,en,1.0
-TejasswiBengaluru Headlines,TejasswiBengaluru Headlines,ORG,0.016666666666666666,0.0,en,1.0
-National Bank for Agriculture and Rural Development,National Bank for Agriculture and Rural Development,ORG,0.016666666666666666,0.0,en,1.0
-RupsaAfter Nuapada,RupsaAfter Nuapada,ORG,0.016666666666666666,0.0,en,1.0
-Global Research,Global Research,ORG,0.1875,0.0,en,1.0
-Ch,Ch,ORG,0.0,0.0,en,1.0
-Socotra,Socotra,ORG,0.0,0.0,en,1.0
-DPM,DPM,ORG,0.25,0.0,en,1.0
-The Global Irrigation Automation Market,The Global Irrigation Automation Market,ORG,0.0,0.0,en,1.0
-Fruit Cultivation Market Report 2026,Fruit Cultivation Market Report 2026,ORG,0.0,0.0,en,1.0
-"The ""Fruit Cultivation Market Report 2026","The ""Fruit Cultivation Market Report 2026",ORG,0.10714285714285714,0.0,en,1.0
-Martin,Martin,ORG,0.0,0.0,en,1.0
-HBO,HBO,ORG,0.0,0.0,en,1.0
-Irrigation Automation Industry Research Report,Irrigation Automation Industry Research Report,ORG,0.0,0.0,en,1.0
-HOA,HOA,ORG,0.06818181818181818,0.0,en,1.0
-LFCR,LFCR,ORG,0.3,0.0,en,1.0
-The National Meteorological Administration,The National Meteorological Administration,ORG,0.0,0.0,en,1.0
-the Agri and Allied Sectors,the Agri and Allied Sectors,ORG,0.0,0.0,en,1.0
-the Environmental Protection Agency,the Environmental Protection Agency,ORG,-0.06666666666666667,0.0,en,1.0
-RSC Adv.,RSC Adv.,ORG,0.28,0.0,en,1.0
-Valdek MikliThis,Valdek MikliThis,ORG,0.28,0.0,en,1.0
-Dujiangyan Village Candy Fair,Dujiangyan Village Candy Fair,ORG,0.41818181818181815,0.0,en,1.0
+Aurora,Aurora,ORG,0.0,0.0,en,1.0
+the Texas Hill Country,the Texas Hill Country,ORG,-0.17857142857142858,0.0,en,1.0
+Carbon Tracker,Carbon Tracker,ORG,0.07878787878787875,0.0,en,1.0
+the University of Exet,the University of Exet,ORG,0.13636363636363635,0.0,en,1.0
+soil n,soil n,ORG,0.16666666666666666,0.0,en,1.0
+Farmers Sound Alarm Over Failing Crops and Shrinking Dams,Farmers Sound Alarm Over Failing Crops and Shrinking Dams,ORG,0.4,0.0,en,1.0
+Official White House,Official White House,ORG,0.0,0.0,en,1.0
+Trichoderma,Trichoderma,ORG,0.0,0.0,en,1.0
+FAO,FAO,ORG,0.0,0.0,en,1.0
+Texas Hill Country,Texas Hill Country,ORG,-0.2,0.0,en,1.0
+"4,0","4,0",ORG,0.15,0.0,en,1.0
+Evol.7,Evol.7,ORG,0.0,0.0,en,1.0
+the United Nation,the United Nation,ORG,0.0,0.0,en,1.0
 Irrigation Systems,Irrigation Systems,ORG,0.0,0.0,en,1.0
-Andhra Pradesh,Andhra Pradesh,ORG,0.0,0.0,en,1.0
-Millersville University’s,Millersville University’s,ORG,0.25,0.0,en,1.0
-the Ilkley Gazette,the Ilkley Gazette,ORG,0.0,0.0,en,1.0
-Introduct,Introduct,ORG,0.0,0.0,en,1.0
-Yorkshire Water,Yorkshire Water,ORG,0.0,0.0,en,1.0
-NWS AI-Generated Weather Predictions Are Making Up New Towns,NWS AI-Generated Weather Predictions Are Making Up New Towns,ORG,0.13636363636363635,0.0,en,1.0
-WA,WA,ORG,0.0,0.0,en,1.0
-The National Weather Service,The National Weather Service,ORG,0.008333333333333333,0.0,en,1.0
-Drought Level 4,Drought Level 4,ORG,0.0,0.0,en,1.0
-SN Appl,SN Appl,ORG,0.0,0.0,en,1.0
-LCO,LCO,ORG,0.0,0.0,en,1.0
-the One Water Laboratory in Mission Valley,the One Water Laboratory in Mission Valley,ORG,0.0,0.0,en,1.0
-Smart Home Tech,Smart Home Tech,ORG,0.23214285714285715,0.0,en,1.0
-Chris,Chris,ORG,0.2,0.0,en,1.0
-the Sri Lanka Women Tour of India,the Sri Lanka Women Tour of India,ORG,0.13727272727272727,0.0,en,1.0
-NYC,NYC,ORG,-0.5,0.0,en,1.0
-Al-Jazeera,Al-Jazeera,ORG,0.0,0.0,en,1.0
-TAMBACOUNDA,TAMBACOUNDA,ORG,0.0,0.0,en,1.0
-The San Joaquin Valley,The San Joaquin Valley,ORG,-0.022222222222222216,0.0,en,1.0
-Revolution Health Radio,Revolution Health Radio,ORG,0.2,0.0,en,1.0
-the Pradhan Mantri Krishi Sinchayee Yojana,the Pradhan Mantri Krishi Sinchayee Yojana,ORG,0.046205357142857145,0.0,en,1.0
-IFL Science,IFL Science,ORG,0.0,0.0,en,1.0
-State,State,ORG,-0.11666666666666665,0.0,en,1.0
-"Global Water Resources,","Global Water Resources,",ORG,-0.09999999999999999,0.0,en,1.0
-@sciencegirl,@sciencegirl,ORG,0.0,0.0,en,1.0
-World Weather Attribution,World Weather Attribution,ORG,-0.6,0.0,en,1.0
-Wikimedia Commons,Wikimedia Commons,ORG,0.0,0.0,en,1.0
-CC BY-SA 2.5,CC BY-SA 2.5,ORG,0.0,0.0,en,1.0
-Los Angeles Times,Los Angeles Times,ORG,0.1,0.0,en,1.0
-The Post,The Post,ORG,0.12666666666666665,0.0,en,1.0
-the DAWN Commission,the DAWN Commission,ORG,0.0,0.0,en,1.0
-IEA,IEA,ORG,0.0,0.0,en,1.0
-Trump Keeps Making Moves,Trump Keeps Making Moves,ORG,0.0,0.0,en,1.0
-pyhidromotic,pyhidromotic,ORG,0.0,0.0,en,1.0
-"Perak Infrastructure, Energy, Water and Public Trans","Perak Infrastructure, Energy, Water and Public Trans",ORG,0.0,0.0,en,1.0
-the American Meteorological Society,the American Meteorological Society,ORG,0.0,0.0,en,1.0
-the American Meteorological S,the American Meteorological S,ORG,0.0,0.0,en,1.0
-International Energy Agency,International Energy Agency,ORG,0.0,0.0,en,1.0
-World Bank,World Bank,ORG,0.0,0.0,en,1.0
-Nationalist Congress Party,Nationalist Congress Party,ORG,-0.16666666666666666,0.0,en,1.0
-Hydroelectric Sources,Hydroelectric Sources,ORG,0.0,0.0,en,1.0
+The post Irrigation Systems,The post Irrigation Systems,ORG,0.14166666666666666,0.0,en,1.0
+HOA,HOA,ORG,0.06818181818181818,0.0,en,1.0
+DPM,DPM,ORG,0.25,0.0,en,1.0
+Ch,Ch,ORG,0.0,0.0,en,1.0
+orga… New,orga… New,ORG,0.14545454545454545,0.0,en,1.0
+the Lamont-Doherty Earth Observatory,the Lamont-Doherty Earth Observatory,ORG,0.14545454545454545,0.0,en,1.0
+the University of Exeter,the University of Exeter,ORG,0.07878787878787875,0.0,en,1.0
+Ecol,Ecol,ORG,0.0,0.0,en,1.0
+DRI,DRI,ORG,0.0,0.0,en,1.0
+The Water Resources Department,The Water Resources Department,ORG,0.0,0.0,en,1.0
+Oswal Pumps,Oswal Pumps,ORG,0.5,0.0,en,1.0
+Oswal Pumps CMD,Oswal Pumps CMD,ORG,0.0,0.0,en,1.0
+The Louisiana Ragin,The Louisiana Ragin,ORG,-0.1,0.0,en,1.0
+FG,FG,ORG,0.0,0.0,en,1.0
+The Federal Government,The Federal Government,ORG,0.25,0.0,en,1.0
+Innovative Hydropolitics,Innovative Hydropolitics,ORG,0.25,0.0,en,1.0
+Global Research,Global Research,ORG,0.1875,0.0,en,1.0
+the World Economic Forum,the World Economic Forum,ORG,0.1,0.0,en,1.0
+Navelim,Navelim,ORG,0.0,0.0,en,1.0
+AJ,AJ,ORG,0.06666666666666667,0.0,en,1.0
+Follow Us On,Follow Us On,ORG,-0.07333333333333333,0.0,en,1.0
+Mito Residents Report Moldy Smell,Mito Residents Report Moldy Smell,ORG,0.0,0.0,en,1.0
 MITO,MITO,ORG,0.019166666666666665,0.0,en,1.0
-IPOH,IPOH,ORG,0.0,0.0,en,1.0
-total)http,total)http,ORG,0.0,0.0,en,1.0
-S’West farmers,S’West farmers,ORG,0.0,0.0,en,1.0
-DAWN commission,DAWN commission,ORG,0.0,0.0,en,1.0
-Varsity Theater,Varsity Theater,ORG,0.0,0.0,en,1.0
-NCP,NCP,ORG,0.1875,0.0,en,1.0
-Calgarians,Calgarians,ORG,-0.03333333333333333,0.0,en,1.0
-solidarity,solidarity,ORG,-0.06666666666666667,0.0,en,1.0
-Emergency Management Agency,Emergency Management Agency,ORG,-0.07333333333333333,0.0,en,1.0
-EPA,EPA,ORG,0.0,0.0,en,1.0
-DWFI Podcast,DWFI Podcast,ORG,0.13636363636363635,0.0,en,1.0
-the Daugherty Water for Food Global Institute,the Daugherty Water for Food Global Institute,ORG,0.21875,0.0,en,1.0
-Climate Adaptation Means Building Social Infrastructure (Blog,Climate Adaptation Means Building Social Infrastructure (Blog,ORG,0.03333333333333333,0.0,en,1.0
-The Supreme Court,The Supreme Court,ORG,0.03125,0.0,en,1.0
-gre,gre,ORG,0.0,0.0,en,1.0
-the Telangana Government,the Telangana Government,ORG,0.4166666666666667,0.0,en,1.0
 Climate Change and Land,Climate Change and Land,ORG,0.35714285714285715,0.0,en,1.0
-CS reviews irrigation & bridge,CS reviews irrigation & bridge,ORG,0.0,0.0,en,1.0
-the North Koel Reservoir,the North Koel Reservoir,ORG,0.05,0.0,en,1.0
-Mandai Weir,Mandai Weir,ORG,0.05,0.0,en,1.0
-Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
-Civil Supplies and Irrigation,Civil Supplies and Irrigation,ORG,0.4166666666666667,0.0,en,1.0
-Liquidia Corp,Liquidia Corp,ORG,0.0,0.0,en,1.0
-NASA Data,NASA Data,ORG,0.0,0.0,en,1.0
-Jets,Jets,ORG,0.125,0.0,en,1.0
-Nature Microbiology,Nature Microbiology,ORG,0.13636363636363635,0.0,en,1.0
-Drosera regina,Drosera regina,ORG,0.0,0.0,en,1.0
-Atmospheric Administration,Atmospheric Administration,ORG,0.125,0.0,en,1.0
-oleaster,oleaster,ORG,-0.13333333333333333,0.0,en,1.0
-Department,Department,ORG,0.5,0.0,en,1.0
-ConversationPeople,ConversationPeople,ORG,-0.2,0.0,en,1.0
-Chelsea,Chelsea,ORG,0.8,0.0,en,1.0
-Spurs,Spurs,ORG,0.8,0.0,en,1.0
-IIT Delhi,IIT Delhi,ORG,0.03712121212121212,0.0,en,1.0
-01:08:23,01:08:23,ORG,0.3,0.0,en,1.0
+the Pradhan Mantri Krishi Sinchayee Yojana,the Pradhan Mantri Krishi Sinchayee Yojana,ORG,0.046205357142857145,0.0,en,1.0
+Al-Jazeera,Al-Jazeera,ORG,0.0,0.0,en,1.0
+Climate Change,Climate Change,ORG,0.0,0.0,en,1.0
+Al Jazeera,Al Jazeera,ORG,0.0,0.0,en,1.0
+@sciencegirl,@sciencegirl,ORG,0.0,0.0,en,1.0
+GPU,GPU,ORG,0.09999999999999998,0.0,en,1.0
+Tech,Tech,ORG,0.0,0.0,en,1.0
 Children,Children,ORG,0.25,0.0,en,1.0
 Hunters Point Naval Sh… Skip,Hunters Point Naval Sh… Skip,ORG,0.0,0.0,en,1.0
 the Refrigerator R&D Group,the Refrigerator R&D Group,ORG,0.375,0.0,en,1.0
@@ -506,55 +540,10 @@ Univers,Univers,ORG,0.10416666666666667,0.0,en,1.0
 IIT Kanpur,IIT Kanpur,ORG,0.05844155844155844,0.0,en,1.0
 Ministry of Earth Sciences,Ministry of Earth Sciences,ORG,0.05844155844155844,0.0,en,1.0
 Time,Time,ORG,0.5,0.0,en,1.0
-Lightspeed Magazine,Lightspeed Magazine,ORG,0.4,0.0,en,1.0
-San Diego City Council,San Diego City Council,ORG,-0.15555555555555559,0.0,en,1.0
-KPBS,KPBS,ORG,0.0,0.0,en,1.0
-"getty
-","getty
-",ORG,0.33125,0.0,en,1.0
-comenta,comenta,ORG,0.14166666666666666,0.0,en,1.0
-IIT-Kanpur,IIT-Kanpur,ORG,0.0,0.0,en,1.0
-IIT,IIT,ORG,0.0,0.0,en,1.0
-The Navajo Nation,The Navajo Nation,ORG,0.0,0.0,en,1.0
-Jurassic World Evolution 3 Is The Best Jurassic Park Game Ever Made,Jurassic World Evolution 3 Is The Best Jurassic Park Game Ever Made,ORG,0.3,0.0,en,1.0
-Dolgarrog,Dolgarrog,ORG,1.0,0.0,en,1.0
-NYC Emergency Management,NYC Emergency Management,ORG,0.0,0.0,en,1.0
-Nature Communications - Is,Nature Communications - Is,ORG,0.375,0.0,en,1.0
-GPP,GPP,ORG,0.27777777777777773,0.0,en,1.0
-Andrea Illy,Andrea Illy,ORG,1.0,0.0,en,1.0
-ManfredoPinzauti,ManfredoPinzauti,ORG,0.0,0.0,en,1.0
-BP,BP,ORG,0.16,0.0,en,1.0
-Yahoo,Yahoo,ORG,0.16,0.0,en,1.0
-ARB,ARB,ORG,0.0,0.0,en,1.0
-Doñana National Park (,Doñana National Park (,ORG,0.1,0.0,en,1.0
-T1,T1,ORG,0.0,0.0,en,1.0
-Pitaya,Pitaya,ORG,0.0,0.0,en,1.0
 Helm,Helm,ORG,0.5,0.0,en,1.0
 The Nation,The Nation,ORG,0.25,0.0,en,1.0
-Bharatiya Janata party,Bharatiya Janata party,ORG,0.14166666666666666,0.0,en,1.0
-Singhal,Singhal,ORG,-0.2,0.0,en,1.0
-The Museum Donors Accused of Sucking California Dry,The Museum Donors Accused of Sucking California Dry,ORG,-0.06666666666666665,0.0,en,1.0
-Success,Success,ORG,0.375,0.0,en,1.0
-Lokal,Lokal,ORG,0.05,0.0,en,1.0
-AgriLokal,AgriLokal,ORG,0.05,0.0,en,1.0
-Omar,Omar,ORG,0.0,0.0,en,1.0
-Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report,Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report,ORG,0.0,0.0,en,1.0
-Vision 2030,Vision 2030,ORG,0.0,0.0,en,1.0
-"The ""Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report","The ""Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report",ORG,0.0,0.0,en,1.0
-Sonapur,Sonapur,ORG,-0.5055555555555555,0.8944444444444445,en,1.0
+the Meat Packing Companies,the Meat Packing Companies,ORG,0.0,0.0,en,1.0
 FaceTime,FaceTime,ORG,0.0,0.0,en,1.0
-Health and Irrigation,Health and Irrigation,ORG,-0.06000000000000001,0.0,en,1.0
-This Florida Doctor’s Office,This Florida Doctor’s Office,ORG,0.3,0.0,en,1.0
-The Florida Department of Health,The Florida Department of Health,ORG,0.3,0.0,en,1.0
-Nova Scotia,Nova Scotia,ORG,0.0,0.0,en,1.0
-WMS,WMS,ORG,0.8,1.2,en,1.0
-Advanced Drainage Systems,Advanced Drainage Systems,ORG,0.8,0.6,en,1.0
-The Vulnerability of Forests to Natural Disturbances,The Vulnerability of Forests to Natural Disturbances,ORG,0.1,0.0,en,1.0
-"the Department of Agriculture, Agri-Food","the Department of Agriculture, Agri-Food",ORG,0.14166666666666666,0.0,en,1.0
-Devel,Devel,ORG,0.0,0.0,en,1.0
-Pew Research Center,Pew Research Center,ORG,-0.1,0.0,en,1.0
-Getty Images,Getty Images,ORG,-0.1,0.0,en,1.0
-Chaideer Mahyuddin/AFP,Chaideer Mahyuddin/AFP,ORG,-0.1,0.0,en,1.0
 L.G.B.T.Q.-aid,L.G.B.T.Q.-aid,ORG,0.0,0.0,en,1.0
 anyo,anyo,ORG,0.0,0.0,en,1.0
 Companies Analysis,Companies Analysis,ORG,0.0,0.0,en,1.0
@@ -563,29 +552,87 @@ Team India's,Team India's,ORG,0.0,0.0,en,1.0
 PKK,PKK,ORG,0.0,0.0,en,1.0
 Iran Press TV,Iran Press TV,ORG,0.0,0.0,en,1.0
 Catastrophic',Catastrophic',ORG,-0.13333333333333333,0.0,en,1.0
+01:08:23,01:08:23,ORG,0.3,0.0,en,1.0
+Nature Microbiology,Nature Microbiology,ORG,0.13636363636363635,0.0,en,1.0
+IIT Delhi,IIT Delhi,ORG,0.03712121212121212,0.0,en,1.0
+Spurs,Spurs,ORG,0.8,0.0,en,1.0
+GPP,GPP,ORG,0.27777777777777773,0.0,en,1.0
+Andrea Illy,Andrea Illy,ORG,1.0,0.0,en,1.0
+ManfredoPinzauti,ManfredoPinzauti,ORG,0.0,0.0,en,1.0
+BP,BP,ORG,0.16,0.0,en,1.0
+Yahoo,Yahoo,ORG,0.16,0.0,en,1.0
+ARB,ARB,ORG,0.0,0.0,en,1.0
+T1,T1,ORG,0.0,0.0,en,1.0
+Doñana National Park (,Doñana National Park (,ORG,0.1,0.0,en,1.0
+Pitaya,Pitaya,ORG,0.0,0.0,en,1.0
+"getty
+","getty
+",ORG,0.33125,0.0,en,1.0
+KPBS,KPBS,ORG,0.0,0.0,en,1.0
+San Diego City Council,San Diego City Council,ORG,-0.15555555555555559,0.0,en,1.0
+Lightspeed Magazine,Lightspeed Magazine,ORG,0.4,0.0,en,1.0
+Drosera regina,Drosera regina,ORG,0.0,0.0,en,1.0
+Atmospheric Administration,Atmospheric Administration,ORG,0.125,0.0,en,1.0
+oleaster,oleaster,ORG,-0.13333333333333333,0.0,en,1.0
+Department,Department,ORG,0.5,0.0,en,1.0
+ConversationPeople,ConversationPeople,ORG,-0.2,0.0,en,1.0
+Chelsea,Chelsea,ORG,0.8,0.0,en,1.0
 FAA,FAA,ORG,0.0,0.0,en,1.0
 United Parcel Service,United Parcel Service,ORG,-0.1,0.0,en,1.0
 Louisvilles Muhammad Ali International Airport,Louisvilles Muhammad Ali International Airport,ORG,-0.1,0.0,en,1.0
-House,House,ORG,-0.15,0.0,en,1.0
+Nova Scotia,Nova Scotia,ORG,0.0,0.0,en,1.0
+Advanced Drainage Systems,Advanced Drainage Systems,ORG,0.8,0.6,en,1.0
+The Vulnerability of Forests to Natural Disturbances,The Vulnerability of Forests to Natural Disturbances,ORG,0.1,0.0,en,1.0
+"the Department of Agriculture, Agri-Food","the Department of Agriculture, Agri-Food",ORG,0.14166666666666666,0.0,en,1.0
+AATSU,AATSU,ORG,-0.3055555555555556,0.4444444444444445,en,1.0
+Assam Health and Irrigation,Assam Health and Irrigation,ORG,-0.05555555555555557,0.0,en,1.0
+The All Assam Tribal Students Union,The All Assam Tribal Students Union,ORG,-0.05555555555555557,0.0,en,1.0
+Melissa - Caribbean News Global,Melissa - Caribbean News Global,ORG,0.0,0.0,en,1.0
+KINGSTON,KINGSTON,ORG,0.0,0.0,en,1.0
+Car… KINGSTON,Car… KINGSTON,ORG,0.0,0.0,en,1.0
+ExxonMobil,ExxonMobil,ORG,0.04545454545454545,0.0,en,1.0
+Chevron,Chevron,ORG,0.04545454545454545,0.0,en,1.0
+ExxonMobils,ExxonMobils,ORG,0.04545454545454545,0.0,en,1.0
+VP,VP,ORG,0.0,0.0,en,1.0
+RIDF,RIDF,ORG,0.0,0.0,en,1.0
+Rural Infrastructure Development Fund,Rural Infrastructure Development Fund,ORG,0.0,0.0,en,1.0
+Forests,Forests,ORG,0.15,0.0,en,1.0
+Life Network,Life Network,ORG,0.30186480186480186,0.0,en,1.0
+Kreatures of Habit,Kreatures of Habit,ORG,0.30186480186480186,0.0,en,1.0
+Justice Department,Justice Department,ORG,-0.5,0.0,en,1.0
+WMS,WMS,ORG,0.8,1.2,en,1.0
+The Florida Department of Health,The Florida Department of Health,ORG,0.3,0.0,en,1.0
 The Virginia House of Delegates,The Virginia House of Delegates,ORG,0.0,0.0,en,1.0
+This Florida Doctor’s Office,This Florida Doctor’s Office,ORG,0.3,0.0,en,1.0
 Gone Home,Gone Home,ORG,0.07454545454545454,0.0,en,1.0
 Asian AI,Asian AI,ORG,0.1,0.0,en,1.0
 ScienceDaily,ScienceDaily,ORG,0.525,0.0,en,1.0
 PLOS Water 4(11,PLOS Water 4(11,ORG,0.0,0.0,en,1.0
-Podés registrate,Podés registrate,ORG,0.14166666666666666,0.0,en,1.0
-Navi Mumbai,Navi Mumbai,ORG,-0.16666666666666666,0.0,en,1.0
-Corteva,Corteva,ORG,0.0,0.0,en,1.0
-the Department of Defense,the Department of Defense,ORG,0.2777777777777778,0.0,en,1.0
-Food Standards Australia,Food Standards Australia,ORG,0.13636363636363635,0.0,en,1.0
-USDA,USDA,ORG,-0.2916666666666667,0.0,en,1.0
+Chaideer Mahyuddin/AFP,Chaideer Mahyuddin/AFP,ORG,-0.1,0.0,en,1.0
+Getty Images,Getty Images,ORG,-0.1,0.0,en,1.0
+Pew Research Center,Pew Research Center,ORG,-0.1,0.0,en,1.0
+Devel,Devel,ORG,0.0,0.0,en,1.0
+The Museum Donors Accused of Sucking California Dry,The Museum Donors Accused of Sucking California Dry,ORG,-0.06666666666666665,0.0,en,1.0
+Success,Success,ORG,0.375,0.0,en,1.0
+Lokal,Lokal,ORG,0.05,0.0,en,1.0
+AgriLokal,AgriLokal,ORG,0.05,0.0,en,1.0
+Omar,Omar,ORG,0.0,0.0,en,1.0
+Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report,Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report,ORG,0.0,0.0,en,1.0
+Vision 2030,Vision 2030,ORG,0.0,0.0,en,1.0
+"The ""Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report","The ""Saudi Arabia PE Pipes Market Size and Share Outlook - Forecast Trends and Growth Analysis Report",ORG,0.0,0.0,en,1.0
+Singhal,Singhal,ORG,-0.2,0.0,en,1.0
+Sonapur,Sonapur,ORG,-0.5055555555555555,0.8944444444444445,en,1.0
+Health and Irrigation,Health and Irrigation,ORG,-0.06000000000000001,0.0,en,1.0
+Nature Communications - Is,Nature Communications - Is,ORG,0.375,0.0,en,1.0
+NYC Emergency Management,NYC Emergency Management,ORG,0.0,0.0,en,1.0
+Dolgarrog,Dolgarrog,ORG,1.0,0.0,en,1.0
 incons,incons,ORG,0.12708333333333333,0.0,en,1.0
-14).The final matchday of Group C,14).The final matchday of Group C,ORG,0.0,0.0,en,1.0
 the Bafana Bafana,the Bafana Bafana,ORG,0.0,0.0,en,1.0
 Group C,Group C,ORG,-0.06666666666666667,0.0,en,1.0
 Farmers,Farmers,ORG,-0.5,0.0,en,1.0
 Pentagon,Pentagon,ORG,1.0,0.0,en,1.0
+the Department of Defense,the Department of Defense,ORG,0.2777777777777778,0.0,en,1.0
 Islam,Islam,ORG,0.3,0.0,en,1.0
-the Alaska National Guard,the Alaska National Guard,ORG,0.0,0.0,en,1.0
 Thiel,Thiel,ORG,-0.25,0.0,en,1.0
 CO2,CO2,ORG,0.1875,0.0,en,1.0
 Norwegian Cruise Lines,Norwegian Cruise Lines,ORG,0.101010101010101,0.0,en,1.0
@@ -594,17 +641,21 @@ Sustainable Wood Technology Reshaping Hospitality,Sustainable Wood Technology Re
 Truthout,Truthout,ORG,0.4,0.0,en,1.0
 United,United,ORG,0.04,0.0,en,1.0
 CCC,CCC,ORG,0.0,0.0,en,1.0
+The Climate Change Committee,The Climate Change Committee,ORG,-0.3,0.0,en,1.0
+the Alaska National Guard,the Alaska National Guard,ORG,0.0,0.0,en,1.0
+SU,SU,ORG,0.0,0.0,en,1.0
+designboom | architecture & desig,designboom | architecture & desig,ORG,0.11481481481481481,0.0,en,1.0
+the Vadodara Municipal Corporation,the Vadodara Municipal Corporation,ORG,0.6,0.0,en,1.0
+14).The final matchday of Group C,14).The final matchday of Group C,ORG,0.0,0.0,en,1.0
+Food Standards Australia,Food Standards Australia,ORG,0.13636363636363635,0.0,en,1.0
+Bacillin 20,Bacillin 20,ORG,0.0,0.0,en,1.0
 the University of Botswana,the University of Botswana,ORG,0.375,0.0,en,1.0
-nano,nano,ORG,0.0,0.0,en,1.0
-vim,vim,ORG,0.0,0.0,en,1.0
-GNOME,GNOME,ORG,0.0,0.0,en,1.0
 Uruguay,Uruguay,ORG,0.0,0.0,en,1.0
 National Water Authority,National Water Authority,ORG,0.0,0.0,en,1.0
 Fed,Fed,ORG,-0.15833333333333335,0.0,en,1.0
 National Guard,National Guard,ORG,-0.1,0.0,en,1.0
 the National Guard,the National Guard,ORG,0.0,0.0,en,1.0
 La Niña Emerges Raising Drought Risks,La Niña Emerges Raising Drought Risks,ORG,0.0,0.0,en,1.0
-Bloomberg,Bloomberg,ORG,-0.6,0.0,en,1.0
 3D-Printed Automatic Weather Station,3D-Printed Automatic Weather Station,ORG,0.0,0.0,en,1.0
 Kinburn,Kinburn,ORG,0.0,0.0,en,1.0
 Mold,Mold,ORG,-0.2,0.0,en,1.0
@@ -615,22 +666,18 @@ Disney,Disney,ORG,0.13636363636363635,0.0,en,1.0
 the World Health Organization,the World Health Organization,ORG,0.45,0.0,en,1.0
 conjunc,conjunc,ORG,0.0,0.0,en,1.0
 Hyprland,Hyprland,ORG,0.3166666666666667,0.0,en,1.0
-The Climate Change Committee,The Climate Change Committee,ORG,-0.3,0.0,en,1.0
-SU,SU,ORG,0.0,0.0,en,1.0
-U.S.efforts,U.S.efforts,ORG,0.175,0.0,en,1.0
-the United Nations Office for Disaster Risk Reduction,the United Nations Office for Disaster Risk Reduction,ORG,0.25,0.0,en,1.0
-The Galaxies Showcase,The Galaxies Showcase,ORG,0.5,0.0,en,1.0
-P.I.,P.I.,ORG,0.5,0.0,en,1.0
-Firefighting Drones,Firefighting Drones,ORG,0.13636363636363635,0.0,en,1.0
-"Seneca
-","Seneca
-",ORG,-0.05,0.0,en,1.0
-QASSIM,QASSIM,ORG,0.06666666666666667,0.0,en,1.0
+GNOME,GNOME,ORG,0.0,0.0,en,1.0
+vim,vim,ORG,0.0,0.0,en,1.0
+nano,nano,ORG,0.0,0.0,en,1.0
+VMC,VMC,ORG,0.6,0.0,en,1.0
+"Bacillin 20… Abstract
+Water","Bacillin 20… Abstract
+Water",ORG,0.08333333333333333,0.0,en,1.0
+Jurassic World Evolution 3 Is The Best Jurassic Park Game Ever Made,Jurassic World Evolution 3 Is The Best Jurassic Park Game Ever Made,ORG,0.3,0.0,en,1.0
 the Middle Easts,the Middle Easts,ORG,0.06666666666666667,0.0,en,1.0
-Coffee Watch,Coffee Watch,ORG,0.5,0.0,en,1.0
 Siena,Siena,ORG,0.4204545454545454,0.0,en,1.0
+the United Nations Office for Disaster Risk Reduction,the United Nations Office for Disaster Risk Reduction,ORG,0.25,0.0,en,1.0
 the United Nations Office,the United Nations Office,ORG,0.0875,0.0,en,1.0
-designboom | architecture & desig,designboom | architecture & desig,ORG,0.11481481481481481,0.0,en,1.0
 Burleen,Burleen,ORG,0.0,0.0,en,1.0
 N.L.,N.L.,ORG,-0.06666666666666665,0.0,en,1.0
 cl,cl,ORG,0.0,0.0,en,1.0
@@ -639,17 +686,20 @@ the Chapman University Survey of American Fears,the Chapman University Survey of
 Commun.9,Commun.9,ORG,0.0,0.0,en,1.0
 NBC,NBC,ORG,0.0175,0.0,en,1.0
 Climate Central,Climate Central,ORG,0.0,0.0,en,1.0
-Peatlands,Peatlands,ORG,0.5,0.0,en,1.0
-The World Is Running Out of Fresh Water,The World Is Running Out of Fresh Water,ORG,0.3,0.0,en,1.0
-Government,Government,ORG,-0.006249999999999999,0.0,en,1.0
-Bad Weather,Bad Weather,ORG,-0.3999999999999999,0.0,en,1.0
-the Vadodara Municipal Corporation,the Vadodara Municipal Corporation,ORG,0.6,0.0,en,1.0
-VMC,VMC,ORG,0.6,0.0,en,1.0
-Bacillin 20,Bacillin 20,ORG,0.0,0.0,en,1.0
-"Bacillin 20… Abstract
-Water","Bacillin 20… Abstract
-Water",ORG,0.08333333333333333,0.0,en,1.0
+U.S.efforts,U.S.efforts,ORG,0.175,0.0,en,1.0
+Navi Mumbai,Navi Mumbai,ORG,-0.16666666666666666,0.0,en,1.0
+Bharatiya Janata party,Bharatiya Janata party,ORG,0.14166666666666666,0.0,en,1.0
+Podés registrate,Podés registrate,ORG,0.14166666666666666,0.0,en,1.0
+comenta,comenta,ORG,0.14166666666666666,0.0,en,1.0
+IIT-Kanpur,IIT-Kanpur,ORG,0.0,0.0,en,1.0
+IIT,IIT,ORG,0.0,0.0,en,1.0
+The Navajo Nation,The Navajo Nation,ORG,0.0,0.0,en,1.0
+Coffee Watch,Coffee Watch,ORG,0.5,0.0,en,1.0
+QASSIM,QASSIM,ORG,0.06666666666666667,0.0,en,1.0
 Coca-Cola,Coca-Cola,ORG,0.0,0.0,en,1.0
+"Seneca
+","Seneca
+",ORG,-0.05,0.0,en,1.0
 cont,cont,ORG,0.0,0.0,en,1.0
 76p,76p,ORG,-0.08333333333333333,0.0,en,1.0
 Irrigation Techniques Share,Irrigation Techniques Share,ORG,-0.15454545454545454,0.0,en,1.0
@@ -666,20 +716,51 @@ Nation,Nation,ORG,0.0,0.0,en,1.0
 "AASG
 ","AASG
 ",ORG,0.0,0.0,en,1.0
-AATSU,AATSU,ORG,-0.3055555555555556,0.4444444444444445,en,1.0
-Assam Health and Irrigation,Assam Health and Irrigation,ORG,-0.05555555555555557,0.0,en,1.0
-The All Assam Tribal Students Union,The All Assam Tribal Students Union,ORG,-0.05555555555555557,0.0,en,1.0
-Digital,Digital,ORG,0.19999999999999998,0.0,en,1.0
-Singh,Singh,ORG,0.1875,0.0,en,1.0
-PPA,PPA,ORG,0.0,0.0,en,1.0
+Bad Weather,Bad Weather,ORG,-0.3999999999999999,0.0,en,1.0
+Government,Government,ORG,-0.006249999999999999,0.0,en,1.0
+The World Is Running Out of Fresh Water,The World Is Running Out of Fresh Water,ORG,0.3,0.0,en,1.0
+Peatlands,Peatlands,ORG,0.5,0.0,en,1.0
+The Galaxies Showcase,The Galaxies Showcase,ORG,0.5,0.0,en,1.0
+P.I.,P.I.,ORG,0.5,0.0,en,1.0
+Firefighting Drones,Firefighting Drones,ORG,0.13636363636363635,0.0,en,1.0
+DOJ,DOJ,ORG,0.0,0.0,en,1.0
+Collusionnewsmax.com,Collusionnewsmax.com,ORG,0.0,0.0,en,1.0
+-40 C,-40 C,ORG,-0.04999999999999999,0.0,en,1.0
+Border Patrol,Border Patrol,ORG,0.0,0.0,en,1.0
+Carnegie Mellon Universitys,Carnegie Mellon Universitys,ORG,0.35,0.0,en,1.0
+Okunola AA,Okunola AA,ORG,0.0,0.0,en,1.0
+Sinsamutpadung N,Sinsamutpadung N,ORG,0.0,0.0,en,1.0
+Hydro,Hydro,ORG,0.0,0.0,en,1.0
+Urmia,Urmia,ORG,-0.2,0.0,en,1.0
+Mearsheimer,Mearsheimer,ORG,-0.08181818181818182,0.0,en,1.0
+Nestle,Nestle,ORG,0.3333333333333333,0.0,en,1.0
+Pusley,Pusley,ORG,-0.2888888888888889,0.0,en,1.0
+MTG,MTG,ORG,0.0,0.0,en,1.0
+Trump-Mamdani,Trump-Mamdani,ORG,0.0,0.0,en,1.0
+dem,dem,ORG,0.0,0.0,en,1.0
+"Guardian
+","Guardian
+",ORG,-0.6999999999999998,0.0,en,1.0
+The Patent Office,The Patent Office,ORG,-0.6999999999999998,0.0,en,1.0
+Andy May,Andy May,ORG,0.1340909090909091,0.0,en,1.0
+"Climate Change, Deforestation","Climate Change, Deforestation",ORG,0.0,0.0,en,1.0
+constr,constr,ORG,0.05,0.0,en,1.0
+Data Center Boom Is Supercharging a Water Crisis,Data Center Boom Is Supercharging a Water Crisis,ORG,-0.1,0.0,en,1.0
+underscor,underscor,ORG,0.0,0.0,en,1.0
+"the Regulatory Authority for Waste, Energy","the Regulatory Authority for Waste, Energy",ORG,-0.04642857142857143,0.0,en,1.0
+wea,wea,ORG,-0.075,0.0,en,1.0
+Cybersecurity Oversight,Cybersecurity Oversight,ORG,0.35,0.0,en,1.0
+CERT,CERT,ORG,0.35,0.0,en,1.0
+California State University Sacramento,California State University Sacramento,ORG,0.35,0.0,en,1.0
+the University of Southern California,the University of Southern California,ORG,0.35,0.0,en,1.0
 Veolia,Veolia,ORG,0.1,0.0,en,1.0
 the Professional Pickleball Association's,the Professional Pickleball Association's,ORG,0.1,0.0,en,1.0
 The Professional Pickleball Association,The Professional Pickleball Association,ORG,0.1,0.0,en,1.0
 Nepalese Scientists Recognized in Global Ranking,Nepalese Scientists Recognized in Global Ranking,ORG,0.3125,0.0,en,1.0
 embolic,embolic,ORG,0.0,0.0,en,1.0
 Choe C,Choe C,ORG,0.0,0.0,en,1.0
+Digital,Digital,ORG,0.19999999999999998,0.0,en,1.0
 SUI,SUI,ORG,0.0,0.0,en,1.0
-Signal,Signal,ORG,0.0,0.0,en,1.0
 the Sterile Insect Technique,the Sterile Insect Technique,ORG,0.0,0.0,en,1.0
 Insects,Insects,ORG,0.8,0.0,en,1.0
 microb,microb,ORG,0.8,0.0,en,1.0
@@ -687,11 +768,108 @@ Winds Meet Review,Winds Meet Review,ORG,0.0,0.0,en,1.0
 Winds Meet,Winds Meet,ORG,0.25,0.0,en,1.0
 the UN International Organization for Migration,the UN International Organization for Migration,ORG,0.0,0.0,en,1.0
 IOM,IOM,ORG,0.0,0.0,en,1.0
+PHT Janus,PHT Janus,ORG,-0.3,0.0,en,1.0
 SMOS-IC L,SMOS-IC L,ORG,-0.1,0.0,en,1.0
+The Enterprise-Anderson Groundwater Sustainability Agency,The Enterprise-Anderson Groundwater Sustainability Agency,ORG,0.0,0.0,en,1.0
+Signal,Signal,ORG,0.0,0.0,en,1.0
+Scie,Scie,ORG,0.06666666666666667,0.0,en,1.0
+the National Technical University of Athens,the National Technical University of Athens,ORG,0.1869047619047619,0.0,en,1.0
+the PGA Tour,the PGA Tour,ORG,0.0,0.0,en,1.0
+Truth Social,Truth Social,ORG,0.03333333333333333,0.0,en,1.0
+the Intergovernmental Panel on Climate Change (Cambridge Univ,the Intergovernmental Panel on Climate Change (Cambridge Univ,ORG,0.0,0.0,en,1.0
+The Environment Agency,The Environment Agency,ORG,0.0,0.0,en,1.0
+Lindsay,Lindsay,ORG,0.0,0.0,en,1.0
+thefly.com,thefly.com,ORG,0.25,0.0,en,1.0
+Fly,Fly,ORG,0.2533333333333333,0.0,en,1.0
+corpor,corpor,ORG,0.2533333333333333,0.0,en,1.0
+Agricultural and Urban Demand Boosts Sprinkler Hose Market Growth:,Agricultural and Urban Demand Boosts Sprinkler Hose Market Growth:,ORG,0.0,0.0,en,1.0
+Guadalupe,Guadalupe,ORG,-0.2,0.0,en,1.0
+Blackout Warfare Needs,Blackout Warfare Needs,ORG,0.0,0.0,en,1.0
+Amazons,Amazons,ORG,0.0,0.0,en,1.0
+Stellios Boutaris,Stellios Boutaris,ORG,0.14285714285714285,0.0,en,1.0
+Domaine Sigalas,Domaine Sigalas,ORG,0.14285714285714285,0.0,en,1.0
+rhizosphere micro ecology and fruit production,rhizosphere micro ecology and fruit production,ORG,-0.25,0.0,en,1.0
+Anno…,Anno…,ORG,-0.25,0.0,en,1.0
+the University of California San Diego,the University of California San Diego,ORG,0.15284090909090908,0.0,en,1.0
+Nature Sustainability,Nature Sustainability,ORG,0.15284090909090908,0.0,en,1.0
+CNHI Data Breach Claims,CNHI Data Breach Claims,ORG,0.0,0.0,en,1.0
+LLP,LLP,ORG,0.0,0.0,en,1.0
+Narayangarh,Narayangarh,ORG,0.05,0.0,en,1.0
+Working Group,Working Group,ORG,0.0,0.0,en,1.0
+NSW,NSW,ORG,-0.1,0.0,en,1.0
+Sentry,Sentry,ORG,0.0,0.0,en,1.0
+NEM,NEM,ORG,0.0,0.0,en,1.0
+ANC,ANC,ORG,0.47500000000000003,0.0,en,1.0
+Surging Application in Irrigation to Augment Market Growth,Surging Application in Irrigation to Augment Market Growth,ORG,0.0,0.0,en,1.0
+the SNS Insider,the SNS Insider,ORG,0.25,0.0,en,1.0
+The Florida Forest Service,The Florida Forest Service,ORG,-0.06666666666666667,0.0,en,1.0
+Galaxy Watch 8 Classic Stays at Its Cyber,Galaxy Watch 8 Classic Stays at Its Cyber,ORG,0.0,0.0,en,1.0
+Samsung Galaxy Watch 8 Classic,Samsung Galaxy Watch 8 Classic,ORG,0.047619047619047616,0.0,en,1.0
+the Energy and Climate Intelligence Unit,the Energy and Climate Intelligence Unit,ORG,-0.16666666666666666,0.0,en,1.0
+ECIU,ECIU,ORG,-0.16666666666666666,0.0,en,1.0
+summe,summe,ORG,0.0,0.0,en,1.0
+Project Nexus,Project Nexus,ORG,0.0,0.0,en,1.0
+WEP,WEP,ORG,-0.5,0.0,en,1.0
+the Partnership for Agile Governance and Climate Engagement,the Partnership for Agile Governance and Climate Engagement,ORG,0.16666666666666666,0.0,en,1.0
+Corteva,Corteva,ORG,0.0,0.0,en,1.0
+Jets,Jets,ORG,0.125,0.0,en,1.0
+Synthesis Report,Synthesis Report,ORG,0.0,0.0,en,1.0
+the Intergovernmental Panel on Climate Change,the Intergovernmental Panel on Climate Change,ORG,0.0,0.0,en,1.0
+Blackburn Rovers',Blackburn Rovers',ORG,-0.4,0.0,en,1.0
+the National Drought Group,the National Drought Group,ORG,-0.025,0.0,en,1.0
+the Nunavut Emergency Management,the Nunavut Emergency Management,ORG,0.0,0.0,en,1.0
+PPA,PPA,ORG,0.0,0.0,en,1.0
+Singh,Singh,ORG,0.1875,0.0,en,1.0
 Blue Economy',Blue Economy',ORG,0.0,0.0,en,1.0
+Blue Origin’s,Blue Origin’s,ORG,0.06818181818181818,0.0,en,1.0
+the United Nations University,the United Nations University,ORG,0.0,0.0,en,1.0
+RFE/RL's,RFE/RL's,ORG,0.0,0.0,en,1.0
+Radio Farda,Radio Farda,ORG,0.0,0.0,en,1.0
+Chocolate,Chocolate,ORG,0.16,0.0,en,1.0
+Madani,Madani,ORG,-0.08333333333333333,0.0,en,1.0
+KYIV,KYIV,ORG,0.03333333333333333,0.0,en,1.0
+STATE TIMES NEWS JAMMU,STATE TIMES NEWS JAMMU,ORG,-0.03928571428571429,0.0,en,1.0
+the Jammu Development Authority,the Jammu Development Authority,ORG,-0.03928571428571429,0.0,en,1.0
+JDA,JDA,ORG,-0.03928571428571429,0.0,en,1.0
+STATE TIMES NEWS,STATE TIMES NEWS,ORG,-0.03928571428571429,0.0,en,1.0
+MLA Jammu North,MLA Jammu North,ORG,-0.03928571428571429,0.0,en,1.0
+LG Kavinder,LG Kavinder,ORG,0.0,0.0,en,1.0
+Early Black Friday Smartwatch & Fitness Tracker Deals,Early Black Friday Smartwatch & Fitness Tracker Deals,ORG,0.14444444444444446,0.0,en,1.0
+GLOBE NEWSWIRE),GLOBE NEWSWIRE),ORG,0.171875,0.0,en,1.0
+Trump crackdownBBC,Trump crackdownBBC,ORG,0.0,0.0,en,1.0
+Berkshire CEO,Berkshire CEO,ORG,0.0,0.0,en,1.0
+Defense,Defense,ORG,0.06666666666666665,0.0,en,1.0
+Hegseth SaysThe New York Times,Hegseth SaysThe New York Times,ORG,0.018181818181818174,0.0,en,1.0
+"ET
+ ","ET
+ ",ORG,0.0,0.0,en,1.0
+Blue Origin,Blue Origin,ORG,0.06818181818181818,0.0,en,1.0
+Rain PrayersThe New York Times Water,Rain PrayersThe New York Times Water,ORG,-0.08560606060606062,0.0,en,1.0
+Consolidated Water Reports,Consolidated Water Reports,ORG,0.0,0.0,en,1.0
+Rain PrayersThe New York Times Iran,Rain PrayersThe New York Times Iran,ORG,-0.08560606060606062,0.0,en,1.0
+Matic,Matic,ORG,-0.008333333333333333,0.0,en,1.0
+Verge,Verge,ORG,0.0,0.0,en,1.0
+Vox Media,Vox Media,ORG,0.0,0.0,en,1.0
+MiB,MiB,ORG,0.0,0.0,en,1.0
+"Brandon Zick, CIO","Brandon Zick, CIO",ORG,0.0,0.0,en,1.0
+Ceres Partners Farmland,Ceres Partners Farmland,ORG,0.0,0.0,en,1.0
+Mobile Gaming,Mobile Gaming,ORG,1.0,0.0,en,1.0
+cra,cra,ORG,0.0,0.0,en,1.0
+Delhi Pollution Control Committee,Delhi Pollution Control Committee,ORG,0.05,0.0,en,1.0
+The Delhi Pollution Control Committee,The Delhi Pollution Control Committee,ORG,0.0,0.0,en,1.0
+DPCC,DPCC,ORG,0.0,0.0,en,1.0
+Rural Technology Development and Dissemination,Rural Technology Development and Dissemination,ORG,0.0,0.0,en,1.0
+Debt Consolidation Loan,Debt Consolidation Loan,ORG,0.0,0.0,en,1.0
+BELEM,BELEM,ORG,0.0,0.0,en,1.0
+United Nations clima… Skip,United Nations clima… Skip,ORG,0.0,0.0,en,1.0
+The Korea Times,The Korea Times,ORG,0.7,0.0,en,1.0
+droughtby AFP Staff,droughtby AFP Staff,ORG,-0.125,0.0,en,1.0
+Evacuate,Evacuate,ORG,0.0,0.0,en,1.0
+reportsThe Guardian As Aquifers Dry Up,reportsThe Guardian As Aquifers Dry Up,ORG,-0.08560606060606062,0.0,en,1.0
+the Edmund FitzgeraldPopular Science,the Edmund FitzgeraldPopular Science,ORG,0.0,0.0,en,1.0
+Watts Water Technologies,Watts Water Technologies,ORG,0.0,0.0,en,1.0
 Eagles,Eagles,ORG,0.0,0.0,en,1.0
-Aurora Energy,Aurora Energy,ORG,0.05,0.0,en,1.0
-Eagl,Eagl,ORG,0.05,0.0,en,1.0
+GlobalData,GlobalData,ORG,0.0,0.0,en,1.0
 Connected Devices,Connected Devices,ORG,0.10714285714285714,0.0,en,1.0
 ProtoThema,ProtoThema,ORG,0.0642857142857143,0.0,en,1.0
 Rupert Resources Ltd,Rupert Resources Ltd,ORG,0.0,0.0,en,1.0
@@ -705,102 +883,18 @@ Labour,Labour,ORG,0.4,0.0,en,1.0
 Barnard College,Barnard College,ORG,-0.1111111111111111,0.0,en,1.0
 NEOM,NEOM,ORG,0.35714285714285715,0.0,en,1.0
 EyesoreKunstler.com,EyesoreKunstler.com,ORG,0.0,0.0,en,1.0
+st… RENO,st… RENO,ORG,0.0,0.0,en,1.0
 The Clean Energy Breakthrough That Could Power the AI Era,The Clean Energy Breakthrough That Could Power the AI Era,ORG,0.3666666666666667,0.0,en,1.0
 GLOBE,GLOBE,ORG,0.0,0.0,en,1.0
 Elliotte,Elliotte,ORG,0.25,0.0,en,1.0
-st… RENO,st… RENO,ORG,0.0,0.0,en,1.0
-The Enterprise-Anderson Groundwater Sustainability Agency,The Enterprise-Anderson Groundwater Sustainability Agency,ORG,0.0,0.0,en,1.0
-the University of Southern California,the University of Southern California,ORG,0.35,0.0,en,1.0
-Melissa - Caribbean News Global,Melissa - Caribbean News Global,ORG,0.0,0.0,en,1.0
-the SNS Insider,the SNS Insider,ORG,0.25,0.0,en,1.0
-GPU,GPU,ORG,0.09999999999999998,0.0,en,1.0
-wea,wea,ORG,-0.075,0.0,en,1.0
-Scie,Scie,ORG,0.06666666666666667,0.0,en,1.0
-the National Technical University of Athens,the National Technical University of Athens,ORG,0.1869047619047619,0.0,en,1.0
-the PGA Tour,the PGA Tour,ORG,0.0,0.0,en,1.0
-Sentry,Sentry,ORG,0.0,0.0,en,1.0
-ANC,ANC,ORG,0.47500000000000003,0.0,en,1.0
-Surging Application in Irrigation to Augment Market Growth,Surging Application in Irrigation to Augment Market Growth,ORG,0.0,0.0,en,1.0
-The Florida Forest Service,The Florida Forest Service,ORG,-0.06666666666666667,0.0,en,1.0
-California State University Sacramento,California State University Sacramento,ORG,0.35,0.0,en,1.0
-Galaxy Watch 8 Classic Stays at Its Cyber,Galaxy Watch 8 Classic Stays at Its Cyber,ORG,0.0,0.0,en,1.0
-Samsung Galaxy Watch 8 Classic,Samsung Galaxy Watch 8 Classic,ORG,0.047619047619047616,0.0,en,1.0
-the Energy and Climate Intelligence Unit,the Energy and Climate Intelligence Unit,ORG,-0.16666666666666666,0.0,en,1.0
-ECIU,ECIU,ORG,-0.16666666666666666,0.0,en,1.0
-summe,summe,ORG,0.0,0.0,en,1.0
-Project Nexus,Project Nexus,ORG,0.0,0.0,en,1.0
-WEP,WEP,ORG,-0.5,0.0,en,1.0
-the Partnership for Agile Governance and Climate Engagement,the Partnership for Agile Governance and Climate Engagement,ORG,0.16666666666666666,0.0,en,1.0
-"the Regulatory Authority for Waste, Energy","the Regulatory Authority for Waste, Energy",ORG,-0.04642857142857143,0.0,en,1.0
-underscor,underscor,ORG,0.0,0.0,en,1.0
-Data Center Boom Is Supercharging a Water Crisis,Data Center Boom Is Supercharging a Water Crisis,ORG,-0.1,0.0,en,1.0
-constr,constr,ORG,0.05,0.0,en,1.0
-CERT,CERT,ORG,0.35,0.0,en,1.0
-Cybersecurity Oversight,Cybersecurity Oversight,ORG,0.35,0.0,en,1.0
-Carnegie Mellon Universitys,Carnegie Mellon Universitys,ORG,0.35,0.0,en,1.0
-Okunola AA,Okunola AA,ORG,0.0,0.0,en,1.0
-Sinsamutpadung N,Sinsamutpadung N,ORG,0.0,0.0,en,1.0
-Hydro,Hydro,ORG,0.0,0.0,en,1.0
-Urmia,Urmia,ORG,-0.2,0.0,en,1.0
-Mearsheimer,Mearsheimer,ORG,-0.08181818181818182,0.0,en,1.0
-Nestle,Nestle,ORG,0.3333333333333333,0.0,en,1.0
-Pusley,Pusley,ORG,-0.2888888888888889,0.0,en,1.0
-MTG,MTG,ORG,0.0,0.0,en,1.0
-Border Patrol,Border Patrol,ORG,0.0,0.0,en,1.0
-Trump-Mamdani,Trump-Mamdani,ORG,0.0,0.0,en,1.0
-"Guardian
-","Guardian
-",ORG,-0.6999999999999998,0.0,en,1.0
-The Patent Office,The Patent Office,ORG,-0.6999999999999998,0.0,en,1.0
-Andy May,Andy May,ORG,0.1340909090909091,0.0,en,1.0
-"Climate Change, Deforestation","Climate Change, Deforestation",ORG,0.0,0.0,en,1.0
+Eagl,Eagl,ORG,0.05,0.0,en,1.0
+Aurora Energy,Aurora Energy,ORG,0.05,0.0,en,1.0
 European Smart Homes and,European Smart Homes and,ORG,0.10714285714285714,0.0,en,1.0
-GlobalData,GlobalData,ORG,0.0,0.0,en,1.0
 Influencer,Influencer,ORG,0.0,0.0,en,1.0
-BELEM,BELEM,ORG,0.0,0.0,en,1.0
-Ceres Partners Farmland,Ceres Partners Farmland,ORG,0.0,0.0,en,1.0
-Mobile Gaming,Mobile Gaming,ORG,1.0,0.0,en,1.0
-cra,cra,ORG,0.0,0.0,en,1.0
-Delhi Pollution Control Committee,Delhi Pollution Control Committee,ORG,0.05,0.0,en,1.0
-The Delhi Pollution Control Committee,The Delhi Pollution Control Committee,ORG,0.0,0.0,en,1.0
-DPCC,DPCC,ORG,0.0,0.0,en,1.0
-Rural Technology Development and Dissemination,Rural Technology Development and Dissemination,ORG,0.0,0.0,en,1.0
-Debt Consolidation Loan,Debt Consolidation Loan,ORG,0.0,0.0,en,1.0
-United Nations clima… Skip,United Nations clima… Skip,ORG,0.0,0.0,en,1.0
+Its Board of Directors,Its Board of Directors,ORG,0.0,0.0,en,1.0
 the Stavros Niarchos Foundation Cultural Ce,the Stavros Niarchos Foundation Cultural Ce,ORG,0.09318181818181817,0.0,en,1.0
-The Korea Times,The Korea Times,ORG,0.7,0.0,en,1.0
-droughtby AFP Staff,droughtby AFP Staff,ORG,-0.125,0.0,en,1.0
-Evacuate,Evacuate,ORG,0.0,0.0,en,1.0
-reportsThe Guardian As Aquifers Dry Up,reportsThe Guardian As Aquifers Dry Up,ORG,-0.08560606060606062,0.0,en,1.0
-Rain PrayersThe New York Times Iran,Rain PrayersThe New York Times Iran,ORG,-0.08560606060606062,0.0,en,1.0
-Rain PrayersThe New York Times Water,Rain PrayersThe New York Times Water,ORG,-0.08560606060606062,0.0,en,1.0
-Blue Origin’s,Blue Origin’s,ORG,0.06818181818181818,0.0,en,1.0
-Blue Origin,Blue Origin,ORG,0.06818181818181818,0.0,en,1.0
-"Brandon Zick, CIO","Brandon Zick, CIO",ORG,0.0,0.0,en,1.0
-MiB,MiB,ORG,0.0,0.0,en,1.0
-Vox Media,Vox Media,ORG,0.0,0.0,en,1.0
-Verge,Verge,ORG,0.0,0.0,en,1.0
-KINGSTON,KINGSTON,ORG,0.0,0.0,en,1.0
-Car… KINGSTON,Car… KINGSTON,ORG,0.0,0.0,en,1.0
-ExxonMobil,ExxonMobil,ORG,0.04545454545454545,0.0,en,1.0
-Chevron,Chevron,ORG,0.04545454545454545,0.0,en,1.0
-ExxonMobils,ExxonMobils,ORG,0.04545454545454545,0.0,en,1.0
-VP,VP,ORG,0.0,0.0,en,1.0
-RIDF,RIDF,ORG,0.0,0.0,en,1.0
-Rural Infrastructure Development Fund,Rural Infrastructure Development Fund,ORG,0.0,0.0,en,1.0
-Forests,Forests,ORG,0.15,0.0,en,1.0
-Life Network,Life Network,ORG,0.30186480186480186,0.0,en,1.0
-Kreatures of Habit,Kreatures of Habit,ORG,0.30186480186480186,0.0,en,1.0
-Justice Department,Justice Department,ORG,-0.5,0.0,en,1.0
-DOJ,DOJ,ORG,0.0,0.0,en,1.0
-the Meat Packing Companies,the Meat Packing Companies,ORG,0.0,0.0,en,1.0
-Collusionnewsmax.com,Collusionnewsmax.com,ORG,0.0,0.0,en,1.0
-dem,dem,ORG,0.0,0.0,en,1.0
-Matic,Matic,ORG,-0.008333333333333333,0.0,en,1.0
-the United Nations University,the United Nations University,ORG,0.0,0.0,en,1.0
-RFE/RL's,RFE/RL's,ORG,0.0,0.0,en,1.0
-Radio Farda,Radio Farda,ORG,0.0,0.0,en,1.0
 Board,Board,ORG,0.0,0.0,en,1.0
+the Governance and Sustainability C… NORTH ANDOVER,the Governance and Sustainability C… NORTH ANDOVER,ORG,0.0,0.0,en,1.0
 Data Spas,Data Spas,ORG,-0.07777777777777777,0.0,en,1.0
 BurnBlend,BurnBlend,ORG,0.0,0.0,en,1.0
 State Land Board,State Land Board,ORG,0.0,0.0,en,1.0
@@ -820,27 +914,4 @@ Shap,Shap,ORG,0.0,0.0,en,1.0
 "Shap, Cumbria","Shap, Cumbria",ORG,0.0,0.0,en,1.0
 London Euston,London Euston,ORG,0.25,0.0,en,1.0
 Helleno-German Sustainability Forum,Helleno-German Sustainability Forum,ORG,0.09318181818181817,0.0,en,1.0
-the Governance and Sustainability C… NORTH ANDOVER,the Governance and Sustainability C… NORTH ANDOVER,ORG,0.0,0.0,en,1.0
-Its Board of Directors,Its Board of Directors,ORG,0.0,0.0,en,1.0
-Chocolate,Chocolate,ORG,0.16,0.0,en,1.0
-Watts Water Technologies,Watts Water Technologies,ORG,0.0,0.0,en,1.0
-Madani,Madani,ORG,-0.08333333333333333,0.0,en,1.0
-KYIV,KYIV,ORG,0.03333333333333333,0.0,en,1.0
-STATE TIMES NEWS JAMMU,STATE TIMES NEWS JAMMU,ORG,-0.03928571428571429,0.0,en,1.0
-the Jammu Development Authority,the Jammu Development Authority,ORG,-0.03928571428571429,0.0,en,1.0
-JDA,JDA,ORG,-0.03928571428571429,0.0,en,1.0
-STATE TIMES NEWS,STATE TIMES NEWS,ORG,-0.03928571428571429,0.0,en,1.0
-MLA Jammu North,MLA Jammu North,ORG,-0.03928571428571429,0.0,en,1.0
-LG Kavinder,LG Kavinder,ORG,0.0,0.0,en,1.0
-Early Black Friday Smartwatch & Fitness Tracker Deals,Early Black Friday Smartwatch & Fitness Tracker Deals,ORG,0.14444444444444446,0.0,en,1.0
-GLOBE NEWSWIRE),GLOBE NEWSWIRE),ORG,0.171875,0.0,en,1.0
-Trump crackdownBBC,Trump crackdownBBC,ORG,0.0,0.0,en,1.0
-Berkshire CEO,Berkshire CEO,ORG,0.0,0.0,en,1.0
-Defense,Defense,ORG,0.06666666666666665,0.0,en,1.0
-Hegseth SaysThe New York Times,Hegseth SaysThe New York Times,ORG,0.018181818181818174,0.0,en,1.0
-"ET
- ","ET
- ",ORG,0.0,0.0,en,1.0
-the Edmund FitzgeraldPopular Science,the Edmund FitzgeraldPopular Science,ORG,0.0,0.0,en,1.0
-Consolidated Water Reports,Consolidated Water Reports,ORG,0.0,0.0,en,1.0
-PHT Janus,PHT Janus,ORG,-0.3,0.0,en,1.0
+Kalyan-Dombivli Municipal Corporation,Kalyan-Dombivli Municipal Corporation,ORG,0.0,0.0,en,1.0

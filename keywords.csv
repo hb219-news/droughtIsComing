@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.0859191115493122
-'cloud seeding',en,Mitigation,#00ff00,#00ff00,2,0.05904176683389735
 'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0528962259442946
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0525234960121083
 'drought climate change',en,Causes,#00ffff,#00ffff,3,0.0507232726580365
+'cloud seeding',en,Mitigation,#00ff00,#00ff00,1,0.050185936808812705
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0500044307344015
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.0475319696551776
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,1,0.0473638684241062

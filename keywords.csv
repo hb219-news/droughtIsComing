@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.0744082225253331
+'irrigation',en,Mitigation,#00ff00,#00ff00,3,0.07957028551016951
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0643397980936735
 'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0508947148633791
 'water management',en,Adaptation,#0000ff,#0000ff,3,0.0492662864005384
@@ -7,5 +7,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0461891833769293
 'drought reservoir',en,Hazard,#ff0000,#ff0000,2,0.0460158314696797
 'cloud seeding',en,Mitigation,#00ff00,#00ff00,2,0.0315378839491269
-'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.02500175037985539
+'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.0250017503798553
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,1,0.0225972396698462

@@ -7,5 +7,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0436761692838248
 'dry soil',en,Impacts,#ffff00,#ffff00,3,0.0428098213879377
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,2,0.0236215971681276
-'cloud seeding',en,Mitigation,#00ff00,#00ff00,2,0.019966492847922363
-'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.0093880197016848
+'cloud seeding',en,Mitigation,#00ff00,#00ff00,2,0.0199664928479223
+'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.00947996674643208

@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Kulman Ghising,Kulman Ghising,PERSON,0.001831501831501831,0.2589394732251875,en,9.1
 Biraj Bhakta Shrestha,Biraj Bhakta Shrestha,PERSON,0.2273972602739726,0.5625570776255708,en,7.300000000000001
-El Nino,El Nino,PERSON,0.0910493827160494,0.6033950617283951,en,5.4
+El Nino,El Nino,PERSON,0.11375661375661376,0.5595238095238095,en,6.300000000000001
 Manjinder Singh Sirsa,Manjinder Singh Sirsa,PERSON,0.10951910408432149,0.3916337285902503,en,4.6
 Christa Steele,Christa Steele,PERSON,0.22619047619047616,0.20238095238095238,en,4.2
 Geoff Lawton,Geoff Lawton,PERSON,0.28267045454545453,0.533603896103896,en,4.0
@@ -12,269 +12,281 @@ Mohan Charan Majhi,Mohan Charan Majhi,PERSON,0.009418509418509417,0.219082719082
 KUALA NERUS,KUALA NERUS,PERSON,0.16465053763440862,0.4522849462365593,en,3.0999999999999996
 Ahmad Zahid Hamidi,Ahmad Zahid Hamidi,PERSON,0.16465053763440862,0.4522849462365593,en,3.0999999999999996
 JOHOR BARU,JOHOR BARU,PERSON,0.06853448275862067,0.40991379310344833,en,2.9
+Nanjai Pugalur,Nanjai Pugalur,PERSON,0.05753968253968255,0.40674603174603174,en,2.8
 Mons Joseph,Mons Joseph,PERSON,0.0,0.3928571428571429,en,2.8
-Ajit Pawar,Ajit Pawar,PERSON,0.007440476190476194,0.2336309523809524,en,2.8
 Josh Allen,Josh Allen,PERSON,0.15327380952380953,0.8854166666666669,en,2.8
 Harish Rao,Harish Rao,PERSON,0.10714285714285716,0.4107142857142857,en,2.8
-Nanjai Pugalur,Nanjai Pugalur,PERSON,0.05753968253968255,0.40674603174603174,en,2.8
+Ajit Pawar,Ajit Pawar,PERSON,0.007440476190476194,0.2336309523809524,en,2.8
 Lake Powell,Lake Powell,PERSON,0.1851851851851852,0.5555555555555556,en,2.6999999999999997
 Diego Pavia,Diego Pavia,PERSON,-0.33173076923076916,0.5288461538461539,en,2.6
 Yuvraj Mehta,Yuvraj Mehta,PERSON,0.012820512820512817,0.2692307692307692,en,2.6
 Brandon Aiyuk,Brandon Aiyuk,PERSON,-0.23076923076923075,0.689102564102564,en,2.6
 Kylie Jenner,Kylie Jenner,PERSON,0.1692307692307692,0.5423076923076923,en,2.6
 GEORGE TOWN,GEORGE TOWN,PERSON,0.34800000000000003,0.502,en,2.5
+Donald Trump,Donald Trump,PERSON,0.017878787878787862,0.6284848484848484,en,2.5
 David Corenswet,David Corenswet,PERSON,0.0,0.0,en,2.4
 Barbed Connectors Drip Irrigation,Barbed Connectors Drip Irrigation,PERSON,0.16666666666666669,0.33333333333333337,en,2.4
 Brian Poulsen,Brian Poulsen,PERSON,0.041666666666666685,0.4166666666666667,en,2.4
 Doug Bostrom,Doug Bostrom,PERSON,0.066017316017316,0.7743506493506493,en,2.2
-Donald Trump,Donald Trump,PERSON,0.020316804407713475,0.7141873278236913,en,2.2
 Ann Arbor,Ann Arbor,PERSON,0.02840909090909092,1.4545454545454544,en,2.2
-Omar Abdullah,Omar Abdullah,PERSON,0.0,0.2125,en,2.0
-ETH Zurich,ETH Zurich,PERSON,0.13636363636363635,0.45454545454545453,en,2.0
 Yi Yao,Yi Yao,PERSON,0.13636363636363635,0.45454545454545453,en,2.0
+ETH Zurich,ETH Zurich,PERSON,0.13636363636363635,0.45454545454545453,en,2.0
+Omar Abdullah,Omar Abdullah,PERSON,0.0,0.2125,en,2.0
+Kendra Pierre-Louis,Kendra Pierre-Louis,PERSON,0.3508771929824561,0.5263157894736842,en,1.9000000000000001
 Mytheen Kunju Basheer,Mytheen Kunju Basheer,PERSON,0.09780701754385963,0.7896198830409357,en,1.9000000000000001
 Datuk Hameed,Datuk Hameed,PERSON,0.09780701754385963,0.7896198830409357,en,1.9000000000000001
-Kendra Pierre-Louis,Kendra Pierre-Louis,PERSON,0.3508771929824561,0.5263157894736842,en,1.9000000000000001
-Quaterly bulletion,Quaterly bulletion,PERSON,0.0,0.0,en,1.9
-Hilir Perak,Hilir Perak,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
-N Chandrababu Naidu,N Chandrababu Naidu,PERSON,0.07894736842105263,0.09210526315789473,en,1.9
-Kyle Stock,Kyle Stock,PERSON,0.0,0.0,en,1.9
-Shiv Sena-BJP,Shiv Sena-BJP,PERSON,0.010964912280701759,0.3442982456140351,en,1.9
-Perak Tengah,Perak Tengah,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
-Amit Shah,Amit Shah,PERSON,0.0,0.13157894736842105,en,1.9
-Frances Hayes,Frances Hayes,PERSON,0.268640350877193,0.48611111111111116,en,1.9
-Sungai Manik,Sungai Manik,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
-Lynch Carpenter,Lynch Carpenter,PERSON,0.0,0.14473684210526316,en,1.9
-Amit Bhatnagar,Amit Bhatnagar,PERSON,-0.010964912280701752,0.4013157894736842,en,1.9
-Anbumani Ramadoss,Anbumani Ramadoss,PERSON,0.0,0.0,en,1.9
-Benjamin Grant,Benjamin Grant,PERSON,0.14354066985645933,0.4784688995215311,en,1.9
 Naresh Trehan,Naresh Trehan,PERSON,0.06578947368421052,0.18859649122807018,en,1.9
-Seberang Perak,Seberang Perak,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
-ALOR SETAR,ALOR SETAR,PERSON,0.07017543859649121,0.7587719298245614,en,1.9
-Suryaghar Muft Bijli Yojana,Suryaghar Muft Bijli Yojana,PERSON,0.03588516746411483,0.25119617224880386,en,1.9
-Ramesh Ramachandran,Ramesh Ramachandran,PERSON,0.14035087719298248,1.0175438596491229,en,1.9
 Chhota Udepur,Chhota Udepur,PERSON,0.0,0.0,en,1.9
 Marjory Wildcraft,Marjory Wildcraft,PERSON,0.0,0.3458646616541354,en,1.9
+Amit Shah,Amit Shah,PERSON,0.0,0.13157894736842105,en,1.9
+N Chandrababu Naidu,N Chandrababu Naidu,PERSON,0.07894736842105263,0.09210526315789473,en,1.9
+Satish Jarkiholi,Satish Jarkiholi,PERSON,0.0,0.0,en,1.9
+Kyle Stock,Kyle Stock,PERSON,0.0,0.0,en,1.9
+Anbumani Ramadoss,Anbumani Ramadoss,PERSON,0.0,0.0,en,1.9
+ALOR SETAR,ALOR SETAR,PERSON,0.07017543859649121,0.7587719298245614,en,1.9
+Quaterly bulletion,Quaterly bulletion,PERSON,0.0,0.0,en,1.9
+Seberang Perak,Seberang Perak,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
+Hilir Perak,Hilir Perak,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
+Perak Tengah,Perak Tengah,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
+Shiv Sena-BJP,Shiv Sena-BJP,PERSON,0.010964912280701759,0.3442982456140351,en,1.9
+Sungai Manik,Sungai Manik,PERSON,0.17105263157894735,0.6447368421052633,en,1.9
 Erin Anders,Erin Anders,PERSON,0.268640350877193,0.48611111111111116,en,1.9
-Ron DeSantis,Ron DeSantis,PERSON,-0.41666666666666663,0.7407407407407407,en,1.8
+Benjamin Grant,Benjamin Grant,PERSON,0.14354066985645933,0.4784688995215311,en,1.9
+Frances Hayes,Frances Hayes,PERSON,0.268640350877193,0.48611111111111116,en,1.9
+Suryaghar Muft Bijli Yojana,Suryaghar Muft Bijli Yojana,PERSON,0.03588516746411483,0.25119617224880386,en,1.9
+Lynch Carpenter,Lynch Carpenter,PERSON,0.0,0.14473684210526316,en,1.9
+Ramesh Ramachandran,Ramesh Ramachandran,PERSON,0.14035087719298248,1.0175438596491229,en,1.9
+Amit Bhatnagar,Amit Bhatnagar,PERSON,-0.010964912280701752,0.4013157894736842,en,1.9
+Massoud Pezeshkian,Massoud Pezeshkian,PERSON,0.19444444444444442,1.4074074074074072,en,1.8
+Nelly Korda,Nelly Korda,PERSON,-0.018518518518518514,0.5185185185185185,en,1.8
 Wang Puzhi,Wang Puzhi,PERSON,-0.029629629629629624,0.26666666666666666,en,1.8
 Yang Zhifa,Yang Zhifa,PERSON,-0.029629629629629624,0.26666666666666666,en,1.8
-Massoud Pezeshkian,Massoud Pezeshkian,PERSON,0.19444444444444442,1.4074074074074072,en,1.8
-Timothée Chalamet,Timothée Chalamet,PERSON,0.13333333333333333,0.4499999999999999,en,1.8
 Ingrid Lunden,Ingrid Lunden,PERSON,0.5555555555555556,0.5555555555555556,en,1.8
+Ron DeSantis,Ron DeSantis,PERSON,-0.41666666666666663,0.7407407407407407,en,1.8
 Luciano Novia,Luciano Novia,PERSON,0.044444444444444446,0.26666666666666666,en,1.8
-Nelly Korda,Nelly Korda,PERSON,-0.018518518518518514,0.5185185185185185,en,1.8
-Datuk Seri,Datuk Seri,PERSON,0.20588235294117646,0.3235294117647059,en,1.7
-John Nielsen,John Nielsen,PERSON,0.004456327985739746,0.5965537730243613,en,1.7
-Ruwan Liyanarachchi,Ruwan Liyanarachchi,PERSON,0.1523109243697479,0.4422268907563026,en,1.7
-Ali Berman,Ali Berman,PERSON,0.0,0.19607843137254902,en,1.7
-Raina Penchansky,Raina Penchansky,PERSON,0.0,0.19607843137254902,en,1.7
-MIAS Architects,MIAS Architects,PERSON,0.0,0.22058823529411764,en,1.7
-Balendra Shah,Balendra Shah,PERSON,-0.04901960784313727,0.477124183006536,en,1.7
-KOTA BARU,KOTA BARU,PERSON,-0.029411764705882363,0.31176470588235294,en,1.7
+Timothée Chalamet,Timothée Chalamet,PERSON,0.13333333333333333,0.4499999999999999,en,1.8
 Jeni Balanay,Jeni Balanay,PERSON,-0.23529411764705885,0.35294117647058826,en,1.7
-Lizzy Rain,Lizzy Rain,PERSON,0.13071895424836602,0.19607843137254902,en,1.7
 François Arnaud,François Arnaud,PERSON,0.0,0.0,en,1.7
-Orville Williams,Orville Williams,PERSON,0.4379411764705883,0.5341176470588236,en,1.7
-Yvonne Strahovski,Yvonne Strahovski,PERSON,0.0,0.0,en,1.7
+Ruwan Liyanarachchi,Ruwan Liyanarachchi,PERSON,0.1523109243697479,0.4422268907563026,en,1.7
+Balendra Shah,Balendra Shah,PERSON,-0.04901960784313727,0.477124183006536,en,1.7
 Datuk Seri Dr,Datuk Seri Dr,PERSON,0.09436274509803921,0.5012254901960785,en,1.7
-Dillon Brooks,Dillon Brooks,PERSON,0.07589285714285714,0.6964285714285714,en,1.6
-Gavin Newsom,Gavin Newsom,PERSON,-0.035714285714285705,0.41071428571428575,en,1.6
-Kyle Busch,Kyle Busch,PERSON,1.5000000000000002,0.7500000000000001,en,1.6
-Kevin W,Kevin W,PERSON,-0.11979166666666655,0.8124999999999999,en,1.6
-Narendra Modi,Narendra Modi,PERSON,0.10416666666666666,0.2743055555555555,en,1.6
+Lizzy Rain,Lizzy Rain,PERSON,0.13071895424836602,0.19607843137254902,en,1.7
+Orville Williams,Orville Williams,PERSON,0.4379411764705883,0.5341176470588236,en,1.7
+John Nielsen,John Nielsen,PERSON,0.004456327985739746,0.5965537730243613,en,1.7
+MIAS Architects,MIAS Architects,PERSON,0.0,0.22058823529411764,en,1.7
+KOTA BARU,KOTA BARU,PERSON,-0.029411764705882363,0.31176470588235294,en,1.7
+Datuk Seri,Datuk Seri,PERSON,0.20588235294117646,0.3235294117647059,en,1.7
+Ali Berman,Ali Berman,PERSON,0.0,0.19607843137254902,en,1.7
+Yvonne Strahovski,Yvonne Strahovski,PERSON,0.0,0.0,en,1.7
+Raina Penchansky,Raina Penchansky,PERSON,0.0,0.19607843137254902,en,1.7
 Joao Pedro,Joao Pedro,PERSON,0.45833333333333337,0.7407407407407407,en,1.6
 Simon Stiell,Simon Stiell,PERSON,-0.0798611111111111,0.8958333333333333,en,1.6
+Kyle Busch,Kyle Busch,PERSON,1.5000000000000002,0.7500000000000001,en,1.6
 Storm Chandra,Storm Chandra,PERSON,0.13541666666666666,0.3854166666666667,en,1.6
+Dillon Brooks,Dillon Brooks,PERSON,0.07589285714285714,0.6964285714285714,en,1.6
+Kevin W,Kevin W,PERSON,-0.11979166666666655,0.8124999999999999,en,1.6
+Gavin Newsom,Gavin Newsom,PERSON,-0.035714285714285705,0.41071428571428575,en,1.6
 Barry Levinson,Barry Levinson,PERSON,0.20625,0.35625,en,1.6
+Narendra Modi,Narendra Modi,PERSON,0.10416666666666666,0.2743055555555555,en,1.6
 Volodymyr Zelenskyy,Volodymyr Zelenskyy,PERSON,0.08602150537634408,0.385752688172043,en,1.55
 George Rose,George Rose,PERSON,1.0583333333333333,1.6642857142857144,en,1.4
+Refik Anadol,Refik Anadol,PERSON,0.0,0.7142857142857143,en,1.4
 Warren Buffett,Warren Buffett,PERSON,0.6880341880341879,1.2735042735042732,en,1.3000000000000003
-The Raja of Perlis,The Raja of Perlis,PERSON,0.38278388278388276,0.7637362637362637,en,1.3
-Tuanku Syed Sirajuddin Jamalullail,Tuanku Syed Sirajuddin Jamalullail,PERSON,0.38278388278388276,0.7637362637362637,en,1.3
-Turco et al,Turco et al,PERSON,-0.007326007326007323,0.8241758241758241,en,1.3
+Luigi Mariani,Luigi Mariani,PERSON,0.2062937062937063,0.5466200466200467,en,1.3
+Rory McIlroy,Rory McIlroy,PERSON,0.7692307692307692,0.7692307692307692,en,1.3
+Whitney Snow,Whitney Snow,PERSON,0.23076923076923078,0.6538461538461539,en,1.3
+Mohamad Salleh,Mohamad Salleh,PERSON,0.4567307692307692,1.0576923076923077,en,1.3
+Mohamad Fazli,Mohamad Fazli,PERSON,0.4567307692307692,1.0576923076923077,en,1.3
+Dreo SDK,Dreo SDK,PERSON,0.0,0.0,en,1.3
 Gianluca Alimonti,Gianluca Alimonti,PERSON,0.2062937062937063,0.5466200466200467,en,1.3
 Istana Arau,Istana Arau,PERSON,0.38278388278388276,0.7637362637362637,en,1.3
-Jordan Winery,Jordan Winery,PERSON,0.2243589743589743,0.8128205128205128,en,1.3
-Dreo SDK,Dreo SDK,PERSON,0.0,0.0,en,1.3
-PHILLIPS STATION,PHILLIPS STATION,PERSON,-0.1282051282051282,0.8974358974358975,en,1.3
-Joe Raedle,Joe Raedle,PERSON,0.3269230769230769,0.6538461538461539,en,1.3
-Nikita Golubev,Nikita Golubev,PERSON,-0.03418803418803418,0.9572649572649572,en,1.3
-Emmanuel Macron,Emmanuel Macron,PERSON,0.0,0.09615384615384615,en,1.3
-Rachel Feltman,Rachel Feltman,PERSON,0.2564102564102564,0.3846153846153846,en,1.3
-Eddie Wicks,Eddie Wicks,PERSON,0.0,0.0,en,1.3
-Matt Ridley,Matt Ridley,PERSON,-0.2153846153846154,0.5344322344322344,en,1.3
-Randy Martinson,Randy Martinson,PERSON,0.0,0.0,en,1.3
-Rory McIlroy,Rory McIlroy,PERSON,0.7692307692307692,0.7692307692307692,en,1.3
-Sophie Rain,Sophie Rain,PERSON,0.0,0.0,en,1.3
-Jason Belmonte,Jason Belmonte,PERSON,0.05128205128205129,0.10256410256410256,en,1.3
-Spencer et al,Spencer et al,PERSON,0.0,0.3846153846153846,en,1.3
-Michael Snyder,Michael Snyder,PERSON,0.30961538461538457,0.6192307692307691,en,1.3
-Luigi Mariani,Luigi Mariani,PERSON,0.2062937062937063,0.5466200466200467,en,1.3
-Terry Tempest Williams,Terry Tempest Williams,PERSON,0.15384615384615385,1.5384615384615383,en,1.3
-Ross Smith,Ross Smith,PERSON,0.0,0.0,en,1.3
-Whitney Snow,Whitney Snow,PERSON,0.23076923076923078,0.6538461538461539,en,1.3
+Tuanku Syed Sirajuddin Jamalullail,Tuanku Syed Sirajuddin Jamalullail,PERSON,0.38278388278388276,0.7637362637362637,en,1.3
+The Raja of Perlis,The Raja of Perlis,PERSON,0.38278388278388276,0.7637362637362637,en,1.3
+Turco et al,Turco et al,PERSON,-0.007326007326007323,0.8241758241758241,en,1.3
 Rod Dixon-Smith,Rod Dixon-Smith,PERSON,0.30769230769230765,0.7282051282051282,en,1.3
-Mohamad Salleh,Mohamad Salleh,PERSON,0.4567307692307692,1.0576923076923077,en,1.3
-Katie Hobbs,Katie Hobbs,PERSON,0.0,0.0,en,1.3
-Andrew Ellis,Andrew Ellis,PERSON,-0.019230769230769232,0.8307692307692308,en,1.3
+Rapa Nui,Rapa Nui,PERSON,0.07342657342657341,0.6293706293706294,en,1.3
 DORANY PINEDA,DORANY PINEDA,PERSON,0.28205128205128205,0.6474358974358975,en,1.3
+Sophie Rain,Sophie Rain,PERSON,0.0,0.0,en,1.3
+Eddie Wicks,Eddie Wicks,PERSON,0.0,0.0,en,1.3
+Katie Hobbs,Katie Hobbs,PERSON,0.0,0.0,en,1.3
+Jordan Winery,Jordan Winery,PERSON,0.2243589743589743,0.8128205128205128,en,1.3
+Nikita Golubev,Nikita Golubev,PERSON,-0.03418803418803418,0.9572649572649572,en,1.3
 Lionel Messi,Lionel Messi,PERSON,0.17663817663817666,0.6096866096866097,en,1.3
 Cristiano Ronaldo,Cristiano Ronaldo,PERSON,0.17663817663817666,0.6096866096866097,en,1.3
+Spencer et al,Spencer et al,PERSON,0.0,0.3846153846153846,en,1.3
+Matt Ridley,Matt Ridley,PERSON,-0.2153846153846154,0.5344322344322344,en,1.3
 Datuk Seri Fadillah Yusof,Datuk Seri Fadillah Yusof,PERSON,0.1346153846153846,0.21153846153846154,en,1.3
-Rapa Nui,Rapa Nui,PERSON,0.07342657342657341,0.6293706293706294,en,1.3
+PHILLIPS STATION,PHILLIPS STATION,PERSON,-0.1282051282051282,0.8974358974358975,en,1.3
 Mary Davis,Mary Davis,PERSON,0.07537462537462535,0.5352980352980353,en,1.3
-Yolanda Matos,Yolanda Matos,PERSON,-0.018356643356643363,0.9368881118881117,en,1.3
-Mohamad Fazli,Mohamad Fazli,PERSON,0.4567307692307692,1.0576923076923077,en,1.3
 Mikel Merino,Mikel Merino,PERSON,-0.07942057942057944,0.5264735264735264,en,1.3
+Ross Smith,Ross Smith,PERSON,0.0,0.0,en,1.3
+Yolanda Matos,Yolanda Matos,PERSON,-0.018356643356643363,0.9368881118881117,en,1.3
+Joe Raedle,Joe Raedle,PERSON,0.3269230769230769,0.6538461538461539,en,1.3
+Randy Martinson,Randy Martinson,PERSON,0.0,0.0,en,1.3
+Emmanuel Macron,Emmanuel Macron,PERSON,0.0,0.09615384615384615,en,1.3
+Rachel Feltman,Rachel Feltman,PERSON,0.2564102564102564,0.3846153846153846,en,1.3
 Ryan Staniforth,Ryan Staniforth,PERSON,0.07595182595182594,0.5786713286713286,en,1.3
-Michael Chernow,Michael Chernow,PERSON,1.0523504273504272,0.9994658119658117,en,1.2000000000000002
+Jason Belmonte,Jason Belmonte,PERSON,0.05128205128205129,0.10256410256410256,en,1.3
+Terry Tempest Williams,Terry Tempest Williams,PERSON,0.15384615384615385,1.5384615384615383,en,1.3
+Michael Snyder,Michael Snyder,PERSON,0.30961538461538457,0.6192307692307691,en,1.3
+Andrew Ellis,Andrew Ellis,PERSON,-0.019230769230769232,0.8307692307692308,en,1.3
 Stéphanie Guillaume,Stéphanie Guillaume,PERSON,0.4545454545454544,0.7095959595959596,en,1.2000000000000002
-James Bond,James Bond,PERSON,0.004629629629629605,0.607175925925926,en,1.2
+Michael Chernow,Michael Chernow,PERSON,1.0523504273504272,0.9994658119658117,en,1.2000000000000002
+Efsun Erkilıç,Efsun Erkilıç,PERSON,0.0,0.4166666666666667,en,1.2
 Natasha Cloud,Natasha Cloud,PERSON,0.03787878787878787,0.17255892255892258,en,1.2
+James Bond,James Bond,PERSON,0.004629629629629605,0.607175925925926,en,1.2
 Richard Feynman,Richard Feynman,PERSON,-0.10937500000000001,0.9947916666666667,en,1.2
+Brandon Zick,Brandon Zick,PERSON,0.0,0.0,en,1.1
 Sanam Mahoozi,Sanam Mahoozi,PERSON,0.0,0.056818181818181816,en,1.1
-Fatin Azrin,Fatin Azrin,PERSON,-0.1375,0.5806818181818182,en,1.1
 Zac Builds,Zac Builds,PERSON,-0.045454545454545456,0.45454545454545453,en,1.1
+Tim Cook,Tim Cook,PERSON,0.0,0.8246753246753247,en,1.1
+Sanjeev Kapoor,Sanjeev Kapoor,PERSON,0.22727272727272727,0.303030303030303,en,1.1
+Gibran Rakabuming Raka,Gibran Rakabuming Raka,PERSON,0.0,0.45454545454545453,en,1.1
+Fatin Azrin,Fatin Azrin,PERSON,-0.1375,0.5806818181818182,en,1.1
+Bill Gates,Bill Gates,PERSON,-0.08953168044077134,0.6005509641873277,en,1.1
+Banarsi LalAgricultural,Banarsi LalAgricultural,PERSON,0.1515151515151515,1.6666666666666667,en,1.1
 Peter Thiel,Peter Thiel,PERSON,0.0,0.0,en,1.1
+Banarsi LalEcosystem,Banarsi LalEcosystem,PERSON,0.3787878787878788,1.0606060606060603,en,1.1
+Realme 15,Realme 15,PERSON,-0.19256198347107434,0.6969696969696969,en,1.1
 PARSHANT BAKSHIDragon,PARSHANT BAKSHIDragon,PERSON,0.5,0.5,en,1.1
+Jeremy Friesen,Jeremy Friesen,PERSON,-0.0303030303030303,0.303030303030303,en,1.1
+Lee Jung-eun,Lee Jung-eun,PERSON,0.22727272727272727,1.25,en,1.1
 Julia Watson,Julia Watson,PERSON,0.2479338842975206,0.8264462809917354,en,1.1
+Lal Sharma,Lal Sharma,PERSON,-0.07142857142857144,0.6536796536796536,en,1.1
+Alyssa Battistoni,Alyssa Battistoni,PERSON,-0.101010101010101,0.5959595959595959,en,1.1
 Jay Yoon,Jay Yoon,PERSON,0.6818181818181818,0.6818181818181818,en,1.1
-Nels Anderson,Nels Anderson,PERSON,0.13553719008264462,0.7851239669421487,en,1.1
 Jitendra Singh,Jitendra Singh,PERSON,0.17045454545454544,0.5852272727272726,en,1.1
 Kavinder Gupta,Kavinder Gupta,PERSON,0.4155844155844156,0.7922077922077921,en,1.1
-Banarsi LalAgricultural,Banarsi LalAgricultural,PERSON,0.1515151515151515,1.6666666666666667,en,1.1
-Tim Cook,Tim Cook,PERSON,0.0,0.8246753246753247,en,1.1
-Brandon Zick,Brandon Zick,PERSON,0.0,0.0,en,1.1
-Realme 15,Realme 15,PERSON,-0.19256198347107434,0.6969696969696969,en,1.1
-Sanjeev Kapoor,Sanjeev Kapoor,PERSON,0.22727272727272727,0.303030303030303,en,1.1
-Lal Sharma,Lal Sharma,PERSON,-0.07142857142857144,0.6536796536796536,en,1.1
-Lee Jung-eun,Lee Jung-eun,PERSON,0.22727272727272727,1.25,en,1.1
-Jeremy Friesen,Jeremy Friesen,PERSON,-0.0303030303030303,0.303030303030303,en,1.1
-Gibran Rakabuming Raka,Gibran Rakabuming Raka,PERSON,0.0,0.45454545454545453,en,1.1
-Bill Gates,Bill Gates,PERSON,-0.08953168044077134,0.6005509641873277,en,1.1
-Banarsi LalEcosystem,Banarsi LalEcosystem,PERSON,0.3787878787878788,1.0606060606060603,en,1.1
-Alyssa Battistoni,Alyssa Battistoni,PERSON,-0.101010101010101,0.5959595959595959,en,1.1
+Nels Anderson,Nels Anderson,PERSON,0.13553719008264462,0.7851239669421487,en,1.1
+Alysa Liu,Alysa Liu,PERSON,0.0,0.0,en,1.0
+Lisa Thalheimer,Lisa Thalheimer,PERSON,0.2619047619047619,0.3452380952380952,en,1.0
+Burhi Gandak,Burhi Gandak,PERSON,0.25,0.3333333333333333,en,1.0
+Telangana Rain Alert,Telangana Rain Alert,PERSON,0.0,0.0,en,1.0
+Sariwon City,Sariwon City,PERSON,0.0,0.0,en,1.0
 Yan Zhang,Yan Zhang,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Longhui Huang,Longhui Huang,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-David H,David H,PERSON,0.375,0.875,en,1.0
-Jinghui Gao,Jinghui Gao,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-CLAIRE RUSH,CLAIRE RUSH,PERSON,-0.2,0.4,en,1.0
-Hong Luo,Hong Luo,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Ra Mancombu,Ra Mancombu,PERSON,0.13333333333333336,0.9666666666666667,en,1.0
 Yuxin Song,Yuxin Song,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Bihar Regiment,Bihar Regiment,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Thomas He,Thomas He,PERSON,0.0,0.0,en,1.0
-Thomas Henry Huxley,Thomas Henry Huxley,PERSON,-0.75,1.0,en,1.0
-Xiongfeng Zhou,Xiongfeng Zhou,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Sarah Simmons,Sarah Simmons,PERSON,0.0,0.0,en,1.0
-Cong Wang,Cong Wang,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Ji-an Duan,Ji-an Duan,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
+Photosystem II,Photosystem II,PERSON,0.14,0.6349999999999999,en,1.0
+CLAIRE RUSH,CLAIRE RUSH,PERSON,-0.2,0.4,en,1.0
+Chhatrapati Shivaji Maharaj,Chhatrapati Shivaji Maharaj,PERSON,-0.0888888888888889,0.48888888888888893,en,1.0
+Tunga Dam,Tunga Dam,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Jinghui Gao,Jinghui Gao,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
 Minjie LiuAtmospheric,Minjie LiuAtmospheric,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Parvesh Sahib Singh,Parvesh Sahib Singh,PERSON,0.04727272727272727,0.21948051948051947,en,1.0
-Carson Hocevar,Carson Hocevar,PERSON,0.8,0.4,en,1.0
-Aiper IrriSense,Aiper IrriSense,PERSON,0.060317460317460304,0.5587301587301587,en,1.0
+Telangana distr,Telangana distr,PERSON,0.0,0.0,en,1.0
+Longhui Huang,Longhui Huang,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
+Hong Luo,Hong Luo,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
+Xiongfeng Zhou,Xiongfeng Zhou,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
 CSTPresident Volodymyr Zelenskyy,CSTPresident Volodymyr Zelenskyy,PERSON,0.3,0.9,en,1.0
+Cong Wang,Cong Wang,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
+Samrat Choudhary,Samrat Choudhary,PERSON,0.25,0.3333333333333333,en,1.0
+Aiper IrriSense,Aiper IrriSense,PERSON,0.060317460317460304,0.5587301587301587,en,1.0
+orheaven forbidemerald green,orheaven forbidemerald green,PERSON,-0.12944444444444447,0.49777777777777776,en,1.0
+Ji-an Duan,Ji-an Duan,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
+Ian Wellman,Ian Wellman,PERSON,-0.6,0.9,en,1.0
+Parvesh Sahib Singh,Parvesh Sahib Singh,PERSON,0.04727272727272727,0.21948051948051947,en,1.0
+Energy Tra,Energy Tra,PERSON,0.0,0.0,en,1.0
+Pralhad Joshi,Pralhad Joshi,PERSON,-0.0888888888888889,0.5222222222222223,en,1.0
+Teleti et al,Teleti et al,PERSON,0.0,0.225,en,1.0
+Priyanka Gandhi,Priyanka Gandhi,PERSON,-0.0888888888888889,0.5222222222222223,en,1.0
+Hooman Majd,Hooman Majd,PERSON,-0.14027777777777778,0.3319444444444445,en,1.0
+droughtheatwave eventsperiods,droughtheatwave eventsperiods,PERSON,0.11212121212121212,0.38484848484848483,en,1.0
+Duncan Palmer,Duncan Palmer,PERSON,0.0,0.0,en,1.0
+Emma DeSouza,Emma DeSouza,PERSON,0.0,0.0,en,1.0
+Veronica Akalapatan,Veronica Akalapatan,PERSON,0.0,0.0,en,1.0
+Bower Hinton,Bower Hinton,PERSON,0.0,0.0,en,1.0
+Colleen Hoover‘s,Colleen Hoover‘s,PERSON,0.08,0.30000000000000004,en,1.0
+Nick Turse,Nick Turse,PERSON,-0.14027777777777778,0.3319444444444445,en,1.0
+Gaura Sengupta,Gaura Sengupta,PERSON,0.225,0.26666666666666666,en,1.0
+Benjamin Netanyahu,Benjamin Netanyahu,PERSON,0.0,0.0,en,1.0
+Starrey Drip Irrigation Garden Watering System,Starrey Drip Irrigation Garden Watering System,PERSON,0.0,0.0,en,1.0
 Terry Tempes,Terry Tempes,PERSON,0.0,0.0,en,1.0
-PaperXinran Dong,PaperXinran Dong,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
-Richard Elwes Christopher Cokinos,Richard Elwes Christopher Cokinos,PERSON,0.34,0.5,en,1.0
+Sam Biddle,Sam Biddle,PERSON,-0.14027777777777778,0.3319444444444445,en,1.0
 Ishwarsinh Patel,Ishwarsinh Patel,PERSON,0.0,0.0,en,1.0
 Bhupendra Patel,Bhupendra Patel,PERSON,0.0,0.0,en,1.0
-Veronica Akalapatan,Veronica Akalapatan,PERSON,0.0,0.0,en,1.0
 Jeremiah Hayden,Jeremiah Hayden,PERSON,0.18333333333333335,0.3,en,1.0
 Kyle Grillot,Kyle Grillot,PERSON,0.0,0.5694444444444444,en,1.0
-droughtheatwave eventsperiods,droughtheatwave eventsperiods,PERSON,0.11212121212121212,0.38484848484848483,en,1.0
-Kayla Christopher,Kayla Christopher,PERSON,-0.033333333333333326,0.425,en,1.0
-Teleti et al,Teleti et al,PERSON,0.0,0.225,en,1.0
-Sam Biddle,Sam Biddle,PERSON,-0.14027777777777778,0.3319444444444445,en,1.0
-Hooman Majd,Hooman Majd,PERSON,-0.14027777777777778,0.3319444444444445,en,1.0
-Nick Turse,Nick Turse,PERSON,-0.14027777777777778,0.3319444444444445,en,1.0
-Colleen Hoover‘s,Colleen Hoover‘s,PERSON,0.08,0.30000000000000004,en,1.0
 Tyriq Withers,Tyriq Withers,PERSON,0.07500000000000001,0.375,en,1.0
-Maika Monroe,Maika Monroe,PERSON,0.07500000000000001,0.375,en,1.0
-Abbas Aragh,Abbas Aragh,PERSON,-0.1875,0.5625,en,1.0
-Francesco Femia,Francesco Femia,PERSON,-0.13541666666666666,0.42500000000000004,en,1.0
-Parit Abas,Parit Abas,PERSON,0.0,0.0,en,1.0
+Lindsey Graham,Lindsey Graham,PERSON,-0.0888888888888889,0.5222222222222223,en,1.0
+PaperXinran Dong,PaperXinran Dong,PERSON,0.4666666666666666,0.7000000000000001,en,1.0
 Ishak Yunus,Ishak Yunus,PERSON,0.0,0.0,en,1.0
-Lydia DePillis,Lydia DePillis,PERSON,-0.0981060606060606,0.497979797979798,en,1.0
-Harley Vliegenthart,Harley Vliegenthart,PERSON,0.0,0.0,en,1.0
-SETH BORENSTEIN,SETH BORENSTEIN,PERSON,0.0,0.5,en,1.0
-Alysa Liu,Alysa Liu,PERSON,0.0,0.0,en,1.0
-Steven Chu,Steven Chu,PERSON,0.2875,0.37083333333333335,en,1.0
-Artefact Ar,Artefact Ar,PERSON,0.2875,0.37083333333333335,en,1.0
-Lisa Thalheimer,Lisa Thalheimer,PERSON,0.2619047619047619,0.3452380952380952,en,1.0
-orheaven forbidemerald green,orheaven forbidemerald green,PERSON,-0.12944444444444447,0.49777777777777776,en,1.0
-Ian Wellman,Ian Wellman,PERSON,-0.6,0.9,en,1.0
-Energy Tra,Energy Tra,PERSON,0.0,0.0,en,1.0
+Richard Elwes Christopher Cokinos,Richard Elwes Christopher Cokinos,PERSON,0.34,0.5,en,1.0
 Hannah Critchlow,Hannah Critchlow,PERSON,0.34,0.5,en,1.0
+Artefact Ar,Artefact Ar,PERSON,0.2875,0.37083333333333335,en,1.0
+Steven Chu,Steven Chu,PERSON,0.2875,0.37083333333333335,en,1.0
+SETH BORENSTEIN,SETH BORENSTEIN,PERSON,0.0,0.5,en,1.0
+Kayla Christopher,Kayla Christopher,PERSON,-0.033333333333333326,0.425,en,1.0
+Harley Vliegenthart,Harley Vliegenthart,PERSON,0.0,0.0,en,1.0
+Parit Abas,Parit Abas,PERSON,0.0,0.0,en,1.0
+Maika Monroe,Maika Monroe,PERSON,0.07500000000000001,0.375,en,1.0
+Neeva Sujala Sravanthi,Neeva Sujala Sravanthi,PERSON,0.15,0.175,en,1.0
+Vasna Barrage,Vasna Barrage,PERSON,0.0,0.1,en,1.0
+Rahul Dravid,Rahul Dravid,PERSON,0.016666666666666666,0.06666666666666667,en,1.0
+Lydia DePillis,Lydia DePillis,PERSON,-0.0981060606060606,0.497979797979798,en,1.0
+Apu Penneng,Apu Penneng,PERSON,0.0,0.0,en,1.0
+Francesco Femia,Francesco Femia,PERSON,-0.13541666666666666,0.42500000000000004,en,1.0
+Abbas Aragh,Abbas Aragh,PERSON,-0.1875,0.5625,en,1.0
 steven chu,steven chu,PERSON,0.3,0.3833333333333333,en,1.0
-Lynn Town,Lynn Town,PERSON,0.0,0.0,en,1.0
-Photosystem II,Photosystem II,PERSON,0.14,0.6349999999999999,en,1.0
-Werner Forster,Werner Forster,PERSON,-0.1,0.35,en,1.0
-El Ni,El Ni,PERSON,-0.125,0.375,en,1.0
-Gandhinagar Lok Sabha,Gandhinagar Lok Sabha,PERSON,0.0,0.125,en,1.0
-Veligonda Irrig,Veligonda Irrig,PERSON,0.0,0.0,en,1.0
+Jamie Dickerman,Jamie Dickerman,PERSON,0.0,0.0,en,1.0
+Angelo DeSantis,Angelo DeSantis,PERSON,0.1590909090909091,0.26363636363636367,en,1.0
+Sam May,Sam May,PERSON,0.0,0.0,en,1.0
+Harshad Chopra,Harshad Chopra,PERSON,0.06666666666666667,0.08333333333333334,en,1.0
+KAUGIC One-Hand Ear Wax Removal Irrigation Kit (Black or Dark Blue,KAUGIC One-Hand Ear Wax Removal Irrigation Kit (Black or Dark Blue,PERSON,0.020833333333333343,0.43333333333333335,en,1.0
+Man Desh,Man Desh,PERSON,-0.15833333333333333,0.4083333333333334,en,1.0
+North Koreas Naegohyang,North Koreas Naegohyang,PERSON,0.20500000000000002,0.43666666666666665,en,1.0
+Ram Kapoor,Ram Kapoor,PERSON,0.06666666666666667,0.08333333333333334,en,1.0
+Bok Kongphan,Bok Kongphan,PERSON,-0.2,0.3,en,1.0
+Tatum Paxley,Tatum Paxley,PERSON,0.1111111111111111,0.16666666666666666,en,1.0
+Riteish Deshmukh,Riteish Deshmukh,PERSON,0.06666666666666667,0.08333333333333334,en,1.0
+Harry Kane,Harry Kane,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Dennis Schoenhals,Dennis Schoenhals,PERSON,-0.2,0.1,en,1.0
+Ganesh Mahto,Ganesh Mahto,PERSON,0.0,0.0,en,1.0
+WATCHPM Modi,WATCHPM Modi,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Arun Jaitley Stadium,Arun Jaitley Stadium,PERSON,0.0,0.0,en,1.0
+Blair Miller,Blair Miller,PERSON,0.06666666666666667,0.10833333333333334,en,1.0
+Vijays Tamilaga Vettri Kazhagam,Vijays Tamilaga Vettri Kazhagam,PERSON,-0.08333333333333331,0.75,en,1.0
+John Sirlin,John Sirlin,PERSON,-0.6,1.0,en,1.0
+Nurzhan Nu,Nurzhan Nu,PERSON,0.0,0.0,en,1.0
+Uttar Pradesh,Uttar Pradesh,PERSON,0.6,0.95,en,1.0
+Nitin Nabin,Nitin Nabin,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Nitin Ronghe,Nitin Ronghe,PERSON,-0.20000000000000004,0.3,en,1.0
+DC Ajay Nath Jha,DC Ajay Nath Jha,PERSON,0.0,0.0,en,1.0
+Rythu discom,Rythu discom,PERSON,0.0625,0.5,en,1.0
+Jiao X,Jiao X,PERSON,-0.16666666666666666,0.5,en,1.0
+Eko Prasetyo,Eko Prasetyo,PERSON,0.3322222222222222,0.5622222222222222,en,1.0
 Cristiano Ronaldos,Cristiano Ronaldos,PERSON,0.25,0.5,en,1.0
 Yosemite Nationa,Yosemite Nationa,PERSON,0.20666666666666664,0.53,en,1.0
 El Capitan,El Capitan,PERSON,0.20666666666666664,0.53,en,1.0
 Bridalveil Fall,Bridalveil Fall,PERSON,0.20666666666666664,0.53,en,1.0
 Nancy Sarkis,Nancy Sarkis,PERSON,-0.04007936507936508,0.43769841269841275,en,1.0
+Veligonda Irrig,Veligonda Irrig,PERSON,0.0,0.0,en,1.0
 Chip Somodevilla,Chip Somodevilla,PERSON,0.0,0.0,en,1.0
+Gandhinagar Lok Sabha,Gandhinagar Lok Sabha,PERSON,0.0,0.125,en,1.0
+El Ni,El Ni,PERSON,-0.125,0.375,en,1.0
 El Nino eve,El Nino eve,PERSON,0.0,0.0,en,1.0
+Rachel Pizzolato,Rachel Pizzolato,PERSON,0.0,1.0,en,1.0
+Werner Forster,Werner Forster,PERSON,-0.1,0.35,en,1.0
 Richard Thomas,Richard Thomas,PERSON,0.525,0.26666666666666666,en,1.0
-Gajdoová Z,Gajdoová Z,PERSON,0.0,0.75,en,1.0
 Zamira Eshanova,Zamira Eshanova,PERSON,0.125,0.29166666666666663,en,1.0
 Vonder Haar,Vonder Haar,PERSON,0.0,0.0,en,1.0
 Poweful El Nino,Poweful El Nino,PERSON,-0.4,0.6,en,1.0
 KAUGIC One-Hand Ear Wax,KAUGIC One-Hand Ear Wax,PERSON,0.0,0.0,en,1.0
-Luciano Novia’s,Luciano Novia’s,PERSON,0.3666666666666667,0.7000000000000001,en,1.0
-Rachel Pizzolato,Rachel Pizzolato,PERSON,0.0,1.0,en,1.0
-Rythu discom,Rythu discom,PERSON,0.0625,0.5,en,1.0
-KAUGIC One-Hand Ear Wax Removal Irrigation Kit (Black or Dark Blue,KAUGIC One-Hand Ear Wax Removal Irrigation Kit (Black or Dark Blue,PERSON,0.020833333333333343,0.43333333333333335,en,1.0
-Man Desh,Man Desh,PERSON,-0.15833333333333333,0.4083333333333334,en,1.0
-North Koreas Naegohyang,North Koreas Naegohyang,PERSON,0.20500000000000002,0.43666666666666665,en,1.0
-Eko Prasetyo,Eko Prasetyo,PERSON,0.3322222222222222,0.5622222222222222,en,1.0
+Gajdoová Z,Gajdoová Z,PERSON,0.0,0.75,en,1.0
 Port Eliz,Port Eliz,PERSON,0.0,0.0,en,1.0
-Sariwon City,Sariwon City,PERSON,0.0,0.0,en,1.0
-Bronny James,Bronny James,PERSON,0.26458333333333334,0.6229166666666667,en,1.0
-Vasna Barrage,Vasna Barrage,PERSON,0.0,0.1,en,1.0
-Neeva Sujala Sravanthi,Neeva Sujala Sravanthi,PERSON,0.15,0.175,en,1.0
-Chhatrapati Shivaji Maharaj,Chhatrapati Shivaji Maharaj,PERSON,-0.0888888888888889,0.48888888888888893,en,1.0
-Burhi Gandak,Burhi Gandak,PERSON,0.25,0.3333333333333333,en,1.0
-Samrat Choudhary,Samrat Choudhary,PERSON,0.25,0.3333333333333333,en,1.0
-Telangana distr,Telangana distr,PERSON,0.0,0.0,en,1.0
-Telangana Rain Alert,Telangana Rain Alert,PERSON,0.0,0.0,en,1.0
-Tunga Dam,Tunga Dam,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-DK Shivakumar,DK Shivakumar,PERSON,0.0,0.25,en,1.0
-LeBron James,LeBron James,PERSON,0.26458333333333334,0.6229166666666667,en,1.0
-Terri Johansen,Terri Johansen,PERSON,0.0,0.1,en,1.0
-Ganesh Mahto,Ganesh Mahto,PERSON,0.0,0.0,en,1.0
-Arthur Cotton,Arthur Cotton,PERSON,0.0,0.0,en,1.0
-Godavari Delta,Godavari Delta,PERSON,0.0,0.0,en,1.0
-Nitin Ronghe,Nitin Ronghe,PERSON,-0.20000000000000004,0.3,en,1.0
-Nitin Nabin,Nitin Nabin,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-WATCHPM Modi,WATCHPM Modi,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Harry Kane,Harry Kane,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Riteish Deshmukh,Riteish Deshmukh,PERSON,0.06666666666666667,0.08333333333333334,en,1.0
-Ram Kapoor,Ram Kapoor,PERSON,0.06666666666666667,0.08333333333333334,en,1.0
-Harshad Chopra,Harshad Chopra,PERSON,0.06666666666666667,0.08333333333333334,en,1.0
-DC Ajay Nath Jha,DC Ajay Nath Jha,PERSON,0.0,0.0,en,1.0
-Bok Kongphan,Bok Kongphan,PERSON,-0.2,0.3,en,1.0
-Tatum Paxley,Tatum Paxley,PERSON,0.1111111111111111,0.16666666666666666,en,1.0
-Sam May,Sam May,PERSON,0.0,0.0,en,1.0
+Luciano Novia’s,Luciano Novia’s,PERSON,0.3666666666666667,0.7000000000000001,en,1.0
+Jiang Z,Jiang Z,PERSON,-0.16666666666666666,0.5,en,1.0
+Xu Y,Xu Y,PERSON,-0.16666666666666666,0.5,en,1.0
+Yuki Iwamura,Yuki Iwamura,PERSON,0.0,0.0,en,1.0
 Tommy Trenchard,Tommy Trenchard,PERSON,0.0,0.0,en,1.0
-Levinson delivere,Levinson delivere,PERSON,0.0,0.0,en,1.0
-Jason Patric,Jason Patric,PERSON,0.0,0.0,en,1.0
-Kevin Bacon,Kevin Bacon,PERSON,0.0,0.0,en,1.0
-Brad Pitt,Brad Pitt,PERSON,0.0,0.0,en,1.0
-Erik Buff,Erik Buff,PERSON,0.0,0.0,en,1.0
+Arthur Cotton,Arthur Cotton,PERSON,0.0,0.0,en,1.0
+Terri Johansen,Terri Johansen,PERSON,0.0,0.1,en,1.0
 Johanna Wagstaffe,Johanna Wagstaffe,PERSON,0.0,0.0,en,1.0
-Jamie Dickerman,Jamie Dickerman,PERSON,0.0,0.0,en,1.0
+Bronny James,Bronny James,PERSON,0.26458333333333334,0.6229166666666667,en,1.0
 Nike ACG,Nike ACG,PERSON,0.0,0.0,en,1.0
 Andi Amran Sulaiman,Andi Amran Sulaiman,PERSON,0.0,0.0,en,1.0
 Cedric MacLeod,Cedric MacLeod,PERSON,0.06,0.47000000000000003,en,1.0
+LeBron James,LeBron James,PERSON,0.26458333333333334,0.6229166666666667,en,1.0
+DK Shivakumar,DK Shivakumar,PERSON,0.0,0.25,en,1.0
 Julie Bourdin,Julie Bourdin,PERSON,0.0,0.0,en,1.0
-Dennis Schoenhals,Dennis Schoenhals,PERSON,-0.2,0.1,en,1.0
+Brad Pitt,Brad Pitt,PERSON,0.0,0.0,en,1.0
 Gilbert Baker,Gilbert Baker,PERSON,0.20833333333333334,0.2916666666666667,en,1.0
 Earth Syst,Earth Syst,PERSON,0.0,0.0,en,1.0
 John Hartz,John Hartz,PERSON,0.09444444444444444,0.2722222222222222,en,1.0
@@ -283,37 +295,37 @@ Narendra Shrestha,Narendra Shrestha,PERSON,-0.15,0.325,en,1.0
 Keshav Prasad Maurya,Keshav Prasad Maurya,PERSON,-0.2,0.0,en,1.0
 eds Li,eds Li,PERSON,0.0,0.0,en,1.0
 Springer Hydrogeology,Springer Hydrogeology,PERSON,0.0,0.0,en,1.0
-Angelo DeSantis,Angelo DeSantis,PERSON,0.1590909090909091,0.26363636363636367,en,1.0
-Emma DeSouza,Emma DeSouza,PERSON,0.0,0.0,en,1.0
-K Chandrashekar Rao,K Chandrashekar Rao,PERSON,0.07416666666666667,0.3466666666666667,en,1.0
-William Mulholland,William Mulholland,PERSON,0.125,0.375,en,1.0
-Charlie Kirk,Charlie Kirk,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Diana Tait,Diana Tait,PERSON,-0.025,0.125,en,1.0
-Arun Jaitley Stadium,Arun Jaitley Stadium,PERSON,0.0,0.0,en,1.0
-Blair Miller,Blair Miller,PERSON,0.06666666666666667,0.10833333333333334,en,1.0
-Vijays Tamilaga Vettri Kazhagam,Vijays Tamilaga Vettri Kazhagam,PERSON,-0.08333333333333331,0.75,en,1.0
-John Sirlin,John Sirlin,PERSON,-0.6,1.0,en,1.0
-Nurzhan Nu,Nurzhan Nu,PERSON,0.0,0.0,en,1.0
-Uttar Pradesh,Uttar Pradesh,PERSON,0.6,0.95,en,1.0
-Jiang Z,Jiang Z,PERSON,-0.16666666666666666,0.5,en,1.0
-Jiao X,Jiao X,PERSON,-0.16666666666666666,0.5,en,1.0
-Xu Y,Xu Y,PERSON,-0.16666666666666666,0.5,en,1.0
+Efsun Erkilç,Efsun Erkilç,PERSON,0.0,0.5,en,1.0
+Erik Buff,Erik Buff,PERSON,0.0,0.0,en,1.0
+Kevin Bacon,Kevin Bacon,PERSON,0.0,0.0,en,1.0
 Krist AH,Krist AH,PERSON,0.1,0.4,en,1.0
+NH Konaraddi,NH Konaraddi,PERSON,0.0,0.0,en,1.0
 Barrett B,Barrett B,PERSON,0.1,0.4,en,1.0
+Angel Garcia,Angel Garcia,PERSON,0.137,0.5780000000000001,en,1.0
 Shara N,Shara N,PERSON,0.1,0.4,en,1.0
 Merenstein D,Merenstein D,PERSON,0.1,0.4,en,1.0
 Philip Keddy,Philip Keddy,PERSON,0.10000000000000002,0.18333333333333332,en,1.0
-Theodore Keeping,Theodore Keeping,PERSON,-0.01249999999999999,0.6916666666666667,en,1.0
+David H,David H,PERSON,0.375,0.875,en,1.0
 Yogi Adityanath,Yogi Adityanath,PERSON,0.35714285714285715,0.5714285714285714,en,1.0
 Sarah Keith-Lucas,Sarah Keith-Lucas,PERSON,0.0,0.4,en,1.0
 Jim Sin,Jim Sin,PERSON,0.0,0.5625,en,1.0
 Jonathan Gómez Punzón,Jonathan Gómez Punzón,PERSON,0.0,0.25,en,1.0
+Jason Patric,Jason Patric,PERSON,0.0,0.0,en,1.0
 Chris Miller,Chris Miller,PERSON,0.0,0.25,en,1.0
 Darin Graham,Darin Graham,PERSON,0.0,0.25,en,1.0
-Alysa Liu’s,Alysa Liu’s,PERSON,0.0,0.0,en,1.0
+Diana Tait,Diana Tait,PERSON,-0.025,0.125,en,1.0
+Charlie Kirk,Charlie Kirk,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+William Mulholland,William Mulholland,PERSON,0.125,0.375,en,1.0
+Lynn Town,Lynn Town,PERSON,0.0,0.0,en,1.0
+Godavari Delta,Godavari Delta,PERSON,0.0,0.0,en,1.0
+K Chandrashekar Rao,K Chandrashekar Rao,PERSON,0.07416666666666667,0.3466666666666667,en,1.0
+Levinson delivere,Levinson delivere,PERSON,0.0,0.0,en,1.0
+Theodore Keeping,Theodore Keeping,PERSON,-0.01249999999999999,0.6916666666666667,en,1.0
 Lee esta historia en español,Lee esta historia en español,PERSON,0.0,0.0,en,1.0
-Tanay Wadodkar,Tanay Wadodkar,PERSON,0.0,0.0,en,1.0
-Parrinello G,Parrinello G,PERSON,-0.1,0.325,en,1.0
+Ra Mancombu,Ra Mancombu,PERSON,0.13333333333333336,0.9666666666666667,en,1.0
+David Snowball Welcome,David Snowball Welcome,PERSON,0.8,0.9,en,1.0
+Sandeep Kumar,Sandeep Kumar,PERSON,0.0,0.4,en,1.0
+OnePlus 15,OnePlus 15,PERSON,0.0,0.0,en,1.0
 Barbara Brown,Barbara Brown,PERSON,0.0,0.3166666666666667,en,1.0
 Ben Greenfield,Ben Greenfield,PERSON,0.30186480186480186,0.4053613053613054,en,1.0
 chaara boldiya,chaara boldiya,PERSON,0.25,0.3333333333333333,en,1.0
@@ -325,8 +337,8 @@ Zubeen Garg,Zubeen Garg,PERSON,-0.12000000000000002,0.36,en,1.0
 Van Gogh,Van Gogh,PERSON,0.17857142857142858,0.3964285714285714,en,1.0
 Stewart Resnick,Stewart Resnick,PERSON,0.0,0.0,en,1.0
 Wohl E,Wohl E,PERSON,-0.1,0.325,en,1.0
+Parrinello G,Parrinello G,PERSON,-0.1,0.325,en,1.0
 Marri Knadle,Marri Knadle,PERSON,0.07454545454545454,0.4318181818181818,en,1.0
-Sandeep Kumar,Sandeep Kumar,PERSON,0.0,0.4,en,1.0
 Karla Zimonja,Karla Zimonja,PERSON,0.07454545454545454,0.4318181818181818,en,1.0
 Mike Kostersitz,Mike Kostersitz,PERSON,0.5,1.0,en,1.0
 Markus Schmidt,Markus Schmidt,PERSON,0.0,0.0,en,1.0
@@ -337,11 +349,13 @@ James Marcus,James Marcus,PERSON,0.5,0.6,en,1.0
 Giovana Girardi,Giovana Girardi,PERSON,0.125,0.7666666666666666,en,1.0
 M Ravichandran,M Ravichandran,PERSON,0.05844155844155844,0.34520202020202023,en,1.0
 Mazar-e Sharif city,Mazar-e Sharif city,PERSON,0.0,0.0,en,1.0
-Genia Ikhfa Anindita,Genia Ikhfa Anindita,PERSON,0.0,0.0,en,1.0
-OnePlus 15,OnePlus 15,PERSON,0.0,0.0,en,1.0
 Sandeep Mishra,Sandeep Mishra,PERSON,0.0,0.4,en,1.0
-Paul Marik,Paul Marik,PERSON,-0.6,0.9,en,1.0
-Amazon Lakes,Amazon Lakes,PERSON,0.25,0.8500000000000001,en,1.0
+Margaret Reid,Margaret Reid,PERSON,0.06527777777777777,0.46805555555555556,en,1.0
+Biomimetic Janus,Biomimetic Janus,PERSON,0.0,0.0,en,1.0
+ISABEL DEBRE,ISABEL DEBRE,PERSON,0.0,0.0,en,1.0
+hooded cra,hooded cra,PERSON,0.0,0.0,en,1.0
+Lee C-D,Lee C-D,PERSON,0.0,0.0,en,1.0
+Lee G,Lee G,PERSON,0.0,0.0,en,1.0
 Choi J,Choi J,PERSON,0.0,0.0,en,1.0
 Kim K,Kim K,PERSON,0.0,0.0,en,1.0
 Jeon S,Jeon S,PERSON,0.0,0.0,en,1.0
@@ -353,8 +367,8 @@ Xiao Y,Xiao Y,PERSON,0.0,0.0,en,1.0
 +24284 chars,+24284 chars,PERSON,0.0,0.0,en,1.0
 Rupert Resources,Rupert Resources,PERSON,0.0,0.0,en,1.0
 Yannis Stournaras,Yannis Stournaras,PERSON,0.09318181818181817,0.25227272727272726,en,1.0
+Amazon Lakes,Amazon Lakes,PERSON,0.25,0.8500000000000001,en,1.0
 John Salazar,John Salazar,PERSON,0.0,0.0,en,1.0
-David Snowball Welcome,David Snowball Welcome,PERSON,0.8,0.9,en,1.0
 Edmund Fitzgerald,Edmund Fitzgerald,PERSON,0.0,0.0,en,1.0
 Eric Schmitt,Eric Schmitt,PERSON,0.0,0.0,en,1.0
 Pete Hegseth,Pete Hegseth,PERSON,0.06666666666666665,0.19999999999999998,en,1.0
@@ -364,12 +378,11 @@ Kaveh Madani,Kaveh Madani,PERSON,0.0,0.0,en,1.0
 Blue Origin,Blue Origin,PERSON,0.06818181818181818,0.2772727272727273,en,1.0
 New Glenn,New Glenn,PERSON,0.06818181818181818,0.2772727272727273,en,1.0
 Ruth CleggHealth,Ruth CleggHealth,PERSON,0.0625,0.5,en,1.0
-ISABEL DEBRE,ISABEL DEBRE,PERSON,0.0,0.0,en,1.0
-Margaret Reid,Margaret Reid,PERSON,0.06527777777777777,0.46805555555555556,en,1.0
+Genia Ikhfa Anindita,Genia Ikhfa Anindita,PERSON,0.0,0.0,en,1.0
 Guy Tenenbaum,Guy Tenenbaum,PERSON,-0.6,0.9,en,1.0
+Paul Marik,Paul Marik,PERSON,-0.6,0.9,en,1.0
 Massimo Tosoni,Massimo Tosoni,PERSON,-0.2,0.37500000000000006,en,1.0
-Reweaving Memory,Reweaving Memory,PERSON,0.0,0.0,en,1.0
-Umm Ali,Umm Ali,PERSON,0.0,0.1,en,1.0
+Dr sahib,Dr sahib,PERSON,0.0,0.0,en,1.0
 FORT COLLINS,FORT COLLINS,PERSON,0.0,0.0,en,1.0
 CHRIS RUGABER,CHRIS RUGABER,PERSON,0.0,0.6,en,1.0
 Mohammed Shia al-Sudani,Mohammed Shia al-Sudani,PERSON,0.0,0.0,en,1.0
@@ -381,8 +394,8 @@ Nick Schutt,Nick Schutt,PERSON,0.03333333333333333,0.35000000000000003,en,1.0
 David Lin’s,David Lin’s,PERSON,0.25,0.25,en,1.0
 Juan Cole,Juan Cole,PERSON,0.0,0.0625,en,1.0
 City St George’s,City St George’s,PERSON,0.0,0.0625,en,1.0
+Umm Ali,Umm Ali,PERSON,0.0,0.1,en,1.0
 Dave GauerCreated,Dave GauerCreated,PERSON,0.0,0.0,en,1.0
-Dana Goodyear,Dana Goodyear,PERSON,0.0,0.0,en,1.0
 Mika Zibanejad,Mika Zibanejad,PERSON,0.22878787878787876,0.295959595959596,en,1.0
 Bobby Laramore,Bobby Laramore,PERSON,0.0,0.25,en,1.0
 Greta Thunberg,Greta Thunberg,PERSON,0.0,0.0,en,1.0
@@ -394,10 +407,11 @@ Walt Disney,Walt Disney,PERSON,-0.05,0.4,en,1.0
 Alex BillingtonOctober,Alex BillingtonOctober,PERSON,0.0,0.0,en,1.0
 Frank Herberts Dune,Frank Herberts Dune,PERSON,0.0,0.0,en,1.0
 Tammy Johnstone,Tammy Johnstone,PERSON,0.0,0.0,en,1.0
-Dr sahib,Dr sahib,PERSON,0.0,0.0,en,1.0
+Dana Goodyear,Dana Goodyear,PERSON,0.0,0.0,en,1.0
 Dana Goodyears,Dana Goodyears,PERSON,0.0,0.5,en,1.0
+Alex Wakeman,Alex Wakeman,PERSON,0.0,0.0,en,1.0
+Cerrado Mineiro,Cerrado Mineiro,PERSON,0.0,0.0,en,1.0
 Raymundo Martínez Jiménez,Raymundo Martínez Jiménez,PERSON,-0.2,0.4,en,1.0
-Jurassic World Evolution 3,Jurassic World Evolution 3,PERSON,0.3,0.35,en,1.0
 Brendon Larson,Brendon Larson,PERSON,-0.2,0.4,en,1.0
 silver berry,silver berry,PERSON,-0.13333333333333333,0.24666666666666667,en,1.0
 Andrew Bracken,Andrew Bracken,PERSON,0.0,0.0,en,1.0
@@ -408,9 +422,9 @@ Li Y,Li Y,PERSON,0.0,0.0,en,1.0
 Lv J,Lv J,PERSON,0.0,0.0,en,1.0
 Peng J,Peng J,PERSON,0.0,0.0,en,1.0
 Jia X,Jia X,PERSON,0.0,0.0,en,1.0
-Cerrado Mineiro,Cerrado Mineiro,PERSON,0.0,0.0,en,1.0
+Jurassic World Evolution 3,Jurassic World Evolution 3,PERSON,0.3,0.35,en,1.0
+Tamires Dias,Tamires Dias,PERSON,0.0,0.0,en,1.0
 Akshay Lakra,Akshay Lakra,PERSON,-0.3,0.2,en,1.0
-Alex Wakeman,Alex Wakeman,PERSON,0.0,0.0,en,1.0
 chori hui hai,chori hui hai,PERSON,-0.3,0.2,en,1.0
 ‘Baarish Dilli se,‘Baarish Dilli se,PERSON,-0.3,0.2,en,1.0
 Washington Cou,Washington Cou,PERSON,0.0,0.0,en,1.0
@@ -421,11 +435,16 @@ Guilloteau et al,Guilloteau et al,PERSON,0.15,0.55,en,1.0
 Hydroclimate Reanalysis,Hydroclimate Reanalysis,PERSON,0.15,0.55,en,1.0
 Chapman Universitys,Chapman Universitys,PERSON,0.0,1.0,en,1.0
 Pete Wobeter,Pete Wobeter,PERSON,0.0,0.5,en,1.0
-Tamires Dias,Tamires Dias,PERSON,0.0,0.0,en,1.0
-Lee G,Lee G,PERSON,0.0,0.0,en,1.0
-Lee C-D,Lee C-D,PERSON,0.0,0.0,en,1.0
-hooded cra,hooded cra,PERSON,0.0,0.0,en,1.0
-Mohammed Amar,Mohammed Amar,PERSON,0.0,0.0,en,1.0
+Elizabeth Farah,Elizabeth Farah,PERSON,0.06666666666666668,0.17333333333333334,en,1.0
+Samuel SI,Samuel SI,PERSON,0.0,0.6,en,1.0
+Thomas He,Thomas He,PERSON,0.0,0.0,en,1.0
+Solomon Oture,Solomon Oture,PERSON,0.0,0.0,en,1.0
+Andrea Hanks,Andrea Hanks,PERSON,0.0,0.0,en,1.0
+Cyclone Koji,Cyclone Koji,PERSON,0.43333333333333335,0.45,en,1.0
+Haru Mutasa,Haru Mutasa,PERSON,0.06666666666666667,0.26666666666666666,en,1.0
+Al Jazeera,Al Jazeera,PERSON,0.06666666666666667,0.26666666666666666,en,1.0
+Designey Concrete Pavers,Designey Concrete Pavers,PERSON,0.15000000000000002,0.30000000000000004,en,1.0
+Blue Origi,Blue Origi,PERSON,0.0,0.1,en,1.0
 Cloud Atlas,Cloud Atlas,PERSON,-0.375,0.6666666666666666,en,1.0
 John Carter,John Carter,PERSON,-0.375,0.6666666666666666,en,1.0
 Andrew Stanton’s,Andrew Stanton’s,PERSON,-0.375,0.6666666666666666,en,1.0
@@ -437,23 +456,25 @@ Ira Parker,Ira Parker,PERSON,0.0,0.1,en,1.0
 Gallagher Re,Gallagher Re,PERSON,0.0,0.75,en,1.0
 Dendrosicyos socotranus,Dendrosicyos socotranus,PERSON,-0.125,0.375,en,1.0
 Dracaena cinnabari,Dracaena cinnabari,PERSON,0.0,0.06666666666666667,en,1.0
+Mohammed Amar,Mohammed Amar,PERSON,0.0,0.0,en,1.0
 Anu Koiv,Anu Koiv,PERSON,-0.05,0.15,en,1.0
-Solomon Oture,Solomon Oture,PERSON,0.0,0.0,en,1.0
 Oscars 2,Oscars 2,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
 Ishaan Khatter,Ishaan Khatter,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
 woody biomass,woody biomass,PERSON,0.0666666666666667,0.44166666666666665,en,1.0
 Sunny Leone,Sunny Leone,PERSON,0.016666666666666666,0.5333333333333333,en,1.0
 Karan Kundrra,Karan Kundrra,PERSON,0.016666666666666666,0.5333333333333333,en,1.0
 Pani Panchayats,Pani Panchayats,PERSON,0.016666666666666666,0.5333333333333333,en,1.0
-MZ Wiztown,MZ Wiztown,PERSON,0.08333333333333333,0.16666666666666666,en,1.0
-Deir Az Zor,Deir Az Zor,PERSON,0.0625,0.3125,en,1.0
-Ashwini Vaishnaw,Ashwini Vaishnaw,PERSON,0.17393939393939392,0.5842424242424242,en,1.0
-ControversyWest Bengal,ControversyWest Bengal,PERSON,0.17393939393939392,0.5842424242424242,en,1.0
-Hazaribag Elephant,Hazaribag Elephant,PERSON,-0.9,1.0,en,1.0
-Blue Origi,Blue Origi,PERSON,0.0,0.1,en,1.0
-Designey Concrete Pavers,Designey Concrete Pavers,PERSON,0.15000000000000002,0.30000000000000004,en,1.0
-Elizabeth Farah,Elizabeth Farah,PERSON,0.06666666666666668,0.17333333333333334,en,1.0
-Patagonia Burns,Patagonia Burns,PERSON,0.5,0.5,en,1.0
+Azospirillum brasilense,Azospirillum brasilense,PERSON,0.0,0.0,en,1.0
+Mark Serreze,Mark Serreze,PERSON,0.0,0.0,en,1.0
+Faloye OT,Faloye OT,PERSON,0.0,0.6,en,1.0
+Ricky Rogers,Ricky Rogers,PERSON,0.0,0.0,en,1.0
+Thomas Henry Huxley,Thomas Henry Huxley,PERSON,-0.75,1.0,en,1.0
+Sarah Simmons,Sarah Simmons,PERSON,0.0,0.0,en,1.0
+Bihar Regiment,Bihar Regiment,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Carson Hocevar,Carson Hocevar,PERSON,0.8,0.4,en,1.0
+Alysa Liu’s,Alysa Liu’s,PERSON,0.0,0.0,en,1.0
+Tanay Wadodkar,Tanay Wadodkar,PERSON,0.0,0.0,en,1.0
+Reweaving Memory,Reweaving Memory,PERSON,0.0,0.0,en,1.0
 Matt Taylor,Matt Taylor,PERSON,0.06666666666666667,0.6,en,1.0
 Timothée Chalamet Kiss,Timothée Chalamet Kiss,PERSON,0.2,0.6,en,1.0
 Shahpurkandi Dam,Shahpurkandi Dam,PERSON,0.0,0.0,en,1.0
@@ -465,23 +486,21 @@ Kyle Elli,Kyle Elli,PERSON,0.25,0.6,en,1.0
 Weather Informati,Weather Informati,PERSON,0.25,0.6,en,1.0
 Kyle Elliott,Kyle Elliott,PERSON,0.25,0.6,en,1.0
 Fliuch báite,Fliuch báite,PERSON,0.09583333333333333,0.425,en,1.0
+Patagonia Burns,Patagonia Burns,PERSON,0.5,0.5,en,1.0
 Nancy Guthrie CaseAkhil,Nancy Guthrie CaseAkhil,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
-Al Jazeera,Al Jazeera,PERSON,0.06666666666666667,0.26666666666666666,en,1.0
 Pawan Sinha,Pawan Sinha,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
 Perak exco,Perak exco,PERSON,0.0,0.6000000000000001,en,1.0
 Haoyu Wang,Haoyu Wang,PERSON,0.0,0.0,en,1.0
 Jym Wilson,Jym Wilson,PERSON,0.0,0.0,en,1.0
 Robert Deutsch-Imagn Images,Robert Deutsch-Imagn Images,PERSON,0.0,0.0,en,1.0
-Ricky Rogers,Ricky Rogers,PERSON,0.0,0.0,en,1.0
-Mark Serreze,Mark Serreze,PERSON,0.0,0.0,en,1.0
-Azospirillum brasilense,Azospirillum brasilense,PERSON,0.0,0.0,en,1.0
-Andrea Hanks,Andrea Hanks,PERSON,0.0,0.0,en,1.0
-Cyclone Koji,Cyclone Koji,PERSON,0.43333333333333335,0.45,en,1.0
-Haru Mutasa,Haru Mutasa,PERSON,0.06666666666666667,0.26666666666666666,en,1.0
-Mushroom Poisoning,Mushroom Poisoning,PERSON,0.0,0.0,en,1.0
-Megan Seling,Megan Seling,PERSON,0.14285714285714285,0.29285714285714287,en,1.0
-Bob Ferguson,Bob Ferguson,PERSON,0.0,0.0,en,1.0
-Golden Pig Upgrade,Golden Pig Upgrade,PERSON,0.44999999999999996,0.75,en,1.0
+MZ Wiztown,MZ Wiztown,PERSON,0.08333333333333333,0.16666666666666666,en,1.0
+Deir Az Zor,Deir Az Zor,PERSON,0.0625,0.3125,en,1.0
+Ashwini Vaishnaw,Ashwini Vaishnaw,PERSON,0.17393939393939392,0.5842424242424242,en,1.0
+ControversyWest Bengal,ControversyWest Bengal,PERSON,0.17393939393939392,0.5842424242424242,en,1.0
+Kevin Henderson,Kevin Henderson,PERSON,-0.04999999999999999,0.8125,en,1.0
+Thierry Monasse,Thierry Monasse,PERSON,0.09285714285714285,0.31785714285714284,en,1.0
+Annona squamosa,Annona squamosa,PERSON,-0.25,1.0,en,1.0
+Yiannis Boutaris,Yiannis Boutaris,PERSON,0.14285714285714285,0.26785714285714285,en,1.0
 Viticulturist Stratos Guillame Xyrafis,Viticulturist Stratos Guillame Xyrafis,PERSON,0.14285714285714285,0.26785714285714285,en,1.0
 Leighton Sterling,Leighton Sterling,PERSON,0.0,0.0,en,1.0
 Hend Salam,Hend Salam,PERSON,0.0,0.0,en,1.0
@@ -493,8 +512,8 @@ Fatemeh Bahrami,Fatemeh Bahrami,PERSON,0.0,0.0,en,1.0
 Ankers Soundcore Sleep A20s,Ankers Soundcore Sleep A20s,PERSON,0.8,0.75,en,1.0
 Brown grass,Brown grass,PERSON,0.0,0.0,en,1.0
 Cyclone Ditwah,Cyclone Ditwah,PERSON,0.039999999999999994,0.39,en,1.0
+Golden Pig Upgrade,Golden Pig Upgrade,PERSON,0.44999999999999996,0.75,en,1.0
 Simon King,Simon King,PERSON,0.13333333333333333,0.4666666666666666,en,1.0
-Kumar Reddy,Kumar Reddy,PERSON,0.4166666666666667,0.5,en,1.0
 Vibhu Mishra26,Vibhu Mishra26,PERSON,-0.25,0.65,en,1.0
 Bowen BP,Bowen BP,PERSON,0.0,0.125,en,1.0
 Louie K,Louie K,PERSON,0.0,0.125,en,1.0
@@ -503,21 +522,23 @@ Caddell D,Caddell D,PERSON,0.0,0.125,en,1.0
 Fonseca-Garcia C,Fonseca-Garcia C,PERSON,0.0,0.125,en,1.0
 Jim Doherty,Jim Doherty,PERSON,0.0,0.5625,en,1.0
 Da Fons,Da Fons,PERSON,0.0,0.0,en,1.0
-Faloye OT,Faloye OT,PERSON,0.0,0.6,en,1.0
-Samuel SI,Samuel SI,PERSON,0.0,0.6,en,1.0
-Biomimetic Janus,Biomimetic Janus,PERSON,0.0,0.0,en,1.0
-Yiannis Boutaris,Yiannis Boutaris,PERSON,0.14285714285714285,0.26785714285714285,en,1.0
-Annona squamosa,Annona squamosa,PERSON,-0.25,1.0,en,1.0
-Thierry Monasse,Thierry Monasse,PERSON,0.09285714285714285,0.31785714285714284,en,1.0
-Kevin Henderson,Kevin Henderson,PERSON,-0.04999999999999999,0.8125,en,1.0
+Mpox Variant Discovered,Mpox Variant Discovered,PERSON,0.0,0.0,en,1.0
+Xi Jinping,Xi Jinping,PERSON,0.0,0.0,en,1.0
+Sarah Meyssonnier,Sarah Meyssonnier,PERSON,0.0,0.0,en,1.0
+Telangana CM Reddy,Telangana CM Reddy,PERSON,0.0,0.0,en,1.0
+Hazaribag Elephant,Hazaribag Elephant,PERSON,-0.9,1.0,en,1.0
+Mushroom Poisoning,Mushroom Poisoning,PERSON,0.0,0.0,en,1.0
+Megan Seling,Megan Seling,PERSON,0.14285714285714285,0.29285714285714287,en,1.0
+Bob Ferguson,Bob Ferguson,PERSON,0.0,0.0,en,1.0
+Kumar Reddy,Kumar Reddy,PERSON,0.4166666666666667,0.5,en,1.0
 N Uttam,N Uttam,PERSON,0.4166666666666667,0.5,en,1.0
 Pratyaya Amrit,Pratyaya Amrit,PERSON,0.05,0.55,en,1.0
 Sue Henry,Sue Henry,PERSON,-0.07333333333333333,0.24,en,1.0
 Eric Thayer,Eric Thayer,PERSON,0.1,0.1,en,1.0
 CM Revanth Reddy,CM Revanth Reddy,PERSON,0.16666666666666669,0.3333333333333333,en,1.0
 Revanth Reddy,Revanth Reddy,PERSON,0.05555555555555553,0.3333333333333333,en,1.0
-Telangana CM Reddy,Telangana CM Reddy,PERSON,0.0,0.0,en,1.0
 Kerli Liivand,Kerli Liivand,PERSON,0.28,0.58,en,1.0
+nan Citation,nan Citation,PERSON,0.35,0.30000000000000004,en,1.0
 Martin Jantson,Martin Jantson,PERSON,0.28,0.58,en,1.0
 Benjamin Ta,Benjamin Ta,PERSON,0.0,0.0,en,1.0
 Keith Schengili-Roberts,Keith Schengili-Roberts,PERSON,0.0,0.0,en,1.0
@@ -529,8 +550,4 @@ Michael Abatti,Michael Abatti,PERSON,0.3,1.0,en,1.0
 Dawson Creek,Dawson Creek,PERSON,0.0,0.0,en,1.0
 Mike Mason,Mike Mason,PERSON,0.0,0.0,en,1.0
 Lefore N,Lefore N,PERSON,0.35,0.30000000000000004,en,1.0
-nan Citation,nan Citation,PERSON,0.35,0.30000000000000004,en,1.0
-Sarah Meyssonnier,Sarah Meyssonnier,PERSON,0.0,0.0,en,1.0
-Xi Jinping,Xi Jinping,PERSON,0.0,0.0,en,1.0
-Mpox Variant Discovered,Mpox Variant Discovered,PERSON,0.0,0.0,en,1.0
-Rahul Dravid,Rahul Dravid,PERSON,0.016666666666666666,0.06666666666666667,en,1.0
+GLEN ALLEN,GLEN ALLEN,PERSON,-0.09523809523809523,0.5142857142857143,en,1.0

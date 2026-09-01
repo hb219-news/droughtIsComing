@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'drought weather',en,Hazard,#ff0000,#ff0000,3,0.0692356364625812
 'rain making',en,Mitigation,#00ff00,#00ff00,3,0.0605597304903867
 'cloud seeding',en,Mitigation,#00ff00,#00ff00,3,0.0515172803844379
-'water management',en,Adaptation,#0000ff,#0000ff,3,0.04342553720907092
+'water management',en,Adaptation,#0000ff,#0000ff,3,0.0434255372090709
 'drought World Weather Attribution',en,Causes,#00ffff,#00ffff,2,0.0329734218079675
-'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.0291288906284891
+'drought prayer',en,Mitigation,#00ff00,#00ff00,1,0.025959707034215733

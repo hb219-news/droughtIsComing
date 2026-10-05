@@ -43,8 +43,8 @@ dozens,dozens,CARDINAL,,,en,7.8999999999999995
 countrys,countrys,NORP,,,en,7.800000000000001
 American,American,NORP,,,en,7.599999999999999
 millions,millions,CARDINAL,,,en,7.499999999999997
-June-July,June-July,DATE,,,en,7.3999999999999995
 Chinese,Chinese,NORP,,,en,7.3999999999999995
+June-July,June-July,DATE,,,en,7.3999999999999995
 Three,Three,CARDINAL,,,en,7.2
 2027,2027,DATE,,,en,7.1000000000000005
 days,days,DATE,,,en,7.1
@@ -57,8 +57,8 @@ annually,annually,DATE,,,en,6.7
 European,European,NORP,,,en,6.699999999999999
 25,25,CARDINAL,,,en,6.6000000000000005
 April,April,DATE,,,en,6.599999999999998
-2023,2023,DATE,,,en,6.5
 12,12,CARDINAL,,,en,6.5
+2023,2023,DATE,,,en,6.5
 French,French,NORP,,,en,6.4
 this winter,this winter,DATE,,,en,6.299999999999999
 months,months,DATE,,,en,6.2
@@ -319,8 +319,8 @@ the early fourteenth century,the early fourteenth century,DATE,,,en,1.9
 $8.9 billion,$8.9 billion,MONEY,,,en,1.9
 "40,000 hectares","40,000 hectares",QUANTITY,,,en,1.9
 every 12 days,every 12 days,DATE,,,en,1.9
-469.99,469.99,MONEY,,,en,1.9
 161,161,CARDINAL,,,en,1.9
+469.99,469.99,MONEY,,,en,1.9
 Kolab river,Kolab river,FAC,,,en,1.9
 39.99,39.99,MONEY,,,en,1.9
 up to 60 percent,up to 60 percent,PERCENT,,,en,1.9
@@ -607,7 +607,7 @@ three years,three years,DATE,,,en,1.3
 over 2 million,over 2 million,CARDINAL,,,en,1.3
 250th,250th,ORDINAL,,,en,1.3
 At least 37,At least 37,CARDINAL,,,en,1.3
-ten,ten,CARDINAL,,,en,1.3
+zero,zero,CARDINAL,,,en,1.3
 49 billion,49 billion,CARDINAL,,,en,1.3
 20 years,20 years,DATE,,,en,1.3
 these first few months of the year,these first few months of the year,DATE,,,en,1.3
@@ -615,7 +615,7 @@ these first few months of the year,these first few months of the year,DATE,,,en,
 as much as 399 billion gallons,as much as 399 billion gallons,MONEY,,,en,1.3
 10 December 2025,10 December 2025,DATE,,,en,1.3
 Fourth of July,Fourth of July,DATE,,,en,1.3
-zero,zero,CARDINAL,,,en,1.3
+ten,ten,CARDINAL,,,en,1.3
 IPCC,IPCC,PRODUCT,,,en,1.3
 Ten years ago,Ten years ago,DATE,,,en,1.3
 Byzantium,Byzantium,NORP,,,en,1.3
@@ -640,7 +640,7 @@ the early hours,the early hours,TIME,,,en,1.3
 68th,68th,ORDINAL,,,en,1.3
 month-long,month-long,DATE,,,en,1.3
 Mesopotamians,Mesopotamians,NORP,,,en,1.3
-1.2 billion,1.2 billion,CARDINAL,,,en,1.3
+$434 million,$434 million,MONEY,,,en,1.3
 the next few weeks,the next few weeks,DATE,,,en,1.3
 More than one,More than one,CARDINAL,,,en,1.3
 earlier this month,earlier this month,DATE,,,en,1.3
@@ -667,8 +667,8 @@ a dozen,a dozen,CARDINAL,,,en,1.3
 Cornish,Cornish,NORP,,,en,1.3
 A Knight of the Seven Kingdoms,A Knight of the Seven Kingdoms,WORK_OF_ART,,,en,1.3
 "Saturday, July 18","Saturday, July 18",DATE,,,en,1.3
-$434 million,$434 million,MONEY,,,en,1.3
 Jan 29,Jan 29,DATE,,,en,1.3
+1.2 billion,1.2 billion,CARDINAL,,,en,1.3
 late January,late January,DATE,,,en,1.3
 early winter,early winter,DATE,,,en,1.3
 summers,summers,DATE,,,en,1.3
@@ -1141,9 +1141,9 @@ between ten and,between ten and,TIME,,,en,1.0
 a more than 20 percent,a more than 20 percent,PERCENT,,,en,1.0
 twenty percent,twenty percent,PERCENT,,,en,1.0
 some 92 million,some 92 million,CARDINAL,,,en,1.0
-384388,384388,CARDINAL,,,en,1.0
-"140,000 acres","140,000 acres",QUANTITY,,,en,1.0
 11201129,11201129,DATE,,,en,1.0
+"140,000 acres","140,000 acres",QUANTITY,,,en,1.0
+384388,384388,CARDINAL,,,en,1.0
 up to 33%,up to 33%,PERCENT,,,en,1.0
 Up to 33%,Up to 33%,PERCENT,,,en,1.0
 "nearly 50,000","nearly 50,000",CARDINAL,,,en,1.0
@@ -1157,7 +1157,7 @@ just 1 per cent,just 1 per cent,MONEY,,,en,1.0
 driest July,driest July,DATE,,,en,1.0
 ​driest month,​driest month,DATE,,,en,1.0
 Since 1980s,Since 1980s,DATE,,,en,1.0
-M4,M4,CARDINAL,,,en,1.0
+Enviropreneur,Enviropreneur,WORK_OF_ART,,,en,1.0
 many weeks,many weeks,DATE,,,en,1.0
 nearly 49 million,nearly 49 million,CARDINAL,,,en,1.0
 the Main Ravi Canal,the Main Ravi Canal,FAC,,,en,1.0
@@ -1174,7 +1174,7 @@ $1.04 billion,$1.04 billion,MONEY,,,en,1.0
 Croatian,Croatian,NORP,,,en,1.0
 winter 2026-27,winter 2026-27,DATE,,,en,1.0
 1950,1950,DATE,,,en,1.0
-Enviropreneur,Enviropreneur,WORK_OF_ART,,,en,1.0
+the Enviropreneur Fellowsh,the Enviropreneur Fellowsh,PRODUCT,,,en,1.0
 mid-March,mid-March,DATE,,,en,1.0
 Cursor CLI Flaw + 17,Cursor CLI Flaw + 17,PRODUCT,,,en,1.0
 FY31,FY31,PRODUCT,,,en,1.0
@@ -1187,7 +1187,7 @@ Essex Mansion,Essex Mansion,FAC,,,en,1.0
 Durban Meeting,Durban Meeting,EVENT,,,en,1.0
 Southern African,Southern African,NORP,,,en,1.0
 More than two decades,More than two decades,DATE,,,en,1.0
-the Enviropreneur Fellowsh,the Enviropreneur Fellowsh,PRODUCT,,,en,1.0
+M4,M4,CARDINAL,,,en,1.0
 "Close to 50,000","Close to 50,000",CARDINAL,,,en,1.0
 Worst Drought and Heatwave Ever,Worst Drought and Heatwave Ever,WORK_OF_ART,,,en,1.0
 71.3%,71.3%,PERCENT,,,en,1.0
@@ -1641,9 +1641,9 @@ Lake Mead's,Lake Mead's,FAC,,,en,1.0
 1982,1982,DATE,,,en,1.0
 "the Three and Nine Months Ending September 30, 2025","the Three and Nine Months Ending September 30, 2025",DATE,,,en,1.0
 +10974,+10974,CARDINAL,,,en,1.0
+32,32,CARDINAL,,,en,1.0
 2025  ,2025  ,QUANTITY,,,en,1.0
 Nov.  12,Nov.  12,DATE,,,en,1.0
-32,32,CARDINAL,,,en,1.0
 11/12/2025 5:10,11/12/2025 5:10,TIME,,,en,1.0
 Month - November 2025,Month - November 2025,DATE,,,en,1.0
 Month - November 2025 | Eyesore,Month - November 2025 | Eyesore,DATE,,,en,1.0
@@ -2291,9 +2291,9 @@ Yesterday,Yesterday,DATE,,,en,1.0
 nearly USD 6 billion,nearly USD 6 billion,MONEY,,,en,1.0
 10-15 year,10-15 year,DATE,,,en,1.0
 +2396 chars,+2396 chars,WORK_OF_ART,,,en,1.0
+more than two billion,more than two billion,CARDINAL,,,en,1.0
+About 40%,About 40%,PERCENT,,,en,1.0
 Great Green Wall,Great Green Wall,FAC,,,en,1.0
-Fu,Fu,PRODUCT,,,en,1.0
-730745,730745,DATE,,,en,1.0
 +6917 chars,+6917 chars,WORK_OF_ART,,,en,1.0
 "… April 14, 2026","… April 14, 2026",DATE,,,en,1.0
 245 billion,245 billion,MONEY,,,en,1.0
@@ -2305,7 +2305,7 @@ Up to 52%,Up to 52%,PERCENT,,,en,1.0
 10 years,10 years,DATE,,,en,1.0
 Drought,Drought,WORK_OF_ART,,,en,1.0
 5:59,5:59,TIME,,,en,1.0
-more than two billion,more than two billion,CARDINAL,,,en,1.0
+Fu,Fu,PRODUCT,,,en,1.0
 +6134,+6134,NORP,,,en,1.0
 The Meaning of It All: Thoughts of a Citizen-Scientist,The Meaning of It All: Thoughts of a Citizen-Scientist,WORK_OF_ART,,,en,1.0
 686,686,MONEY,,,en,1.0
@@ -2319,7 +2319,7 @@ the past couple of days,the past couple of days,DATE,,,en,1.0
 Extreme Weather Events Edition,Extreme Weather Events Edition,WORK_OF_ART,,,en,1.0
 What Is The Proof,What Is The Proof,WORK_OF_ART,,,en,1.0
 180460,180460,DATE,,,en,1.0
-About 40%,About 40%,PERCENT,,,en,1.0
+730745,730745,DATE,,,en,1.0
 Hurricane Helene,Hurricane Helene,EVENT,,,en,1.0
 almost half,almost half,CARDINAL,,,en,1.0
 a month of winter,a month of winter,DATE,,,en,1.0

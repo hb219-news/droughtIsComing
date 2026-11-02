@@ -43,8 +43,8 @@ dozens,dozens,CARDINAL,,,en,7.8999999999999995
 countrys,countrys,NORP,,,en,7.800000000000001
 American,American,NORP,,,en,7.599999999999999
 millions,millions,CARDINAL,,,en,7.499999999999997
-Chinese,Chinese,NORP,,,en,7.3999999999999995
 June-July,June-July,DATE,,,en,7.3999999999999995
+Chinese,Chinese,NORP,,,en,7.3999999999999995
 Three,Three,CARDINAL,,,en,7.2
 2027,2027,DATE,,,en,7.1000000000000005
 days,days,DATE,,,en,7.1
@@ -57,8 +57,8 @@ annually,annually,DATE,,,en,6.7
 European,European,NORP,,,en,6.699999999999999
 25,25,CARDINAL,,,en,6.6000000000000005
 April,April,DATE,,,en,6.599999999999998
-12,12,CARDINAL,,,en,6.5
 2023,2023,DATE,,,en,6.5
+12,12,CARDINAL,,,en,6.5
 French,French,NORP,,,en,6.4
 this winter,this winter,DATE,,,en,6.299999999999999
 months,months,DATE,,,en,6.2
@@ -256,38 +256,38 @@ fiscal year,fiscal year,DATE,,,en,2.2
 Somalis,Somalis,NORP,,,en,2.2
 winters,winters,DATE,,,en,2.2
 Saudi,Saudi,NORP,,,en,2.2
-132,132,CARDINAL,,,en,2.2
 Winter,Winter,DATE,,,en,2.2
+132,132,CARDINAL,,,en,2.2
 1998,1998,DATE,,,en,2.2
-centuries,centuries,DATE,,,en,2.2
 German,German,NORP,,,en,2.2
-Nazi,Nazi,NORP,,,en,2.2
-Egyptians,Egyptians,NORP,,,en,2.2
-World War I,World War I,EVENT,,,en,2.2
+centuries,centuries,DATE,,,en,2.2
 21,21,CARDINAL,,,en,2.2
+World War I,World War I,EVENT,,,en,2.2
+Egyptians,Egyptians,NORP,,,en,2.2
+Nazi,Nazi,NORP,,,en,2.2
 |,|,CARDINAL,,,en,2.1999999999999997
 2019,2019,DATE,,,en,2.1999999999999997
-65,65,CARDINAL,,,en,2.1
-December,December,DATE,,,en,2.1
-this season,this season,DATE,,,en,2.1
-July 31,July 31,DATE,,,en,2.1
-more than 120,more than 120,CARDINAL,,,en,2.1
 recent decades,recent decades,DATE,,,en,2.1
+more than 120,more than 120,CARDINAL,,,en,2.1
 Irans,Irans,NORP,,,en,2.1
 2100,2100,CARDINAL,,,en,2.1
-September,September,DATE,,,en,2.0
-3D,3D,CARDINAL,,,en,2.0
-1st,1st,DATE,,,en,2.0
-250,250,CARDINAL,,,en,2.0
-Rs 19.99 crore,Rs 19.99 crore,MONEY,,,en,2.0
-this fall,this fall,DATE,,,en,2.0
+December,December,DATE,,,en,2.1
+65,65,CARDINAL,,,en,2.1
+July 31,July 31,DATE,,,en,2.1
+this season,this season,DATE,,,en,2.1
 just 3%,just 3%,PERCENT,,,en,2.0
-Hundreds,Hundreds,CARDINAL,,,en,1.9000000000000001
+Rs 19.99 crore,Rs 19.99 crore,MONEY,,,en,2.0
+250,250,CARDINAL,,,en,2.0
+this fall,this fall,DATE,,,en,2.0
+3D,3D,CARDINAL,,,en,2.0
+September,September,DATE,,,en,2.0
+1st,1st,DATE,,,en,2.0
 the Iran war,the Iran war,EVENT,,,en,1.9000000000000001
-more than a month,more than a month,DATE,,,en,1.9000000000000001
-only about half,only about half,CARDINAL,,,en,1.9000000000000001
-Days,Days,DATE,,,en,1.9000000000000001
 October,October,DATE,,,en,1.9000000000000001
+only about half,only about half,CARDINAL,,,en,1.9000000000000001
+more than a month,more than a month,DATE,,,en,1.9000000000000001
+Days,Days,DATE,,,en,1.9000000000000001
+Hundreds,Hundreds,CARDINAL,,,en,1.9000000000000001
 WWII,WWII,FAC,,,en,1.9000000000000001
 Last week,Last week,DATE,,,en,1.9000000000000001
 37,37,CARDINAL,,,en,1.9000000000000001
@@ -298,18 +298,18 @@ the Ken-Betwa river,the Ken-Betwa river,FAC,,,en,1.9
 up to 12%,up to 12%,PERCENT,,,en,1.9
 billions,billions,CARDINAL,,,en,1.9
 Soviet,Soviet,NORP,,,en,1.9
-"May 20, 2026 /PRNewswire/","May 20, 2026 /PRNewswire/",DATE,,,en,1.9
-early Tuesday,early Tuesday,TIME,,,en,1.9
 Feb. 14,Feb. 14,DATE,,,en,1.9
+"May 20, 2026 /PRNewswire/","May 20, 2026 /PRNewswire/",DATE,,,en,1.9
 the 1960s,the 1960s,DATE,,,en,1.9
 IrriSense 2 Multi-Zone Smart Irrigation System and Sprinkler,IrriSense 2 Multi-Zone Smart Irrigation System and Sprinkler,PRODUCT,,,en,1.9
+early Tuesday,early Tuesday,TIME,,,en,1.9
 "July 14, 2026 /PRNewswire/","July 14, 2026 /PRNewswire/",DATE,,,en,1.9
 the Vietnam War,the Vietnam War,EVENT,,,en,1.9
 Dec. 17,Dec. 17,DATE,,,en,1.9
 No Objection Certificate,No Objection Certificate,WORK_OF_ART,,,en,1.9
 Aztecs,Aztecs,NORP,,,en,1.9
-"650,000","650,000",CARDINAL,,,en,1.9
 the years,the years,DATE,,,en,1.9
+"650,000","650,000",CARDINAL,,,en,1.9
 April 30,April 30,DATE,,,en,1.9
 131,131,CARDINAL,,,en,1.9
 a year,a year,DATE,,,en,1.9
@@ -319,8 +319,8 @@ the early fourteenth century,the early fourteenth century,DATE,,,en,1.9
 $8.9 billion,$8.9 billion,MONEY,,,en,1.9
 "40,000 hectares","40,000 hectares",QUANTITY,,,en,1.9
 every 12 days,every 12 days,DATE,,,en,1.9
-161,161,CARDINAL,,,en,1.9
 469.99,469.99,MONEY,,,en,1.9
+161,161,CARDINAL,,,en,1.9
 Kolab river,Kolab river,FAC,,,en,1.9
 39.99,39.99,MONEY,,,en,1.9
 up to 60 percent,up to 60 percent,PERCENT,,,en,1.9
@@ -390,13 +390,13 @@ the past year,the past year,DATE,,,en,1.9
 Bhokraha Narsingh Rural Municipality-4,Bhokraha Narsingh Rural Municipality-4,FAC,,,en,1.9
 "₹53,752 crore","₹53,752 crore",MONEY,,,en,1.9
 the summer of 2023,the summer of 2023,DATE,,,en,1.9
-three tons,three tons,QUANTITY,,,en,1.9
 Rachio,Rachio,NORP,,,en,1.9
 only five more days,only five more days,DATE,,,en,1.9
 "Jan. 2, 2026 /PRNewswire/","Jan. 2, 2026 /PRNewswire/",DATE,,,en,1.9
 Kerian,Kerian,NORP,-0.06578947368421052,0.19736842105263158,en,1.9
 US$282 million,US$282 million,MONEY,,,en,1.9
 many decades ago,many decades ago,DATE,,,en,1.9
+three tons,three tons,QUANTITY,,,en,1.9
 "June 10, 2026 /PRNewswire/","June 10, 2026 /PRNewswire/",DATE,,,en,1.9
 about Rp5 trillion,about Rp5 trillion,MONEY,,,en,1.9
 14% to 17%,14% to 17%,PERCENT,,,en,1.9
@@ -406,10 +406,10 @@ USD 10.52 billion,USD 10.52 billion,MONEY,,,en,1.9
 New Year's Eve,New Year's Eve,EVENT,,,en,1.9
 the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.8000000000000003
 Democrats,Democrats,NORP,,,en,1.8000000000000003
-Nov 8),Nov 8),DATE,,,en,1.8
 many decades,many decades,DATE,,,en,1.8
 a century,a century,DATE,,,en,1.8
 "at least 30,000","at least 30,000",CARDINAL,,,en,1.8
+Nov 8),Nov 8),DATE,,,en,1.8
 hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.8
 below 3%,below 3%,PERCENT,,,en,1.8
 Lake Mead,Lake Mead,PRODUCT,0.5833333333333334,0.8,en,1.8
@@ -485,9 +485,9 @@ $37.19 -,$37.19 -,MONEY,,,en,1.7
 Drip Line,Drip Line,WORK_OF_ART,,,en,1.7
 78%,78%,PERCENT,,,en,1.7
 154.42,154.42,MONEY,,,en,1.7
-15.40,15.40,MONEY,,,en,1.7
 11.16,11.16,MONEY,,,en,1.7
 Dec 13,Dec 13,DATE,,,en,1.7
+15.40,15.40,MONEY,,,en,1.7
 91',91',MONEY,,,en,1.7
 1/4,1/4,CARDINAL,,,en,1.7
 1972,1972,DATE,,,en,1.7
@@ -554,8 +554,8 @@ Santorini,Santorini,NORP,0.0,0.125,en,1.6
 20%,20%,PERCENT,,,en,1.6
 World Cup,World Cup,EVENT,,,en,1.6
 2016,2016,DATE,,,en,1.6
-"over 38,000 acres","over 38,000 acres",QUANTITY,,,en,1.6
 Black Summer,Black Summer,EVENT,,,en,1.6
+"over 38,000 acres","over 38,000 acres",QUANTITY,,,en,1.6
 Amazonian,Amazonian,NORP,,,en,1.6
 $1 billion,$1 billion,MONEY,,,en,1.6
 Arab,Arab,NORP,,,en,1.6
@@ -589,9 +589,9 @@ Himalayan,Himalayan,NORP,,,en,1.5000000000000002
 2012,2012,DATE,,,en,1.5
 31,31,CARDINAL,,,en,1.4000000000000004
 2034,2034,DATE,,,en,1.4000000000000004
-at least nine,at least nine,CARDINAL,,,en,1.4000000000000001
 Martian,Martian,PRODUCT,,,en,1.4000000000000001
 1991,1991,DATE,,,en,1.4000000000000001
+at least nine,at least nine,CARDINAL,,,en,1.4000000000000001
 the past week,the past week,DATE,,,en,1.4
 the Week,the Week,DATE,,,en,1.4
 007,007,CARDINAL,,,en,1.4
@@ -601,10 +601,10 @@ third-quarter,third-quarter,DATE,,,en,1.3000000000000003
 Hurricane Melissa,Hurricane Melissa,EVENT,,,en,1.3000000000000003
 Thanksgiving,Thanksgiving,DATE,,,en,1.3000000000000003
 Mineral Clay,Mineral Clay,PRODUCT,,,en,1.3
+over 2 million,over 2 million,CARDINAL,,,en,1.3
 Craftsman Truck Series,Craftsman Truck Series,WORK_OF_ART,,,en,1.3
 the Cup Series,the Cup Series,EVENT,,,en,1.3
 three years,three years,DATE,,,en,1.3
-over 2 million,over 2 million,CARDINAL,,,en,1.3
 250th,250th,ORDINAL,,,en,1.3
 At least 37,At least 37,CARDINAL,,,en,1.3
 zero,zero,CARDINAL,,,en,1.3
@@ -634,13 +634,13 @@ November 2022,November 2022,DATE,,,en,1.3
 the end of 2025,the end of 2025,DATE,,,en,1.3
 the summer months,the summer months,DATE,,,en,1.3
 m²,m²,PRODUCT,,,en,1.3
+the early hours,the early hours,TIME,,,en,1.3
 +1131 chars,+1131 chars,WORK_OF_ART,,,en,1.3
 699,699,MONEY,,,en,1.3
-the early hours,the early hours,TIME,,,en,1.3
 68th,68th,ORDINAL,,,en,1.3
 month-long,month-long,DATE,,,en,1.3
 Mesopotamians,Mesopotamians,NORP,,,en,1.3
-$434 million,$434 million,MONEY,,,en,1.3
+1.2 billion,1.2 billion,CARDINAL,,,en,1.3
 the next few weeks,the next few weeks,DATE,,,en,1.3
 More than one,More than one,CARDINAL,,,en,1.3
 earlier this month,earlier this month,DATE,,,en,1.3
@@ -667,8 +667,8 @@ a dozen,a dozen,CARDINAL,,,en,1.3
 Cornish,Cornish,NORP,,,en,1.3
 A Knight of the Seven Kingdoms,A Knight of the Seven Kingdoms,WORK_OF_ART,,,en,1.3
 "Saturday, July 18","Saturday, July 18",DATE,,,en,1.3
+$434 million,$434 million,MONEY,,,en,1.3
 Jan 29,Jan 29,DATE,,,en,1.3
-1.2 billion,1.2 billion,CARDINAL,,,en,1.3
 late January,late January,DATE,,,en,1.3
 early winter,early winter,DATE,,,en,1.3
 summers,summers,DATE,,,en,1.3
@@ -1641,9 +1641,9 @@ Lake Mead's,Lake Mead's,FAC,,,en,1.0
 1982,1982,DATE,,,en,1.0
 "the Three and Nine Months Ending September 30, 2025","the Three and Nine Months Ending September 30, 2025",DATE,,,en,1.0
 +10974,+10974,CARDINAL,,,en,1.0
-32,32,CARDINAL,,,en,1.0
 2025  ,2025  ,QUANTITY,,,en,1.0
 Nov.  12,Nov.  12,DATE,,,en,1.0
+32,32,CARDINAL,,,en,1.0
 11/12/2025 5:10,11/12/2025 5:10,TIME,,,en,1.0
 Month - November 2025,Month - November 2025,DATE,,,en,1.0
 Month - November 2025 | Eyesore,Month - November 2025 | Eyesore,DATE,,,en,1.0
@@ -1709,11 +1709,11 @@ Patriot,Patriot,PRODUCT,,,en,1.0
 +2426 chars,+2426 chars,WORK_OF_ART,,,en,1.0
 years end,years end,DATE,,,en,1.0
 year's end,year's end,DATE,,,en,1.0
-Missourians,Missourians,NORP,,,en,1.0
 11.9%,11.9%,PERCENT,,,en,1.0
 US$ 38.84 billion,US$ 38.84 billion,MONEY,,,en,1.0
 US$ 14.12 billion,US$ 14.12 billion,MONEY,,,en,1.0
 US$ 38.84 Billion,US$ 38.84 Billion,MONEY,,,en,1.0
+Missourians,Missourians,NORP,,,en,1.0
 +4386,+4386,NORP,,,en,1.0
 "Monday, November 10","Monday, November 10",DATE,,,en,1.0
 11/10/2025 9:32:48 AM PST,11/10/2025 9:32:48 AM PST,TIME,,,en,1.0

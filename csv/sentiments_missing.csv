@@ -43,8 +43,8 @@ dozens,dozens,CARDINAL,,,en,7.8999999999999995
 countrys,countrys,NORP,,,en,7.800000000000001
 American,American,NORP,,,en,7.599999999999999
 millions,millions,CARDINAL,,,en,7.499999999999997
-June-July,June-July,DATE,,,en,7.3999999999999995
 Chinese,Chinese,NORP,,,en,7.3999999999999995
+June-July,June-July,DATE,,,en,7.3999999999999995
 Three,Three,CARDINAL,,,en,7.2
 2027,2027,DATE,,,en,7.1000000000000005
 days,days,DATE,,,en,7.1
@@ -57,8 +57,8 @@ annually,annually,DATE,,,en,6.7
 European,European,NORP,,,en,6.699999999999999
 25,25,CARDINAL,,,en,6.6000000000000005
 April,April,DATE,,,en,6.599999999999998
-2023,2023,DATE,,,en,6.5
 12,12,CARDINAL,,,en,6.5
+2023,2023,DATE,,,en,6.5
 French,French,NORP,,,en,6.4
 this winter,this winter,DATE,,,en,6.299999999999999
 months,months,DATE,,,en,6.2
@@ -92,9 +92,9 @@ seasons,seasons,DATE,,,en,4.7
 morning,morning,TIME,,,en,4.699999999999999
 third,third,ORDINAL,,,en,4.699999999999999
 this spring,this spring,DATE,,,en,4.500000000000001
-fourth-quarter,fourth-quarter,DATE,,,en,4.5
-the quarter,the quarter,DATE,,,en,4.5
 Americans,Americans,NORP,,,en,4.5
+the quarter,the quarter,DATE,,,en,4.5
+fourth-quarter,fourth-quarter,DATE,,,en,4.5
 6,6,CARDINAL,,,en,4.3
 200,200,CARDINAL,,,en,4.3
 15,15,CARDINAL,,,en,4.3
@@ -256,8 +256,8 @@ fiscal year,fiscal year,DATE,,,en,2.2
 Somalis,Somalis,NORP,,,en,2.2
 winters,winters,DATE,,,en,2.2
 Saudi,Saudi,NORP,,,en,2.2
-Winter,Winter,DATE,,,en,2.2
 132,132,CARDINAL,,,en,2.2
+Winter,Winter,DATE,,,en,2.2
 1998,1998,DATE,,,en,2.2
 German,German,NORP,,,en,2.2
 centuries,centuries,DATE,,,en,2.2
@@ -267,24 +267,24 @@ Egyptians,Egyptians,NORP,,,en,2.2
 Nazi,Nazi,NORP,,,en,2.2
 |,|,CARDINAL,,,en,2.1999999999999997
 2019,2019,DATE,,,en,2.1999999999999997
-recent decades,recent decades,DATE,,,en,2.1
 more than 120,more than 120,CARDINAL,,,en,2.1
 Irans,Irans,NORP,,,en,2.1
-2100,2100,CARDINAL,,,en,2.1
+recent decades,recent decades,DATE,,,en,2.1
 December,December,DATE,,,en,2.1
+2100,2100,CARDINAL,,,en,2.1
 65,65,CARDINAL,,,en,2.1
 July 31,July 31,DATE,,,en,2.1
 this season,this season,DATE,,,en,2.1
+this fall,this fall,DATE,,,en,2.0
 just 3%,just 3%,PERCENT,,,en,2.0
 Rs 19.99 crore,Rs 19.99 crore,MONEY,,,en,2.0
 250,250,CARDINAL,,,en,2.0
-this fall,this fall,DATE,,,en,2.0
-3D,3D,CARDINAL,,,en,2.0
-September,September,DATE,,,en,2.0
 1st,1st,DATE,,,en,2.0
+September,September,DATE,,,en,2.0
+3D,3D,CARDINAL,,,en,2.0
 the Iran war,the Iran war,EVENT,,,en,1.9000000000000001
-October,October,DATE,,,en,1.9000000000000001
 only about half,only about half,CARDINAL,,,en,1.9000000000000001
+October,October,DATE,,,en,1.9000000000000001
 more than a month,more than a month,DATE,,,en,1.9000000000000001
 Days,Days,DATE,,,en,1.9000000000000001
 Hundreds,Hundreds,CARDINAL,,,en,1.9000000000000001
@@ -319,8 +319,8 @@ the early fourteenth century,the early fourteenth century,DATE,,,en,1.9
 $8.9 billion,$8.9 billion,MONEY,,,en,1.9
 "40,000 hectares","40,000 hectares",QUANTITY,,,en,1.9
 every 12 days,every 12 days,DATE,,,en,1.9
-469.99,469.99,MONEY,,,en,1.9
 161,161,CARDINAL,,,en,1.9
+469.99,469.99,MONEY,,,en,1.9
 Kolab river,Kolab river,FAC,,,en,1.9
 39.99,39.99,MONEY,,,en,1.9
 up to 60 percent,up to 60 percent,PERCENT,,,en,1.9
@@ -410,7 +410,7 @@ many decades,many decades,DATE,,,en,1.8
 a century,a century,DATE,,,en,1.8
 "at least 30,000","at least 30,000",CARDINAL,,,en,1.8
 Nov 8),Nov 8),DATE,,,en,1.8
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.8
+2017,2017,DATE,,,en,1.8
 below 3%,below 3%,PERCENT,,,en,1.8
 Lake Mead,Lake Mead,PRODUCT,0.5833333333333334,0.8,en,1.8
 tens of thousands,tens of thousands,CARDINAL,,,en,1.8
@@ -419,8 +419,8 @@ Du,Du,WORK_OF_ART,,,en,1.8
 more than 30%,more than 30%,PERCENT,,,en,1.8
 June 13 every year,June 13 every year,DATE,,,en,1.8
 the 1970s,the 1970s,DATE,,,en,1.8
-2017,2017,DATE,,,en,1.8
 33 feet,33 feet,QUANTITY,,,en,1.8
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.8
 "Wednesday, days","Wednesday, days",DATE,,,en,1.8
 next week,next week,DATE,,,en,1.8
 Zero,Zero,CARDINAL,,,en,1.8
@@ -536,7 +536,7 @@ four months,four months,DATE,,,en,1.7
 6.294m,6.294m,QUANTITY,,,en,1.7
 Scandinavian,Scandinavian,NORP,,,en,1.7
 July 16,July 16,DATE,,,en,1.7
-Feb 11,Feb 11,DATE,,,en,1.7
+14.74%,14.74%,PERCENT,,,en,1.7
 just three,just three,CARDINAL,,,en,1.7
 2.39,2.39,MONEY,,,en,1.7
 16.18,16.18,MONEY,,,en,1.7
@@ -544,7 +544,7 @@ just three,just three,CARDINAL,,,en,1.7
 long days,long days,DATE,,,en,1.7
 the Irrigation Water Utilization Improvement Acceleration Program,the Irrigation Water Utilization Improvement Acceleration Program,LAW,,,en,1.7
 more than three weeks ago,more than three weeks ago,DATE,,,en,1.7
-14.74%,14.74%,PERCENT,,,en,1.7
+Feb 11,Feb 11,DATE,,,en,1.7
 at least 20,at least 20,CARDINAL,,,en,1.6000000000000005
 Nov. 12,Nov. 12,DATE,,,en,1.6000000000000005
 North American,North American,NORP,,,en,1.6000000000000003
@@ -572,9 +572,9 @@ the first three months of the year,the first three months of the year,DATE,,,en,
 at least 31,at least 31,CARDINAL,,,en,1.6
 Eurasian,Eurasian,NORP,,,en,1.6
 56,56,CARDINAL,,,en,1.6
-nearly half,nearly half,CARDINAL,,,en,1.6
 850,850,CARDINAL,,,en,1.6
 Interstate 17,Interstate 17,FAC,,,en,1.6
+nearly half,nearly half,CARDINAL,,,en,1.6
 VPN,VPN,PRODUCT,,,en,1.6
 "nearly 1,000","nearly 1,000",CARDINAL,,,en,1.6
 winter season,winter season,DATE,,,en,1.6
@@ -589,8 +589,8 @@ Himalayan,Himalayan,NORP,,,en,1.5000000000000002
 2012,2012,DATE,,,en,1.5
 31,31,CARDINAL,,,en,1.4000000000000004
 2034,2034,DATE,,,en,1.4000000000000004
-Martian,Martian,PRODUCT,,,en,1.4000000000000001
 1991,1991,DATE,,,en,1.4000000000000001
+Martian,Martian,PRODUCT,,,en,1.4000000000000001
 at least nine,at least nine,CARDINAL,,,en,1.4000000000000001
 the past week,the past week,DATE,,,en,1.4
 the Week,the Week,DATE,,,en,1.4
@@ -601,13 +601,13 @@ third-quarter,third-quarter,DATE,,,en,1.3000000000000003
 Hurricane Melissa,Hurricane Melissa,EVENT,,,en,1.3000000000000003
 Thanksgiving,Thanksgiving,DATE,,,en,1.3000000000000003
 Mineral Clay,Mineral Clay,PRODUCT,,,en,1.3
-over 2 million,over 2 million,CARDINAL,,,en,1.3
 Craftsman Truck Series,Craftsman Truck Series,WORK_OF_ART,,,en,1.3
 the Cup Series,the Cup Series,EVENT,,,en,1.3
 three years,three years,DATE,,,en,1.3
+over 2 million,over 2 million,CARDINAL,,,en,1.3
 250th,250th,ORDINAL,,,en,1.3
 At least 37,At least 37,CARDINAL,,,en,1.3
-zero,zero,CARDINAL,,,en,1.3
+ten,ten,CARDINAL,,,en,1.3
 49 billion,49 billion,CARDINAL,,,en,1.3
 20 years,20 years,DATE,,,en,1.3
 these first few months of the year,these first few months of the year,DATE,,,en,1.3
@@ -615,11 +615,11 @@ these first few months of the year,these first few months of the year,DATE,,,en,
 as much as 399 billion gallons,as much as 399 billion gallons,MONEY,,,en,1.3
 10 December 2025,10 December 2025,DATE,,,en,1.3
 Fourth of July,Fourth of July,DATE,,,en,1.3
-ten,ten,CARDINAL,,,en,1.3
+zero,zero,CARDINAL,,,en,1.3
 IPCC,IPCC,PRODUCT,,,en,1.3
 Ten years ago,Ten years ago,DATE,,,en,1.3
 Byzantium,Byzantium,NORP,,,en,1.3
-as many as 1.8 billion,as many as 1.8 billion,CARDINAL,,,en,1.3
+68th,68th,ORDINAL,,,en,1.3
 up to $2.46 billion,up to $2.46 billion,MONEY,,,en,1.3
 nearly 2 million,nearly 2 million,CARDINAL,,,en,1.3
 a full month,a full month,DATE,,,en,1.3
@@ -634,13 +634,13 @@ November 2022,November 2022,DATE,,,en,1.3
 the end of 2025,the end of 2025,DATE,,,en,1.3
 the summer months,the summer months,DATE,,,en,1.3
 m²,m²,PRODUCT,,,en,1.3
-the early hours,the early hours,TIME,,,en,1.3
 +1131 chars,+1131 chars,WORK_OF_ART,,,en,1.3
 699,699,MONEY,,,en,1.3
-68th,68th,ORDINAL,,,en,1.3
+the early hours,the early hours,TIME,,,en,1.3
+as many as 1.8 billion,as many as 1.8 billion,CARDINAL,,,en,1.3
 month-long,month-long,DATE,,,en,1.3
 Mesopotamians,Mesopotamians,NORP,,,en,1.3
-1.2 billion,1.2 billion,CARDINAL,,,en,1.3
+$434 million,$434 million,MONEY,,,en,1.3
 the next few weeks,the next few weeks,DATE,,,en,1.3
 More than one,More than one,CARDINAL,,,en,1.3
 earlier this month,earlier this month,DATE,,,en,1.3
@@ -667,8 +667,8 @@ a dozen,a dozen,CARDINAL,,,en,1.3
 Cornish,Cornish,NORP,,,en,1.3
 A Knight of the Seven Kingdoms,A Knight of the Seven Kingdoms,WORK_OF_ART,,,en,1.3
 "Saturday, July 18","Saturday, July 18",DATE,,,en,1.3
-$434 million,$434 million,MONEY,,,en,1.3
 Jan 29,Jan 29,DATE,,,en,1.3
+1.2 billion,1.2 billion,CARDINAL,,,en,1.3
 late January,late January,DATE,,,en,1.3
 early winter,early winter,DATE,,,en,1.3
 summers,summers,DATE,,,en,1.3
@@ -778,40 +778,40 @@ Spider,Spider,PRODUCT,,,en,1.2000000000000002
 Ceratitis,Ceratitis,NORP,,,en,1.2000000000000002
 two-thirds,two-thirds,CARDINAL,,,en,1.2
 OnlyFans,OnlyFans,NORP,,,en,1.2
-up to 40%,up to 40%,PERCENT,,,en,1.2
+more than a dozen,more than a dozen,CARDINAL,,,en,1.2
 "as much as 50,000","as much as 50,000",QUANTITY,,,en,1.2
 Canyons,Canyons,FAC,,,en,1.2
-more than a dozen,more than a dozen,CARDINAL,,,en,1.2
-over 95 million dollars,over 95 million dollars,MONEY,,,en,1.2
 Blood Rain,Blood Rain,PRODUCT,,,en,1.2
 Purple Rain Musical Sets Broadway Opening for Spring,Purple Rain Musical Sets Broadway Opening for Spring,WORK_OF_ART,,,en,1.2
+over 95 million dollars,over 95 million dollars,MONEY,,,en,1.2
 one week,one week,DATE,,,en,1.2
 5.99,5.99,MONEY,,,en,1.2
 "April 5, 2026","April 5, 2026",DATE,,,en,1.2
-next year,next year,DATE,,,en,1.2
-Two years,Two years,DATE,,,en,1.2
-4.49,4.49,MONEY,,,en,1.2
-nearly 14 years,nearly 14 years,DATE,,,en,1.2
 29,29,CARDINAL,,,en,1.2
+4.49,4.49,MONEY,,,en,1.2
+next year,next year,DATE,,,en,1.2
+nearly 14 years,nearly 14 years,DATE,,,en,1.2
 48%,48%,PERCENT,,,en,1.2
+up to 40%,up to 40%,PERCENT,,,en,1.2
+Two years,Two years,DATE,,,en,1.2
+Nearly 80 percent,Nearly 80 percent,PERCENT,,,en,1.1
+about 900 million,about 900 million,CARDINAL,,,en,1.1
+1.5 billion,1.5 billion,CARDINAL,,,en,1.1
+Chinook,Chinook,PRODUCT,,,en,1.1
 "November 9-10, 2025","November 9-10, 2025",DATE,,,en,1.1
+more than 250 years,more than 250 years,DATE,,,en,1.1
 "Abstract
 ","Abstract
 ",WORK_OF_ART,,,en,1.1
-redmagic 11,redmagic 11,FAC,,,en,1.1
 Another year,Another year,DATE,,,en,1.1
 "Rs 1,441 crore","Rs 1,441 crore",MONEY,,,en,1.1
-Chinook,Chinook,PRODUCT,,,en,1.1
-Swiss,Swiss,NORP,,,en,1.1
-1.5 billion,1.5 billion,CARDINAL,,,en,1.1
-about 900 million,about 900 million,CARDINAL,,,en,1.1
-Nearly 80 percent,Nearly 80 percent,PERCENT,,,en,1.1
-more than 250 years,more than 250 years,DATE,,,en,1.1
 Himalayas,Himalayas,NORP,,,en,1.1
+redmagic 11,redmagic 11,FAC,,,en,1.1
 25th,25th,ORDINAL,,,en,1.1
+Swiss,Swiss,NORP,,,en,1.1
 a few kg,a few kg,QUANTITY,,,en,1.1
 3 November 2025,3 November 2025,DATE,,,en,1.1
-November 13,November 13,DATE,,,en,1.1
+USD 126.57 billion,USD 126.57 billion,MONEY,,,en,1.1
 Nov. 11,Nov. 11,DATE,,,en,1.1
 the previous month,the previous month,DATE,,,en,1.1
 two-month,two-month,DATE,,,en,1.1
@@ -834,74 +834,74 @@ Thirty-one,Thirty-one,CARDINAL,,,en,1.1
 millions of years,millions of years,DATE,,,en,1.1
 Stamina,Stamina,PRODUCT,,,en,1.1
 35mm,35mm,QUANTITY,,,en,1.1
-USD 126.57 billion,USD 126.57 billion,MONEY,,,en,1.1
+November 13,November 13,DATE,,,en,1.1
 Influencers,Influencers,NORP,,,en,1.1
 the eighteenth and nineteenth century,the eighteenth and nineteenth century,DATE,,,en,1.1
-almost 200%,almost 200%,PERCENT,,,en,1.1
-at least 34,at least 34,CARDINAL,,,en,1.1
+"only 5,000","only 5,000",CARDINAL,,,en,1.1
+the Special Development Package,the Special Development Package,LAW,,,en,1.1
 the US Civil War,the US Civil War,EVENT,,,en,1.1
 the late 1950s,the late 1950s,DATE,,,en,1.1
 Two weeks ago,Two weeks ago,DATE,,,en,1.1
 these days,these days,DATE,,,en,1.1
-Hindu,Hindu,NORP,,,en,1.1
 Nov. 2,Nov. 2,DATE,,,en,1.1
-"only 5,000","only 5,000",CARDINAL,,,en,1.1
-hundreds and thousands,hundreds and thousands,CARDINAL,,,en,1.1
-this November,this November,DATE,,,en,1.1
-Only 2,Only 2,CARDINAL,,,en,1.1
-Garmin,Garmin,PRODUCT,,,en,1.1
-65th,65th,ORDINAL,,,en,1.1
+at least 34,at least 34,CARDINAL,,,en,1.1
 Disneyland,Disneyland,FAC,,,en,1.1
 next month,next month,DATE,,,en,1.1
-Sunday afternoon,Sunday afternoon,TIME,,,en,1.1
 later this month,later this month,DATE,,,en,1.1
+65th,65th,ORDINAL,,,en,1.1
+Garmin,Garmin,PRODUCT,,,en,1.1
+Only 2,Only 2,CARDINAL,,,en,1.1
+this November,this November,DATE,,,en,1.1
+Hindu,Hindu,NORP,,,en,1.1
+hundreds and thousands,hundreds and thousands,CARDINAL,,,en,1.1
+18k miles,18k miles,QUANTITY,,,en,1.1
+Sunday afternoon,Sunday afternoon,TIME,,,en,1.1
+almost 200%,almost 200%,PERCENT,,,en,1.1
 2010,2010,DATE,,,en,1.1
 a World Cup,a World Cup,EVENT,,,en,1.1
-several days,several days,DATE,,,en,1.1
 Nov 2,Nov 2,DATE,,,en,1.1
+several days,several days,DATE,,,en,1.1
 this Tuesday,this Tuesday,DATE,,,en,1.1
-the Special Development Package,the Special Development Package,LAW,,,en,1.1
 November 6,November 6,DATE,,,en,1.1
-18k miles,18k miles,QUANTITY,,,en,1.1
+this fiscal year,this fiscal year,DATE,,,en,1.0
 the 2026 WNBA season,the 2026 WNBA season,DATE,,,en,1.0
+420 kilometres,420 kilometres,QUANTITY,,,en,1.0
+Water Law,Water Law,LAW,,,en,1.0
+WMES,WMES,PRODUCT,,,en,1.0
+from -4°F to,from -4°F to,QUANTITY,,,en,1.0
+53 long years,53 long years,DATE,,,en,1.0
+Iran war cloud growth outlook,Iran war cloud growth outlook,EVENT,,,en,1.0
+7mm,7mm,QUANTITY,,,en,1.0
+19.90,19.90,MONEY,,,en,1.0
+Last year,Last year,DATE,,,en,1.0
+4mm,4mm,QUANTITY,,,en,1.0
+1.59 million hectares,1.59 million hectares,QUANTITY,,,en,1.0
 Finals,Finals,WORK_OF_ART,,,en,1.0
 10.1,10.1,CARDINAL,,,en,1.0
-53 long years,53 long years,DATE,,,en,1.0
-Thiruvananthapuram,Thiruvananthapuram,WORK_OF_ART,0.0,0.0,en,1.0
-Skift IDEA Awards,Skift IDEA Awards,LAW,,,en,1.0
 5.1,5.1,CARDINAL,,,en,1.0
-from -4°F to,from -4°F to,QUANTITY,,,en,1.0
-19.90,19.90,MONEY,,,en,1.0
-this fiscal year,this fiscal year,DATE,,,en,1.0
-Iran war cloud growth outlook,Iran war cloud growth outlook,EVENT,,,en,1.0
-420 kilometres,420 kilometres,QUANTITY,,,en,1.0
-Last year,Last year,DATE,,,en,1.0
-Goa,Goa,NORP,0.029264214046822744,0.1045150501672241,en,1.0
-One night,One night,TIME,,,en,1.0
+Skift IDEA Awards,Skift IDEA Awards,LAW,,,en,1.0
+hottest-year,hottest-year,DATE,,,en,1.0
+Blackfeet,Blackfeet,NORP,,,en,1.0
+San Carlos Reservoir,San Carlos Reservoir,FAC,0.0,0.3,en,1.0
 eleven year-long,eleven year-long,DATE,,,en,1.0
-4mm,4mm,QUANTITY,,,en,1.0
-7mm,7mm,QUANTITY,,,en,1.0
-WMES,WMES,PRODUCT,,,en,1.0
-Water Law,Water Law,LAW,,,en,1.0
-1.59 million hectares,1.59 million hectares,QUANTITY,,,en,1.0
-a 'Great Irrigation' of Society,a 'Great Irrigation' of Society,PRODUCT,,,en,1.0
+its third year,its third year,DATE,,,en,1.0
+115 degrees,115 degrees,QUANTITY,,,en,1.0
++26283,+26283,NORP,,,en,1.0
+series,series,EVENT,,,en,1.0
+807 billion cubic metres,807 billion cubic metres,QUANTITY,,,en,1.0
 "Android Central
 ","Android Central
 ",PRODUCT,,,en,1.0
-+26283,+26283,NORP,,,en,1.0
-its third year,its third year,DATE,,,en,1.0
-Blackfeet,Blackfeet,NORP,,,en,1.0
-Stage 3,Stage 3,PRODUCT,,,en,1.0
-115 degrees,115 degrees,QUANTITY,,,en,1.0
-series,series,EVENT,,,en,1.0
-807 billion cubic metres,807 billion cubic metres,QUANTITY,,,en,1.0
-San Carlos Reservoir,San Carlos Reservoir,FAC,0.0,0.3,en,1.0
 All Summer,All Summer,DATE,,,en,1.0
-hottest-year,hottest-year,DATE,,,en,1.0
+Thiruvananthapuram,Thiruvananthapuram,WORK_OF_ART,0.0,0.0,en,1.0
+23%,23%,PERCENT,,,en,1.0
 Winter 2026,Winter 2026,DATE,,,en,1.0
 End Is Written in the Clouds,End Is Written in the Clouds,WORK_OF_ART,,,en,1.0
+a 'Great Irrigation' of Society,a 'Great Irrigation' of Society,PRODUCT,,,en,1.0
 just over a third,just over a third,CARDINAL,,,en,1.0
-23%,23%,PERCENT,,,en,1.0
+Stage 3,Stage 3,PRODUCT,,,en,1.0
+One night,One night,TIME,,,en,1.0
+Goa,Goa,NORP,0.029264214046822744,0.1045150501672241,en,1.0
 Almost 27 million,Almost 27 million,CARDINAL,,,en,1.0
 $500 MSRP,$500 MSRP,MONEY,,,en,1.0
 360,360,CARDINAL,,,en,1.0
@@ -1141,9 +1141,9 @@ between ten and,between ten and,TIME,,,en,1.0
 a more than 20 percent,a more than 20 percent,PERCENT,,,en,1.0
 twenty percent,twenty percent,PERCENT,,,en,1.0
 some 92 million,some 92 million,CARDINAL,,,en,1.0
-11201129,11201129,DATE,,,en,1.0
-"140,000 acres","140,000 acres",QUANTITY,,,en,1.0
 384388,384388,CARDINAL,,,en,1.0
+"140,000 acres","140,000 acres",QUANTITY,,,en,1.0
+11201129,11201129,DATE,,,en,1.0
 up to 33%,up to 33%,PERCENT,,,en,1.0
 Up to 33%,Up to 33%,PERCENT,,,en,1.0
 "nearly 50,000","nearly 50,000",CARDINAL,,,en,1.0
@@ -1157,7 +1157,7 @@ just 1 per cent,just 1 per cent,MONEY,,,en,1.0
 driest July,driest July,DATE,,,en,1.0
 ​driest month,​driest month,DATE,,,en,1.0
 Since 1980s,Since 1980s,DATE,,,en,1.0
-Enviropreneur,Enviropreneur,WORK_OF_ART,,,en,1.0
+M4,M4,CARDINAL,,,en,1.0
 many weeks,many weeks,DATE,,,en,1.0
 nearly 49 million,nearly 49 million,CARDINAL,,,en,1.0
 the Main Ravi Canal,the Main Ravi Canal,FAC,,,en,1.0
@@ -1174,7 +1174,7 @@ $1.04 billion,$1.04 billion,MONEY,,,en,1.0
 Croatian,Croatian,NORP,,,en,1.0
 winter 2026-27,winter 2026-27,DATE,,,en,1.0
 1950,1950,DATE,,,en,1.0
-the Enviropreneur Fellowsh,the Enviropreneur Fellowsh,PRODUCT,,,en,1.0
+Enviropreneur,Enviropreneur,WORK_OF_ART,,,en,1.0
 mid-March,mid-March,DATE,,,en,1.0
 Cursor CLI Flaw + 17,Cursor CLI Flaw + 17,PRODUCT,,,en,1.0
 FY31,FY31,PRODUCT,,,en,1.0
@@ -1187,7 +1187,7 @@ Essex Mansion,Essex Mansion,FAC,,,en,1.0
 Durban Meeting,Durban Meeting,EVENT,,,en,1.0
 Southern African,Southern African,NORP,,,en,1.0
 More than two decades,More than two decades,DATE,,,en,1.0
-M4,M4,CARDINAL,,,en,1.0
+the Enviropreneur Fellowsh,the Enviropreneur Fellowsh,PRODUCT,,,en,1.0
 "Close to 50,000","Close to 50,000",CARDINAL,,,en,1.0
 Worst Drought and Heatwave Ever,Worst Drought and Heatwave Ever,WORK_OF_ART,,,en,1.0
 71.3%,71.3%,PERCENT,,,en,1.0
@@ -1641,9 +1641,9 @@ Lake Mead's,Lake Mead's,FAC,,,en,1.0
 1982,1982,DATE,,,en,1.0
 "the Three and Nine Months Ending September 30, 2025","the Three and Nine Months Ending September 30, 2025",DATE,,,en,1.0
 +10974,+10974,CARDINAL,,,en,1.0
+32,32,CARDINAL,,,en,1.0
 2025  ,2025  ,QUANTITY,,,en,1.0
 Nov.  12,Nov.  12,DATE,,,en,1.0
-32,32,CARDINAL,,,en,1.0
 11/12/2025 5:10,11/12/2025 5:10,TIME,,,en,1.0
 Month - November 2025,Month - November 2025,DATE,,,en,1.0
 Month - November 2025 | Eyesore,Month - November 2025 | Eyesore,DATE,,,en,1.0
@@ -1910,10 +1910,10 @@ the Boca Raton Airport,the Boca Raton Airport,FAC,,,en,1.0
 "Monday, Oct. 27","Monday, Oct. 27",DATE,,,en,1.0
 as of 7 a.m.,as of 7 a.m.,TIME,,,en,1.0
 Boca Raton Airport,Boca Raton Airport,FAC,,,en,1.0
-just a few decades,just a few decades,DATE,,,en,1.0
-Burmese,Burmese,NORP,,,en,1.0
 Oakland Hills,Oakland Hills,FAC,,,en,1.0
 earlier this year,earlier this year,DATE,,,en,1.0
+just a few decades,just a few decades,DATE,,,en,1.0
+Burmese,Burmese,NORP,,,en,1.0
 1000,1000,MONEY,,,en,1.0
 The year was 1965,The year was 1965,DATE,,,en,1.0
 about 40,about 40,CARDINAL,,,en,1.0
